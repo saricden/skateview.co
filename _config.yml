@@ -1,0 +1,13 @@
+# Site settings
+title: Skateview - 360 panoramas of the worlds skate parks
+email: your-email@domain.com
+description: >
+  Explore the worlds skateparks .. ddfs fd sdf fds ddfs
+  fds fdf gffgfwewe gd fgfg dfgfdg dfg fdgfdg dfg fdgfdg
+  dfgfd gffgdf df.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://skateview.co" # the base hostname & protocol for your site
+twitter_username: skateview2
+
+# Build settings
+markdown: kramdown

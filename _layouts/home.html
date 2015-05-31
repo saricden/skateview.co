@@ -1,22 +1,19 @@
 ---
 layout: wrapper
 ---
-<header class="clear">
-  <a href class="logo">
-    <img src="/src/img/logo.png">
-  </a>
+<a href class="logo homepage_var">
+  <img src="/src/img/logo.png" alt="Skateview">
+</a>
 
-  <nav>
-    <a href>About</a>
-    <a href>Archives</a>
-    <a href>Contact</a>
-    <a href>Twitter</a>
-    
-  </nav>
-</header>
+<nav class="homepage_var">
+  <a href>About</a>
+  <a href>Archives</a>
+  <a href>Contact</a>
+  <a href>Twitter</a>
+</nav>
 
-<div class="welcome-message">
+<div class="col five homepage_var">
   {{ content }}
 </div>
 
-<div id="map-canvas"></div>
+<div id="map-canvas" class="bgfill"></div>

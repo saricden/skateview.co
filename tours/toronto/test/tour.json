@@ -1,0 +1,48 @@
+{
+    "default": {
+        "author": "Kirk Morris",
+        "firstScene": "csi",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+    
+    "scenes": {
+        "csi": {
+            "title": "CSI After the Hackathon",
+            "panorama": "./csi.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 350,
+                    "type": "scene",
+                    "text": "Teleport to Pootown",
+                    "sceneId": "pootown"
+                }
+            ]
+        },
+        "pootown": {
+            "title": "Late night work",
+            "panorama": "./pxs.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 330,
+                    "type": "scene",
+                    "text": "Go back to CSI",
+                    "sceneId": "csi"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 280,
+                    "type": "scene",
+                    "text": "Go to my apartment",
+                    "sceneId": "appt"
+                }
+            ]
+        },
+        "appt": {
+            "title": "My apartment",
+            "panorama": "./my-appt.jpg"
+        }
+    }
+}

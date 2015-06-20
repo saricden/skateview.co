@@ -258,6 +258,14 @@ footer.page_var {
   background-color: #000;
 }
 
+/* Tour variants
+------------------------------------- */
+.tour {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
 /* Animations
 ------------------------------------- */
 nav a {

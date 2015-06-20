@@ -15,7 +15,7 @@ saricden.com
 html, body {
   width: 100%;
   height: 100%;
-  background-color: #000;
+  background-color: #BBB;
 }
 nav {
   float: right;
@@ -23,6 +23,13 @@ nav {
 nav a {
   display: block;
   float: left;
+  line-height: 90px;
+  padding: 0 15px;
+  color: #FFF;
+}
+nav a:hover {
+  color: #000;
+  background-color: #FFF;
 }
 p {
   margin-bottom: 20px;
@@ -36,20 +43,19 @@ h1, h2, h3 ,h4, h5, h6 {
   line-height: 1em;
 }
 h1 {
-  font-size: 50px;
+  font-size: 74px;
 }
-
 
 /* Layout stuff
 ------------------------------------- */
-.fullpanel:after, .centerpanel:after, .logo:after {
+.fullpanel:after, .centerpanel:after, .logo:after, footer:after {
   display: block;
   content: "";
   clear: both;
 }
 .centerpanel {
   width: 100%;
-  max-width: 1200px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 .bgfill {
@@ -60,7 +66,10 @@ h1 {
   width: 100%;
   height: 100%;
 }
-.col { float: left; }
+.col {
+  display: block;
+  float: left;
+}
 .two { width: 16%; }
 .three { width: 25%; }
 .four { width: 33%; }
@@ -80,9 +89,71 @@ h1 {
 .logo img {
   display: block;
   float: left;
-  width: 80px;
-  height: 80px;
+  width: 70px;
+  height: 70px;
+  margin-top: 10px;
 }
+.floating_nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 90px;
+  padding: 0 20px;
+}
+.floating_nav.scrolled {
+  height: 80px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.floating_nav.scrolled .logo img {
+  width: 60px;
+  height: 60px;
+}
+.floating_nav.scrolled nav a {
+  line-height: 80px;
+}
+.btn {
+  display: inline-block;
+  padding: 20px 30px;
+  color: #FFF;
+  background-color: #FF4081;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.full {
+  width: 100%;
+  padding: 30px;
+  font-size: 18px;
+  text-align: center;
+}
+.infolink {
+  display: block;
+  margin-bottom: 8px;
+  color: #333;
+  text-decoration: none;
+}
+svg {
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+/* General variants
+------------------------------------- */
+.smaller_heading {
+  font-size: 50px;
+}
+.blk {
+  display: block;
+  width: 95%;
+  margin-top: 7px;
+}
+.textleft { text-align: left; }
+.textright { text-align: right; }
+.c_var {
+  color: #FFF;
+  text-decoration: none;
+}
+.author_var { line-height: 50px; }
 
 /* Homepage variants
 ------------------------------------- */
@@ -95,6 +166,10 @@ h1 {
   position: absolute;
   top: 20px;
   left: 40px;
+}
+.logo.homepage_var img {
+  width: 80px;
+  height: 80px;
 }
 nav.homepage_var {
   top: 20px;
@@ -113,4 +188,86 @@ nav.homepage_var a {
 .col.homepage_var {
   top: 200px;
   left: 40px;
+}
+
+/* Gallery page variants
+------------------------------------- */
+.photo_bg {
+  margin-bottom: 40px;
+  padding-top: 130px;
+  padding-bottom: 70px;
+  color: #FFF;
+  background-size: cover;
+}
+.location_line {
+  margin-left: 6px;
+  font-size: 20px;
+}
+.content_var {
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #FFF;
+}
+.gallery_sphere {
+  display: block;
+  float: left;
+  width: 50%;
+  box-sizing: border-box;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+.gallery_sphere:hover {
+  background-color: #FEF;
+}
+/*.gallery_sphere:nth-child(even) {
+  padding-right: 40px;
+}
+.gallery_sphere:nth-child(odd) {
+  padding-left: 40px;
+}*/
+.gallery_sphere div {
+  margin-bottom: 10px;
+}
+.gallery_sphere img {
+  width: 100%;
+  height: auto;
+  border-radius: 200px;
+}
+.sidebar_var {
+  padding-left: 40px;
+}
+.sidepanel {
+  margin-top: 40px;
+}
+.sidepanel:nth-of-type(1) {
+  margin-top: 0;
+}
+.sidehead {
+  font-size: 18px;
+  font-weight: bold; /* conflicting w/ banner */
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: solid 2px #333;
+}
+footer.page_var {
+  margin-top: 40px;
+  padding: 30px 20px;
+  color: #FFF;
+  background-color: #000;
+}
+
+/* Animations
+------------------------------------- */
+nav a {
+  transition: color 0.4s, background-color 0.4s, line-height 0.7s;
+}
+.floating_nav {
+  transition: background-color 0.7s, height 0.7s;
+}
+.logo img {
+  transition: width 0.7s, height 0.7s;
+}
+.gallery_sphere {
+  transition: background-color 0.4s;
 }

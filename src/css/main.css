@@ -178,6 +178,7 @@ nav.homepage_var {
 nav.homepage_var a {
   float: right;
   clear: both;
+  line-height: normal;
   margin-top: 10px;
   padding: 12px 18px 12px 50px;
   color: #000;

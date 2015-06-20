@@ -76,7 +76,7 @@ layout: wrapper
       <header class="sidehead">Other Parks in {{ page.city }}</header>
       <ul>
         {% for post in site.posts %}
-          {% if post.city == page.city && post.title %}
+          {% if post.city == page.city %}
             {% unless post.title == page.title %}
               <li><a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endunless%}

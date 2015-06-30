@@ -2,6 +2,7 @@
 layout: park_gallery
 permalink: /toronto/kirkz-appt
 date:   2015-06-22
+category: park
 
 # Park Page Info
 title:  Kirkz Apartment

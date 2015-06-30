@@ -1,0 +1,171 @@
+{
+    "default": {
+        "author": "Kirk M.",
+        "firstScene": "entrance",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+    
+    "scenes": {
+        "entrance": {
+            "title": "Entrance",
+            "panorama": "./entrance.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -20,
+                    "yaw": 300,
+                    "type": "scene",
+                    "text": "Go outside",
+                    "sceneId": "outside"
+                },
+                {
+                    "pitch": -20,
+                    "yaw": 60,
+                    "type": "scene",
+                    "text": "Go to the bathroom",
+                    "sceneId": "bathroom"
+                },
+                {
+                    "pitch": -12,
+                    "yaw": 90,
+                    "type": "scene",
+                    "text": "Hall",
+                    "sceneId": "hall"
+                }
+            ]
+        },
+        "outside": {
+            "title": "Outside Hallway",
+            "panorama": "./outside.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -20,
+                    "yaw": 300,
+                    "type": "scene",
+                    "text": "Go back inside",
+                    "sceneId": "entrance"
+                }
+            ]
+        },
+        "bathroom": {
+            "title": "Ma Bathroom",
+            "panorama": "./bathroom.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -20,
+                    "yaw": 300,
+                    "type": "scene",
+                    "text": "Entrance",
+                    "sceneId": "entrance"
+                }
+            ]
+        },
+        "hall": {
+            "title": "Hall / Pantry",
+            "panorama": "./hall.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -10,
+                    "yaw": 270,
+                    "type": "scene",
+                    "text": "Entrance",
+                    "sceneId": "entrance"
+                },
+                {
+                    "pitch": -10,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Kitchen!",
+                    "sceneId": "kitchen"
+                },
+                {
+                    "pitch": -20,
+                    "yaw": 80,
+                    "type": "scene",
+                    "text": "Bed",
+                    "sceneId": "bed"
+                }
+            ]
+        },
+        "kitchen": {
+            "title": "My Messy Kitchen",
+            "panorama": "./kitchen.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -10,
+                    "yaw": 100,
+                    "type": "scene",
+                    "text": "Living Room",
+                    "sceneId": "living"
+                },
+                {
+                    "pitch": -15,
+                    "yaw": 10,
+                    "type": "scene",
+                    "text": "Hallway",
+                    "sceneId": "hall"
+                }
+            ]
+        },
+        "bed": {
+            "title": "Bed",
+            "panorama": "./bed.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -20,
+                    "yaw": 270,
+                    "type": "scene",
+                    "text": "Hall",
+                    "sceneId": "hall"
+                },
+                {
+                    "pitch": -20,
+                    "yaw": 170,
+                    "type": "scene",
+                    "text": "Living Room",
+                    "sceneId": "living"
+                }
+            ]
+        },
+        "living": {
+            "title": "Living Room",
+            "panorama": "./living-room.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -20,
+                    "yaw": 270,
+                    "type": "scene",
+                    "text": "Kitchen",
+                    "sceneId": "kitchen"
+                },
+                {
+                    "pitch": -15,
+                    "yaw": 10,
+                    "type": "scene",
+                    "text": "Bed",
+                    "sceneId": "bed"
+                },
+                {
+                    "pitch": -15,
+                    "yaw": 100,
+                    "type": "scene",
+                    "text": "Out the window",
+                    "sceneId": "window"
+                }
+            ]
+        },
+        "window": {
+            "title": "Out ma window",
+            "panorama": "./window.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -10,
+                    "yaw": 120,
+                    "type": "scene",
+                    "text": "Back to safety",
+                    "sceneId": "living"
+                }
+            ]
+        }
+    }
+}

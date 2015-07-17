@@ -8,7 +8,7 @@ category: park
 title:  Kirkz Apartment
 city: Toronto
 province: Ontario
-flag:  CA
+flag:  fr
 bannerImg: /src/img/banners/kirkz-appt.jpg
 
 # Pano Tour Links?

@@ -132,6 +132,12 @@ h1 {
   color: #333;
   text-decoration: none;
 }
+.flag-icon {
+  box-sizing: content-box;
+  margin-right: 10px;
+  border: solid 2px #FFF;
+  border-radius: 2px;
+}
 svg {
   margin-right: 5px;
   vertical-align: middle;

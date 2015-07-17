@@ -26,26 +26,12 @@ layout: wrapper
 
 <main class="centerpanel">
   <div class="col eight content_var">
-    <a href="tour" class="gallery_sphere">
-      <div>The Bowl</div>
-      <img src="/src/img/demo/sphere.jpg" alt>
-    </a>
-    <a href="tour" class="gallery_sphere">
-      <div>Stairset</div>
-      <img src="/src/img/demo/sphere.jpg" alt>
-    </a>
-    <a href="tour" class="gallery_sphere">
-      <div>Rails</div>
-      <img src="/src/img/demo/sphere.jpg" alt>
-    </a>
-    <a href="tour" class="gallery_sphere">
-      <div>Fun Box</div>
-      <img src="/src/img/demo/sphere.jpg" alt>
-    </a>
-    <a href="tour" class="gallery_sphere">
-      <div>Last one</div>
-      <img src="/src/img/demo/sphere.jpg" alt>
-    </a>
+    {% for start_id in page.tourLinks %}
+      <a href="tour/#{{ start_id }}" class="gallery_sphere">
+        <div>{{ start_id }}</div>
+        <img src="/src/img/demo/sphere.jpg" alt>
+      </a>
+    {% endfor %}
   </div>
   <div class="col four sidebar_var">
     <!-- <a class="btn full" href>Get Directions &raquo;</a> -->

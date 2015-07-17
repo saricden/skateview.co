@@ -1,4 +1,18 @@
 ---
 layout: wrapper
 ---
-<iframe class="tour" width="480" height="390" webkitAllowFullScreen mozallowfullscreen allowFullScreen style="border-style:none;" src="/src/js/vendor/pannellum/?tour={{ page.panoManifest }}"></iframe>
+<script type="text/javascript">
+  var frame = document.createElement('iframe');
+  var tourSrc = "/src/js/vendor/pannellum/?tour={{ page.panoManifest }}";
+  if (window.location.hash) {
+    tourSrc += "&firstScene="+window.location.hash.substring(1);
+  }
+
+  frame.src = tourSrc;
+  frame.setAttribute("class", "tour");
+  frame.setAttribute("webkitAllowFullScreen", true);
+  frame.setAttribute("mozallowfullscreen", true);
+  frame.setAttribute("allowFullScreen", true);
+
+  document.body.appendChild(frame);
+</script>

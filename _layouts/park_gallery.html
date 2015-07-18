@@ -28,8 +28,7 @@ layout: wrapper
   <div class="col eight content_var">
     {% for start_id in page.tourLinks %}
       <a href="tour/#{{ start_id }}" class="gallery_sphere">
-        <div>{{ start_id }}</div>
-        <img src="/src/img/demo/sphere.jpg" alt>
+        {{ start_id }}
       </a>
     {% endfor %}
   </div>

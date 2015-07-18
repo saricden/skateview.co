@@ -11,7 +11,7 @@ province: Ontario
 flag:  ca
 bannerImg: /src/img/banners/kirkz-appt.jpg
 
-# Pano Tour Links?
+# Pano Tour Links
 tourLinks:
   - entrance
   - outside

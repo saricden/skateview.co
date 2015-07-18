@@ -216,30 +216,19 @@ nav.homepage_var a {
   background-color: #FFF;
 }
 .gallery_sphere {
-  display: block;
-  float: left;
-  width: 50%;
-  box-sizing: border-box;
-  padding: 20px;
-  border-radius: 5px;
+  position: relative;
+  display: inline-block;
+  width: 49%;
+  height: 0;
+  margin-bottom: 10px;
+  padding: 24% 0;
+  border: solid 2px #000;
+  border-radius: 50%;
+  color: #000;
   text-align: center;
 }
-.gallery_sphere:hover {
-  background-color: #FEF;
-}
-/*.gallery_sphere:nth-child(even) {
-  padding-right: 40px;
-}
-.gallery_sphere:nth-child(odd) {
-  padding-left: 40px;
-}*/
-.gallery_sphere div {
-  margin-bottom: 10px;
-}
-.gallery_sphere img {
-  width: 100%;
-  height: auto;
-  border-radius: 200px;
+.gallery_sphere:nth-child(even) {
+  margin-left: 1%;
 }
 .sidebar_var {
   padding-left: 40px;

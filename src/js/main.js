@@ -27,5 +27,9 @@ var closeMobileNav = function(e) {
 }
 
 window.addEventListener("scroll", fadeNavbar);
-mobileMenu.addEventListener("click", openMobileNav);
-navClose.addEventListener("click", closeMobileNav);
+if (mobileMenu) {
+  mobileMenu.addEventListener("click", openMobileNav);
+}
+if (navClose) {
+  navClose.addEventListener("click", closeMobileNav);
+}

@@ -11,6 +11,13 @@ province: Ontario
 flag:  ca
 bannerImg: /src/img/banners/kirkz-appt.jpg
 
+# Shop Info (optional)
+shopLogo: /src/img/demo/shoplogo.png
+shopDesc: Yeah we sell skateboards and pickles. So come on down.
+shopURL: www.kirkzcoolskateboardsnstuff.ca
+shopPhone: 250-555-5558
+shopAddress: 9999 Awesome St. Toronto, Ontario
+
 # Pano Tour Links
 tourLinks:
   - entrance
@@ -29,4 +36,7 @@ long: -79.300489
 # Youtube Video IDs
 videos:
   - OwFYGsLqSe0
+  - -UziAXis9yg
+  - ZlL_3npqcCg
+  - Y7yQwQtSN7M
 ---

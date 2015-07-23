@@ -21,7 +21,9 @@ body {
   overflow-x: hidden;
 }
 nav {
-  float: right;
+  position: fixed;
+  top: 0;
+  right: 0;
 }
 nav a {
   display: block;
@@ -60,6 +62,7 @@ h1 {
   width: 100%;
   max-width: 1000px;
   margin: 0 auto;
+  padding: 0 20px;
 }
 .bgfill {
   z-index: 1
@@ -69,15 +72,16 @@ h1 {
   width: 100%;
   height: 100%;
 }
-.col {
+.col, .vid_thumb {
   display: block;
   float: left;
 }
+.revfl { float: right; }
 .two { width: 16%; }
 .three { width: 25%; }
 .four { width: 33%; }
 .five { width: 41%; }
-.six { width: 50%; }
+.six, .vid_thumb { width: 50%; }
 .seven { width: 58%; }
 .eight { width: 66%; }
 .nine { width: 75%; }
@@ -112,7 +116,7 @@ h1 {
   width: 60px;
   height: 60px;
 }
-.floating_nav.scrolled nav a {
+nav.scrolled a, .nav-btn.scrolled {
   line-height: 80px;
 }
 .btn {
@@ -131,9 +135,18 @@ h1 {
 }
 .infolink {
   display: block;
+  width: 100%;
   margin-bottom: 8px;
   color: #333;
   text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.blkimg {
+  display: block;
+  width: 100%;
+  margin-bottom: 8px;
 }
 .flag-icon {
   box-sizing: content-box;
@@ -323,6 +336,57 @@ footer.page_var {
   color: #FFF;
   background-color: #000;
 }
+.nav-btn {
+  display: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .col.content_var, .col.sidebar_var {
+    float: none;
+    clear: both;
+    width: 100%;
+  }
+  .col.sidebar_var {
+    margin-bottom: 40px;
+    padding: 0;
+  }
+  .sidehead { cursor: pointer; }
+  .sidehead:hover { background-color: #EEE; }
+  .sidepanel {
+    max-height: 33px;
+    margin-top: 10px;
+    overflow: hidden;
+  }
+  .sidepanel.open { max-height: 1000px; }
+  .vid_thumb { width: 25%; }
+}
+
+@media only screen and (max-width: 630px) {
+  h1 {
+    font-size: 36px;
+  }
+  .vid_thumb { width: 33%; }
+  .nav-btn {
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 20px;
+    line-height: 90px;
+    color: #FFF;
+    font-size: 32px;
+  }
+  nav a {
+    float: none;
+  }
+  nav {
+    width: 100px;
+    right: -100px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .vid_thumb { width: 50%; }
+}
 
 /* Tour variants
 ------------------------------------- */
@@ -335,7 +399,7 @@ footer.page_var {
 
 /* Animations
 ------------------------------------- */
-nav a {
+nav a, .nav-btn {
   transition: color 0.4s, background-color 0.4s, line-height 0.7s;
 }
 .floating_nav {
@@ -351,5 +415,8 @@ nav a {
   transition: visibility 0.2s, opacity 0.2s;
 }
 nav.homepage_var {
-    transition: right 0.6s;
+  transition: right 0.6s;
+}
+.sidepanel {
+  transition: max-height 0.5s;
 }

@@ -53,7 +53,7 @@ h1 {
 
 /* Layout stuff
 ------------------------------------- */
-.fullpanel:after, .centerpanel:after, .logo:after, footer:after {
+.fullpanel:after, .centerpanel:after, .logo:after, footer:after, .content_var:after {
   display: block;
   content: "";
   clear: both;
@@ -305,8 +305,8 @@ nav.homepage_var a {
   background-color: #FFF;
 }
 .gallery_sphere {
-  position: relative;
-  display: inline-block;
+  display: block;
+  float: left;
   width: 49%;
   height: 0;
   margin-bottom: 10px;

@@ -4,7 +4,6 @@ var navClose = document.querySelector('.navclose');
 var floatNav = document.querySelector('.floating_nav');
 var navBtn = document.querySelector('.nav-btn');
 var sideHeads = document.querySelectorAll('.sidehead');
-var sidePanelHeights = [];
 
 var toggleSidePanel = function() {
   var parent = this.parentNode;
@@ -25,12 +24,12 @@ var fadeNavbar = function(e) {
   if (top != 0) {
     navBtn.className = "nav-btn scrolled";
     floatNav.className = "floating_nav scrolled";
-    nav.className = "scrolled";
+    nav.classList.add("scrolled");
   }
   else {
     navBtn.className = "nav-btn";
     floatNav.className = "floating_nav";
-    nav.className = "";
+    nav.classList.remove("scrolled");
   }
 };
 
@@ -42,8 +41,13 @@ var openMobileNav = function(e) {
 
 var closeMobileNav = function(e) {
   e.preventDefault();
-  mobileMenu.className = "mobile-menu";
-  nav.className = "homepage_var";
+  if (mobileMenu) {
+    mobileMenu.className = "mobile-menu";
+    nav.className = "homepage_var";
+  }
+  else if (navBtn) {
+    nav.classList.remove("open");
+  }
 }
 
 window.addEventListener("scroll", fadeNavbar);
@@ -57,4 +61,9 @@ if (sideHeads) {
   for (i = 0; i < sideHeads.length; i++) {
     sideHeads[i].addEventListener("click", toggleSidePanel);
   }
+}
+if (navBtn) {
+  navBtn.addEventListener("click", function(e) {
+    nav.classList.add("open");
+  });
 }

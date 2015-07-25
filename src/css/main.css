@@ -116,9 +116,6 @@ h1 {
   width: 60px;
   height: 60px;
 }
-nav.scrolled a, .nav-btn.scrolled {
-  line-height: 80px;
-}
 .btn {
   display: inline-block;
   padding: 20px 30px;
@@ -157,6 +154,14 @@ nav.scrolled a, .nav-btn.scrolled {
 svg {
   margin-right: 5px;
   vertical-align: middle;
+}
+nav.scrolled a, .nav-btn.scrolled {
+  line-height: 80px;
+}
+@media only screen and (max-width: 630px) {
+  nav.scrolled a {
+    line-height: normal;
+  }
 }
 
 /* General variants
@@ -268,7 +273,7 @@ nav.homepage_var a {
     padding: 10px;
     text-align: center;
   }
-  .navclose {
+  .navclose.home {
     display: block;
     cursor: pointer;
   }
@@ -338,6 +343,7 @@ footer.page_var {
 }
 .nav-btn {
   display: none;
+  cursor: pointer;
 }
 
 @media only screen and (max-width: 768px) {
@@ -375,12 +381,29 @@ footer.page_var {
     color: #FFF;
     font-size: 32px;
   }
-  nav a {
-    float: none;
-  }
   nav {
-    width: 100px;
-    right: -100px;
+    width: 142px;
+    right: -142px;
+  }
+  nav.open {
+    right: 0;
+  }
+  nav a {
+    display: block;
+    width: 100%;
+    float: right;
+    clear: both;
+    line-height: normal;
+    padding: 10px;
+    color: #000;
+    background-color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+  }
+  .navclose.gallery {
+    display: block;
+    cursor: pointer;
   }
 }
 
@@ -414,8 +437,8 @@ nav a, .nav-btn {
 .mobile-menu {
   transition: visibility 0.2s, opacity 0.2s;
 }
-nav.homepage_var {
-  transition: right 0.6s;
+nav {
+  transition: right 0.5s;
 }
 .sidepanel {
   transition: max-height 0.5s;

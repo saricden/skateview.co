@@ -1,0 +1,507 @@
+{
+    "default": {
+        "author": "Kirk M.",
+        "firstScene": "entrance",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+    
+    "scenes": {
+        "cobble-bank": {
+            "title": "Cobble Bank",
+            "panorama": "./cobble-bank.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -7.594640824942804,
+                    "yaw": 86.65062180223373,
+                    "type": "scene",
+                    "text": "Benches",
+                    "sceneId": "benches"
+                },
+                {
+                    "pitch": -8.801866807861137,
+                    "yaw": 131.61815516513315,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": -1.0409830744193804,
+                    "yaw": 144.55765988789042,
+                    "type": "scene",
+                    "text": "Stairset",
+                    "sceneId": "stairset"
+                },
+                {
+                    "pitch": -0.03539444453557224,
+                    "yaw": 199.3473834731616,
+                    "type": "scene",
+                    "text": "Quarter Pipe",
+                    "sceneId": "quarter-pipe"
+                },
+                {
+                    "pitch": -4.7898615169944945,
+                    "yaw": -97.17608129761717,
+                    "type": "scene",
+                    "text": "Shop",
+                    "sceneId": "shop"
+                }
+            ]
+        },
+        "quarter-pipe": {
+            "title": "Quarter Pipe",
+            "panorama": "./quarter-pipe.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -9.780761050396826,
+                    "yaw": -38.217305609039144,
+                    "type": "info",
+                    "text": "Quintin Davey - Backside Melon"
+                },
+                {
+                    "pitch": -3.2400446934565776,
+                    "yaw": -86.72628034828432,
+                    "type": "scene",
+                    "text": "Stairset",
+                    "sceneId": "stairset"
+                },
+                {
+                    "pitch": -9.345380488458304,
+                    "yaw": -116.65982556977079,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": -6.408417464426354,
+                    "yaw": -141.64456264198898,
+                    "type": "scene",
+                    "text": "Benches",
+                    "sceneId": "benches"
+                },
+                {
+                    "pitch": -10.90486430145305,
+                    "yaw": -170.41499626623374,
+                    "type": "info",
+                    "text": "Patrice Poulin - Roll up to frontside 360"
+                },
+                {
+                    "pitch": -6.5963434414632065,
+                    "yaw": 190.8860649794023,
+                    "type": "scene",
+                    "text": "Cobble Bank",
+                    "sceneId": "cobble-bank"
+                },
+                {
+                    "pitch": -8.544388536971011,
+                    "yaw": 122.63624027894,
+                    "type": "scene",
+                    "text": "Shop",
+                    "sceneId": "shop"
+                }
+            ]
+        },
+        "benches": {
+            "title": "Benches",
+            "panorama": "./benches.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -5.498259389367206,
+                    "yaw": 166.74579370107082,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": 0.6832241396341111,
+                    "yaw": 161.00544887803278,
+                    "type": "scene",
+                    "text": "Stairset",
+                    "sceneId": "stairset"
+                },
+                {
+                    "pitch": 2.0247608981787417,
+                    "yaw": -146.46371553451235,
+                    "type": "scene",
+                    "text": "Quarter Pipe",
+                    "sceneId": "quarter-pipe"
+                },
+                {
+                    "pitch": 0.7338397141067757,
+                    "yaw": -105.32645960177452,
+                    "type": "scene",
+                    "text": "Cobble Bank",
+                    "sceneId": "cobble-bank"
+                },
+                {
+                    "pitch": -3.996875769911168,
+                    "yaw": 91.63858019479989,
+                    "type": "scene",
+                    "text": "Center",
+                    "sceneId": "center"
+                },
+                {
+                    "pitch": 0.37926299762590276,
+                    "yaw": 118.75600536284644,
+                    "type": "scene",
+                    "text": "Center Top",
+                    "sceneId": "center-top"
+                }
+            ]
+        },
+        "downrails": {
+            "title": "Downrails",
+            "panorama": "./downrails.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 1.3259751974266851,
+                    "yaw": 28.1875993036296,
+                    "type": "scene",
+                    "text": "Cobble Bank",
+                    "sceneId": "cobble-bank"
+                },
+                {
+                    "pitch": 0.35392846494402225,
+                    "yaw": 4.0976733963822625,
+                    "type": "scene",
+                    "text": "Shop",
+                    "sceneId": "shop"
+                },
+                {
+                    "pitch": 3.985962200690929,
+                    "yaw": -23.6344787372906,
+                    "type": "scene",
+                    "text": "Quarter Pipe",
+                    "sceneId": "quarter-pipe"
+                },
+                {
+                    "pitch": 2.832131104440401,
+                    "yaw": -95.38618647072123,
+                    "type": "scene",
+                    "text": "Stairset",
+                    "sceneId": "stairset"
+                },
+                {
+                    "pitch": -5.016162213239634,
+                    "yaw": 157.22414771655167,
+                    "type": "scene",
+                    "text": "Center",
+                    "sceneId": "center"
+                },
+                {
+                    "pitch": 0.9540004070426443,
+                    "yaw": 191.8138606703108,
+                    "type": "scene",
+                    "text": "Center Top",
+                    "sceneId": "center-top"
+                },
+                {
+                    "pitch": -1.6001087880012175,
+                    "yaw": 64.5216163484993,
+                    "type": "scene",
+                    "text": "Benches",
+                    "sceneId": "benches"
+                }
+            ]
+        },
+        "stairset": {
+            "title": "Stairset",
+            "panorama": "./stairset.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -10.385575830655414,
+                    "yaw": -30.65390171266705,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": -2.8438338399424143,
+                    "yaw": -34.495275446338496,
+                    "type": "scene",
+                    "text": "Benches",
+                    "sceneId": "benches"
+                },
+                {
+                    "pitch": -1.0954258995337982,
+                    "yaw": -58.60934367834019,
+                    "type": "scene",
+                    "text": "Cobble Bank",
+                    "sceneId": "cobble-bank"
+                },
+                {
+                    "pitch": -2.891437773476797,
+                    "yaw": -87.65585805591282,
+                    "type": "scene",
+                    "text": "Shop",
+                    "sceneId": "shop"
+                },
+                {
+                    "pitch": 0.5529706455167587,
+                    "yaw": -100.37584255362002,
+                    "type": "scene",
+                    "text": "Quarter Pipe",
+                    "sceneId": "quarter-pipe"
+                },
+                {
+                    "pitch": -3.760567637431477,
+                    "yaw": 59.23980597237083,
+                    "type": "scene",
+                    "text": "Center Top",
+                    "sceneId": "center-top"
+                },
+                {
+                    "pitch": -4.217219606209202,
+                    "yaw": 28.662927174954415,
+                    "type": "scene",
+                    "text": "Center",
+                    "sceneId": "center"
+                }
+            ]
+        },
+        "shop": {
+            "title": "Shop",
+            "panorama": "./shop.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0.7498213472828483,
+                    "yaw": -187.38961630273434,
+                    "type": "scene",
+                    "text": "Cobble Bank",
+                    "sceneId": "cobble-bank"
+                },
+                {
+                    "pitch": -0.8093082723286853,
+                    "yaw": -167.3585975699118,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                }
+            ]
+        },
+        "center": {
+            "title": "Center",
+            "panorama": "./center.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0.7266029465382863,
+                    "yaw": 3.9383900927428233,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": 3.720638040312185,
+                    "yaw": -38.805415801890646,
+                    "type": "scene",
+                    "text": "Center Top",
+                    "sceneId": "center-top"
+                },
+                {
+                    "pitch": -3.346653405150804,
+                    "yaw": -172.27363140488808,
+                    "type": "scene",
+                    "text": "Two Sets",
+                    "sceneId": "two-sets"
+                },
+                {
+                    "pitch": 2.850725245169495,
+                    "yaw": -17.318990856820157,
+                    "type": "scene",
+                    "text": "Stairset",
+                    "sceneId": "stairset"
+                },
+                {
+                    "pitch": 1.2781785904959828,
+                    "yaw": 26.567813272277693,
+                    "type": "scene",
+                    "text": "Benches",
+                    "sceneId": "benches"
+                }
+            ]
+        },
+        "center-top": {
+            "title": "Center Top",
+            "panorama": "./center-top.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -9.862670402022916,
+                    "yaw": -24.127597082262742,
+                    "type": "scene",
+                    "text": "Center",
+                    "sceneId": "center"
+                },
+                {
+                    "pitch": -5.544457801113581,
+                    "yaw": 34.77124403867984,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                },
+                {
+                    "pitch": -4.253239883059837,
+                    "yaw": -105.48618974737147,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": -4.190664133531109,
+                    "yaw": -135.19041167374104,
+                    "type": "scene",
+                    "text": "Stairset",
+                    "sceneId": "stairset"
+                },
+                {
+                    "pitch": -1.9307543756012486,
+                    "yaw": -89.77109685696927,
+                    "type": "scene",
+                    "text": "Benches",
+                    "sceneId": "benches"
+                }
+            ]
+        },
+        "manny-pad": {
+            "title": "Manny Pad",
+            "panorama": "./manny-pad.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -3.2064508161256398,
+                    "yaw": -139.80432824180735,
+                    "type": "scene",
+                    "text": "Center Top",
+                    "sceneId": "center-top"
+                },
+                {
+                    "pitch": -10.680627095634847,
+                    "yaw": 2.616900032087905,
+                    "type": "scene",
+                    "text": "Two Sets",
+                    "sceneId": "two-sets"
+                },
+                {
+                    "pitch": -1.6930159270706915,
+                    "yaw": 68.85218854609278,
+                    "type": "scene",
+                    "text": "Above Bowl",
+                    "sceneId": "above-bowl"
+                },
+                {
+                    "pitch": -7.482421761577661,
+                    "yaw": 98.39287731735212,
+                    "type": "scene",
+                    "text": "Inside Bowl",
+                    "sceneId": "inside-bowl"
+                }
+            ]
+        },
+        "two-sets": {
+            "title": "Two Sets",
+            "panorama": "./two-sets.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -1.6811501226579366,
+                    "yaw": 8.344204061513958,
+                    "type": "scene",
+                    "text": "Center",
+                    "sceneId": "center"
+                },
+                {
+                    "pitch": 2.782273703499075,
+                    "yaw": -31.380667815077036,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                },
+                {
+                    "pitch": -4.400330829576407,
+                    "yaw": -147.03977134791953,
+                    "type": "scene",
+                    "text": "Big Bank",
+                    "sceneId": "big-bank"
+                },
+                {
+                    "pitch": 3.177835370651794,
+                    "yaw": -105.30236018605854,
+                    "type": "scene",
+                    "text": "Above Bowl",
+                    "sceneId": "above-bowl"
+                }
+            ]
+        },
+        "big-bank": {
+            "title": "Big Bank",
+            "panorama": "./big-bank.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0.9094754164089615,
+                    "yaw": 0.32484167199245134,
+                    "type": "scene",
+                    "text": "Two Sets",
+                    "sceneId": "two-sets"
+                },
+                {
+                    "pitch": 4.861207964195413,
+                    "yaw": -90.3636518875403,
+                    "type": "scene",
+                    "text": "Above Bowl",
+                    "sceneId": "above-bowl"
+                }
+            ]
+        },
+        "above-bowl": {
+            "title": "Above Bowl",
+            "panorama": "./above-bowl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -3.9871890104708454,
+                    "yaw": -56.89590266074395,
+                    "type": "scene",
+                    "text": "Two Sets",
+                    "sceneId": "two-sets"
+                },
+                {
+                    "pitch": -7.277613489549328,
+                    "yaw": -5.675323825115317,
+                    "type": "scene",
+                    "text": "Big Bank",
+                    "sceneId": "big-bank"
+                },
+                {
+                    "pitch": -20.641699212041523,
+                    "yaw": -131.22506246297863,
+                    "type": "scene",
+                    "text": "Inside Bowl",
+                    "sceneId": "inside-bowl"
+                },
+                {
+                    "pitch": -1.6813310083996704,
+                    "yaw": -101.7035334595883,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                }
+            ]
+        },
+        "inside-bowl": {
+            "title": "Inside Bowl",
+            "panorama": "./inside-bowl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 30.514101611800832,
+                    "yaw": -78.76867717147252,
+                    "type": "scene",
+                    "text": "Above Bowl",
+                    "sceneId": "above-bowl"
+                },
+                {
+                    "pitch": 24.848756565911764,
+                    "yaw": 173.16313778286855,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                }
+            ]
+        }
+    }
+}

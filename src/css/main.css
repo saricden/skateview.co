@@ -87,6 +87,7 @@ h1 {
 .nine { width: 75%; }
 .ten { width: 83%; }
 .eleven { width: 91%; }
+.twelve { width: 100%; }
 
 /* Common elements
 ------------------------------------- */
@@ -300,6 +301,7 @@ nav.homepage_var a {
   font-size: 20px;
 }
 .content_var {
+  min-height: 180px;
   padding: 20px;
   border-radius: 5px;
   background-color: #FFF;

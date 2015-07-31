@@ -1,0 +1,91 @@
+{
+    "default": {
+        "author": "Kirk M.",
+        "firstScene": "entrance",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+    
+    "scenes": {
+        "lower": {
+            "title": "Lower",
+            "panorama": "./lower.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.784805689243287,
+                    "yaw": 78.27468667096355,
+                    "type": "scene",
+                    "text": "Four Set",
+                    "sceneId": "four-set"
+                }
+            ]
+        },
+        "four-set": {
+            "title": "Four Set",
+            "panorama": "./four-set.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -5.10896155596559,
+                    "yaw": -101.79564794523635,
+                    "type": "scene",
+                    "text": "Lower",
+                    "sceneId": "lower"
+                },
+                {
+                    "pitch": 0.7196514914418446,
+                    "yaw": 48.86618370533132,
+                    "type": "scene",
+                    "text": "Upper",
+                    "sceneId": "upper"
+                },
+                {
+                    "pitch": 4.971494343270722,
+                    "yaw": 63.30611406730205,
+                    "type": "scene",
+                    "text": "Hip",
+                    "sceneId": "hip"
+                }
+            ]
+        },
+        "upper": {
+            "title": "Upper",
+            "panorama": "./upper.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -7.84182783478628,
+                    "yaw": -87.32654854428822,
+                    "type": "scene",
+                    "text": "Four Set",
+                    "sceneId": "four-set"
+                },
+                {
+                    "pitch": 2.7704148909643576,
+                    "yaw": 115.82562659904289,
+                    "type": "scene",
+                    "text": "Hip",
+                    "sceneId": "hip"
+                }
+            ]
+        },
+        "hip": {
+            "title": "Hip",
+            "panorama": "./hip.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -10.113861723949428,
+                    "yaw": -13.622879683699141,
+                    "type": "scene",
+                    "text": "Upper",
+                    "sceneId": "upper"
+                },
+                {
+                    "pitch": -4.828678389586865,
+                    "yaw": -17.992720185036664,
+                    "type": "scene",
+                    "text": "Four Set",
+                    "sceneId": "four-set"
+                }
+            ]
+        }
+    }
+}

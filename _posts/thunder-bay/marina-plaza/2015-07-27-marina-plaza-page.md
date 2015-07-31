@@ -1,7 +1,7 @@
 ---
 layout: park_gallery
 permalink: /thunder-bay/marina-plaza
-date:   2015-07-29
+date:   2015-07-27
 category: park
 
 # Park Page Info

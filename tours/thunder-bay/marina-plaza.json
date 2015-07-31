@@ -9,7 +9,7 @@
     "scenes": {
         "cobble-bank": {
             "title": "Cobble Bank",
-            "panorama": "./cobble-bank.jpg",
+            "panorama": "https://farm1.staticflickr.com/325/19968871160_2224fe983d_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -7.594640824942804,
@@ -50,7 +50,7 @@
         },
         "quarter-pipe": {
             "title": "Quarter Pipe",
-            "panorama": "./quarter-pipe.jpg",
+            "panorama": "https://farm1.staticflickr.com/351/19534203214_284b0c847d_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -9.780761050396826,
@@ -103,7 +103,7 @@
         },
         "benches": {
             "title": "Benches",
-            "panorama": "./benches.jpg",
+            "panorama": "https://farm1.staticflickr.com/387/20156823275_73cf57435f_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -5.498259389367206,
@@ -151,7 +151,7 @@
         },
         "downrails": {
             "title": "Downrails",
-            "panorama": "./downrails.jpg",
+            "panorama": "https://farm1.staticflickr.com/557/20148788952_da50f1f7ec_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 1.3259751974266851,
@@ -206,7 +206,7 @@
         },
         "stairset": {
             "title": "Stairset",
-            "panorama": "./stairset.jpg",
+            "panorama": "https://farm1.staticflickr.com/472/19970173109_0049c2112d_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -10.385575830655414,
@@ -261,7 +261,7 @@
         },
         "shop": {
             "title": "Shop",
-            "panorama": "./shop.jpg",
+            "panorama": "https://farm1.staticflickr.com/522/19534197294_a570553bf5_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 0.7498213472828483,
@@ -281,7 +281,7 @@
         },
         "center": {
             "title": "Center",
-            "panorama": "./center.jpg",
+            "panorama": "https://farm1.staticflickr.com/445/19968805158_35f8cd820a_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 0.7266029465382863,
@@ -322,7 +322,7 @@
         },
         "center-top": {
             "title": "Center Top",
-            "panorama": "./center-top.jpg",
+            "panorama": "https://farm1.staticflickr.com/543/20130627916_4161b36380_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -9.862670402022916,
@@ -363,7 +363,7 @@
         },
         "manny-pad": {
             "title": "Manny Pad",
-            "panorama": "./manny-pad.jpg",
+            "panorama": "https://farm1.staticflickr.com/317/20130597556_082d972520_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -3.2064508161256398,
@@ -397,7 +397,7 @@
         },
         "two-sets": {
             "title": "Two Sets",
-            "panorama": "./two-sets.jpg",
+            "panorama": "https://farm1.staticflickr.com/405/19970166849_1b6eef1e74_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -1.6811501226579366,
@@ -431,7 +431,7 @@
         },
         "big-bank": {
             "title": "Big Bank",
-            "panorama": "./big-bank.jpg",
+            "panorama": "https://farm1.staticflickr.com/457/19968720388_e4f5521928_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 0.9094754164089615,
@@ -451,7 +451,7 @@
         },
         "above-bowl": {
             "title": "Above Bowl",
-            "panorama": "./above-bowl.jpg",
+            "panorama": "https://farm1.staticflickr.com/357/20148739522_809d3a990e_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -3.9871890104708454,
@@ -485,7 +485,7 @@
         },
         "inside-bowl": {
             "title": "Inside Bowl",
-            "panorama": "./inside-bowl.jpg",
+            "panorama": "https://farm4.staticflickr.com/3804/20156867895_a5715b8ff5_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 30.514101611800832,

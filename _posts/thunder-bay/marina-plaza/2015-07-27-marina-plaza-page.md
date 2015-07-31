@@ -9,7 +9,7 @@ title:  Marina Plaza
 city: Thunder Bay
 province: Ontario
 flag:  ca
-bannerImg: /tours/thunder-bay/banner.jpg
+bannerImg: https://farm1.staticflickr.com/335/20162391021_d2cec174a6_o.jpg
 
 # Shop Info (optional)
 shopLogo:

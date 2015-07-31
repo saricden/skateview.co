@@ -1,0 +1,91 @@
+{
+    "default": {
+        "author": "Kirk M.",
+        "firstScene": "entrance",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+    
+    "scenes": {
+        "quarter-pipe": {
+            "title": "Quarter Pipe",
+            "panorama": "./quarter-pipe.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12.341005641582704,
+                    "yaw": 26.97332849012948,
+                    "type": "scene",
+                    "text": "Center",
+                    "sceneId": "center"
+                },
+                {
+                    "pitch": -3.0172870134187892,
+                    "yaw": 33.90855696272447,
+                    "type": "scene",
+                    "text": "End",
+                    "sceneId": "end"
+                }
+            ]
+        },
+        "center": {
+            "title": "Center",
+            "panorama": "./center.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2.761781936914927,
+                    "yaw": 61.149152228838254,
+                    "type": "scene",
+                    "text": "End",
+                    "sceneId": "end"
+                },
+                {
+                    "pitch": 1.637168516491694,
+                    "yaw": -139.67650173051032,
+                    "type": "scene",
+                    "text": "Quarter Pipe",
+                    "sceneId": "quarter-pipe"
+                }
+            ]
+        },
+        "end": {
+            "title": "End",
+            "panorama": "./end.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -3.1135574147498777,
+                    "yaw": -138.56455911320631,
+                    "type": "scene",
+                    "text": "Center",
+                    "sceneId": "center"
+                },
+                {
+                    "pitch": 1.3444514388472286,
+                    "yaw": -144.65895790619084,
+                    "type": "scene",
+                    "text": "Quarter Pipe",
+                    "sceneId": "quarter-pipe"
+                },
+                {
+                    "pitch": -11.462927901742267,
+                    "yaw": 75.56928267159837,
+                    "type": "scene",
+                    "text": "Bank",
+                    "sceneId": "bank"
+                }
+            ]
+        },
+        "bank": {
+            "title": "Bank",
+            "panorama": "./bank.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -8.246790447856437,
+                    "yaw": -83.91943629741859,
+                    "type": "scene",
+                    "text": "End",
+                    "sceneId": "end"
+                }
+            ]
+        }
+    }
+}

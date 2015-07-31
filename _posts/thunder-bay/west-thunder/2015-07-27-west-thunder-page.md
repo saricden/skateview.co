@@ -9,7 +9,7 @@ title:  West Thunder Park
 city: Thunder Bay
 province: Ontario
 flag:  ca
-bannerImg: /tours/thunder-bay/banner.jpg
+bannerImg: https://farm1.staticflickr.com/489/20175525815_cb48544f3c_o.jpg
 
 # Shop Info (optional)
 shopLogo:

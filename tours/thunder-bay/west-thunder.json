@@ -9,7 +9,7 @@
     "scenes": {
         "quarter-pipe": {
             "title": "Quarter Pipe",
-            "panorama": "./quarter-pipe.jpg",
+            "panorama": "https://farm1.staticflickr.com/331/19988882949_cbe3c3074a_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -12.341005641582704,
@@ -29,7 +29,7 @@
         },
         "center": {
             "title": "Center",
-            "panorama": "./center.jpg",
+            "panorama": "https://farm1.staticflickr.com/511/19988898259_e40b3888cc_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -2.761781936914927,
@@ -49,7 +49,7 @@
         },
         "end": {
             "title": "End",
-            "panorama": "./end.jpg",
+            "panorama": "https://farm1.staticflickr.com/425/20167409652_477860a71d_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -3.1135574147498777,
@@ -76,7 +76,7 @@
         },
         "bank": {
             "title": "Bank",
-            "panorama": "./bank.jpg",
+            "panorama": "https://farm1.staticflickr.com/310/19554602723_44406b8b88_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -8.246790447856437,

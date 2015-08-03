@@ -9,7 +9,7 @@
     "scenes": {
         "lower": {
             "title": "Lower",
-            "panorama": "./lower.jpg",
+            "panorama": "https://farm1.staticflickr.com/302/20055235419_84bbf0fe07_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.784805689243287,
@@ -22,7 +22,7 @@
         },
         "four-set": {
             "title": "Four Set",
-            "panorama": "./four-set.jpg",
+            "panorama": "https://farm1.staticflickr.com/291/20233557592_d98fa042c1_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -5.10896155596559,
@@ -49,7 +49,7 @@
         },
         "upper": {
             "title": "Upper",
-            "panorama": "./upper.jpg",
+            "panorama": "https://farm1.staticflickr.com/434/20233554942_bf339ceb53_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -7.84182783478628,
@@ -69,7 +69,7 @@
         },
         "hip": {
             "title": "Hip",
-            "panorama": "./hip.jpg",
+            "panorama": "https://farm1.staticflickr.com/472/20247652421_7693bed09b_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -10.113861723949428,

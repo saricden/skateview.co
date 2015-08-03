@@ -9,7 +9,7 @@ title:  South Neebing Park
 city: Thunder Bay
 province: Ontario
 flag:  ca
-bannerImg: /tours/thunder-bay/banner.jpg
+bannerImg: https://farm1.staticflickr.com/280/20242029095_b1c1f50d37_o.jpg
 
 # Shop Info (optional)
 shopLogo:

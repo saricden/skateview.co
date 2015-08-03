@@ -1,0 +1,194 @@
+{
+    "default": {
+        "author": "Kirk M.",
+        "firstScene": "entrance",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+    
+    "scenes": {
+        "downrails": {
+            "title": "Downrails",
+            "panorama": "./downrails.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -7.129171746160019,
+                    "yaw": -29.662947453914065,
+                    "type": "scene",
+                    "text": "Lower",
+                    "sceneId": "lower"
+                },
+                {
+                    "pitch": 2.383593138163348,
+                    "yaw": 88.47330115593769,
+                    "type": "scene",
+                    "text": "Pyramid",
+                    "sceneId": "pyramid"
+                },
+                {
+                    "pitch": -3.9925903424213605,
+                    "yaw": 132.7980345362864,
+                    "type": "scene",
+                    "text": "Big Ledge",
+                    "sceneId": "big-ledge"
+                },
+                {
+                    "pitch": -1.030207476684915,
+                    "yaw": 61.60091596246746,
+                    "type": "scene",
+                    "text": "Bank",
+                    "sceneId": "bank"
+                }
+            ]
+        },
+        "pyramid": {
+            "title": "Pyramid",
+            "panorama": "./pyramid.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -7.385734328825258,
+                    "yaw": -14.07902885720885,
+                    "type": "scene",
+                    "text": "Lower",
+                    "sceneId": "lower"
+                },
+                {
+                    "pitch": -8.429874515497984,
+                    "yaw": -57.106005724535486,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": -12.810700410780811,
+                    "yaw": -143.22617627515584,
+                    "type": "scene",
+                    "text": "Big Ledge",
+                    "sceneId": "big-ledge"
+                },
+                {
+                    "pitch": -11.841598906695962,
+                    "yaw": 111.47355529880703,
+                    "type": "scene",
+                    "text": "Asphalt Hump",
+                    "sceneId": "asphalt-hump"
+                },
+                {
+                    "pitch": -7.724333763757351,
+                    "yaw": 77.74497057106613,
+                    "type": "scene",
+                    "text": "Bank",
+                    "sceneId": "bank"
+                }
+            ]
+        },
+        "lower": {
+            "title": "Lower",
+            "panorama": "./lower.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 3.077875806995502,
+                    "yaw": 200.8975608176252,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": 4.641469785434222,
+                    "yaw": 165.36696447616615,
+                    "type": "scene",
+                    "text": "Pyramid",
+                    "sceneId": "pyramid"
+                }
+            ]
+        },
+        "big-ledge": {
+            "title": "Big Ledge",
+            "panorama": "./big-ledge.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -5.2408469596223375,
+                    "yaw": 102.4786047537053,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": 2.206559822640972,
+                    "yaw": 149.98768507545375,
+                    "type": "scene",
+                    "text": "Pyramid",
+                    "sceneId": "pyramid"
+                },
+                {
+                    "pitch": -4.442665067340652,
+                    "yaw": -164.9274659406023,
+                    "type": "scene",
+                    "text": "Asphalt Hump",
+                    "sceneId": "asphalt-hump"
+                },
+                {
+                    "pitch": -2.5033887726239703,
+                    "yaw": -171.05433269596202,
+                    "type": "scene",
+                    "text": "Bank",
+                    "sceneId": "bank"
+                }
+            ]
+        },
+        "asphalt-hump": {
+            "title": "Asphalt Hump",
+            "panorama": "./asphalt-hump.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -6.7740783180623945,
+                    "yaw": 56.468176203665855,
+                    "type": "scene",
+                    "text": "Bank",
+                    "sceneId": "bank"
+                },
+                {
+                    "pitch": 3.5700013313044825,
+                    "yaw": -74.60750079350359,
+                    "type": "scene",
+                    "text": "Pyramid",
+                    "sceneId": "pyramid"
+                },
+                {
+                    "pitch": -2.6857582355537306,
+                    "yaw": -105.34272257315452,
+                    "type": "scene",
+                    "text": "Big Ledge",
+                    "sceneId": "big-ledge"
+                }
+            ]
+        },
+        "bank": {
+            "title": "Bank",
+            "panorama": "./bank.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 2.478859123383066,
+                    "yaw": -81.08974462909671,
+                    "type": "scene",
+                    "text": "Pyramid",
+                    "sceneId": "pyramid"
+                },
+                {
+                    "pitch": -7.2458405752296065,
+                    "yaw": -115.04860998275643,
+                    "type": "scene",
+                    "text": "Asphalt Hump",
+                    "sceneId": "asphalt-hump"
+                },
+                {
+                    "pitch": -0.6682435181260459,
+                    "yaw": -98.57756953271473,
+                    "type": "scene",
+                    "text": "Big Ledge",
+                    "sceneId": "big-ledge"
+                }
+            ]
+        }
+    }
+}

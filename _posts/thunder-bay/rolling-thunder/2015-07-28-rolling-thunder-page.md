@@ -9,7 +9,7 @@ title:  Rolling Thunder Park
 city: Thunder Bay
 province: Ontario
 flag:  ca
-bannerImg:
+bannerImg: /tours/thunder-bay/banner.jpg
 
 # Shop Info (optional)
 shopLogo:
@@ -20,7 +20,12 @@ shopAddress:
 
 # Pano Tour Links
 tourLinks:
-  - coming-soon
+  - downrails
+  - pyramid
+  - lower
+  - big-ledge
+  - asphalt-hump
+  - bank
 
 # Geographic Info
 lat: 48.388

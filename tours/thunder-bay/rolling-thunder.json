@@ -9,7 +9,7 @@
     "scenes": {
         "downrails": {
             "title": "Downrails",
-            "panorama": "./downrails.jpg",
+            "panorama": "https://farm4.staticflickr.com/3820/19650685094_27f676c577_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -7.129171746160019,
@@ -43,7 +43,7 @@
         },
         "pyramid": {
             "title": "Pyramid",
-            "panorama": "./pyramid.jpg",
+            "panorama": "https://farm4.staticflickr.com/3772/20085303240_6fa8c016c7_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -7.385734328825258,
@@ -84,7 +84,7 @@
         },
         "lower": {
             "title": "Lower",
-            "panorama": "./lower.jpg",
+            "panorama": "https://farm1.staticflickr.com/335/20273327085_d88797d328_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 3.077875806995502,
@@ -104,7 +104,7 @@
         },
         "big-ledge": {
             "title": "Big Ledge",
-            "panorama": "./big-ledge.jpg",
+            "panorama": "https://farm4.staticflickr.com/3704/20086723009_9f68331b7e_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -5.2408469596223375,
@@ -138,7 +138,7 @@
         },
         "asphalt-hump": {
             "title": "Asphalt Hump",
-            "panorama": "./asphalt-hump.jpg",
+            "panorama": "https://farm1.staticflickr.com/486/19652379763_580341f966_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -6.7740783180623945,
@@ -165,7 +165,7 @@
         },
         "bank": {
             "title": "Bank",
-            "panorama": "./bank.jpg",
+            "panorama": "https://farm1.staticflickr.com/303/20085352848_5b1cddd858_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 2.478859123383066,

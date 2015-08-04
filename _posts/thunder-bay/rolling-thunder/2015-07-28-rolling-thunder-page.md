@@ -1,7 +1,7 @@
 ---
 layout: park_gallery
 permalink: /thunder-bay/rolling-thunder
-date:   2015-07-27
+date:   2015-07-28
 category: park
 
 # Park Page Info
@@ -9,7 +9,7 @@ title:  Rolling Thunder Park
 city: Thunder Bay
 province: Ontario
 flag:  ca
-bannerImg: /tours/thunder-bay/banner.jpg
+bannerImg: https://farm1.staticflickr.com/291/20086719759_cfb2c851f1_o.jpg
 
 # Shop Info (optional)
 shopLogo:

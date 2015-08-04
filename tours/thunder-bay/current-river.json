@@ -9,7 +9,7 @@
     "scenes": {
         "manny-pad": {
             "title": "Manny Pad",
-            "panorama": "tmp/manny-pad.jpg",
+            "panorama": "https://farm1.staticflickr.com/402/20250556486_1af0cc776c_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 2.10399390588877,
@@ -36,7 +36,7 @@
         },
         "center-pyramid": {
             "title": "Center Pyramid",
-            "panorama": "tmp/center-pyramid.jpg",
+            "panorama": "https://farm1.staticflickr.com/546/20250558256_c33139bce3_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.872266954028479,
@@ -63,7 +63,7 @@
         },
         "ledge-and-rail": {
             "title": "Ledge and Rail",
-            "panorama": "tmp/ledge-and-rail.jpg",
+            "panorama": "https://farm1.staticflickr.com/341/20268486342_2f6f28b618_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.493734614967302,
@@ -90,7 +90,7 @@
         },
         "end-bank": {
             "title": "End Bank",
-            "panorama": "tmp/end-bank.jpg",
+            "panorama": "https://farm4.staticflickr.com/3765/19655840383_2b0e05664b_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -1.546747799707842,

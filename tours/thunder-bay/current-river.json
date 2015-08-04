@@ -1,0 +1,119 @@
+{
+    "default": {
+        "author": "Kirk M.",
+        "firstScene": "entrance",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+    
+    "scenes": {
+        "manny-pad": {
+            "title": "Manny Pad",
+            "panorama": "tmp/manny-pad.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 2.10399390588877,
+                    "yaw": -31.669364806871858,
+                    "type": "scene",
+                    "text": "Center Pyramid",
+                    "sceneId": "center-pyramid"
+                },
+                {
+                    "pitch": -2.483695498751064,
+                    "yaw": -68.82720211412675,
+                    "type": "scene",
+                    "text": "Ledge and Rail",
+                    "sceneId": "ledge-and-rail"
+                },
+                {
+                    "pitch": 0.20005701358389538,
+                    "yaw": -57.65911592960934,
+                    "type": "scene",
+                    "text": "End Bank",
+                    "sceneId": "end-bank"
+                }
+            ]
+        },
+        "center-pyramid": {
+            "title": "Center Pyramid",
+            "panorama": "tmp/center-pyramid.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.872266954028479,
+                    "yaw": 117.54077492304846,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                },
+                {
+                    "pitch": -7.408346928283155,
+                    "yaw": -182.3735580000245,
+                    "type": "scene",
+                    "text": "Ledge and Rail",
+                    "sceneId": "ledge-and-rail"
+                },
+                {
+                    "pitch": -4.9962675859784715,
+                    "yaw": -124.82552635722183,
+                    "type": "scene",
+                    "text": "End Bank",
+                    "sceneId": "end-bank"
+                }
+            ]
+        },
+        "ledge-and-rail": {
+            "title": "Ledge and Rail",
+            "panorama": "tmp/ledge-and-rail.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.493734614967302,
+                    "yaw": 125.61395356922631,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                },
+                {
+                    "pitch": -2.161350289560318,
+                    "yaw": 50.06666295755795,
+                    "type": "scene",
+                    "text": "Center Pyramid",
+                    "sceneId": "center-pyramid"
+                },
+                {
+                    "pitch": -2.769261222074459,
+                    "yaw": -36.940362965656306,
+                    "type": "scene",
+                    "text": "End Bank",
+                    "sceneId": "end-bank"
+                }
+            ]
+        },
+        "end-bank": {
+            "title": "End Bank",
+            "panorama": "tmp/end-bank.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -1.546747799707842,
+                    "yaw": 96.09076810532997,
+                    "type": "scene",
+                    "text": "Center Pyramid",
+                    "sceneId": "center-pyramid"
+                },
+                {
+                    "pitch": -3.3515545702485796,
+                    "yaw": 140.52404706161798,
+                    "type": "scene",
+                    "text": "Ledge and Rail",
+                    "sceneId": "ledge-and-rail"
+                },
+                {
+                    "pitch": -2.438261339995753,
+                    "yaw": 130.46762692985465,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                }
+            ]
+        }
+    }
+}

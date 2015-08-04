@@ -9,7 +9,7 @@ title:  Current River Park
 city: Thunder Bay
 province: Ontario
 flag:  ca
-bannerImg:
+bannerImg: /tours/thunder-bay/tmp/banner.jpg
 
 # Shop Info (optional)
 shopLogo:
@@ -20,7 +20,10 @@ shopAddress:
 
 # Pano Tour Links
 tourLinks:
-  - coming soon!
+  - manny-pad
+  - center-pyramid
+  - ledge-and-rail
+  - end-bank
 
 # Geographic Info
 lat: 48.467

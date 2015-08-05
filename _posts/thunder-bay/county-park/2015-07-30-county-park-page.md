@@ -9,7 +9,7 @@ title:  County Park
 city: Thunder Bay
 province: Ontario
 flag:  ca
-bannerImg:
+bannerImg: /tours/thunder-bay/tmp/banner.jpg
 
 # Shop Info (optional)
 shopLogo:
@@ -20,7 +20,11 @@ shopAddress:
 
 # Pano Tour Links
 tourLinks:
-  - coming soon!
+  - curve-ledge
+  - start-bank
+  - box-and-ramp
+  - downrails
+  - top
 
 # Geographic Info
 lat: 48.458

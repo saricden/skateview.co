@@ -1,0 +1,181 @@
+{
+    "default": {
+        "author": "Kirk M.",
+        "firstScene": "entrance",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+    
+    "scenes": {
+        "curve-ledge": {
+            "title": "Curve Ledge",
+            "panorama": "tmp/curve-ledge.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -8.113500329168827,
+                    "yaw": 45.93291997799032,
+                    "type": "scene",
+                    "text": "Box and Ramp",
+                    "sceneId": "box-and-ramp"
+                },
+                {
+                    "pitch": 3.9369402511706313,
+                    "yaw": 167.80666020029966,
+                    "type": "scene",
+                    "text": "Start Bank",
+                    "sceneId": "start-bank"
+                },
+                {
+                    "pitch": -2.45090316552272,
+                    "yaw": 31.89848254986085,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": 2.1459188341766415,
+                    "yaw": 27.87288094305432,
+                    "type": "scene",
+                    "text": "Top",
+                    "sceneId": "top"
+                }
+            ]
+        },
+        "start-bank": {
+            "title": "Start Bank",
+            "panorama": "tmp/start-bank.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -19.36000698601218,
+                    "yaw": -126.07368318648022,
+                    "type": "scene",
+                    "text": "Curve Ledge",
+                    "sceneId": "curve-ledge"
+                },
+                {
+                    "pitch": -9.93968368191204,
+                    "yaw": -92.87171378942863,
+                    "type": "scene",
+                    "text": "Box and Ramp",
+                    "sceneId": "box-and-ramp"
+                },
+                {
+                    "pitch": -4.1868097756208655,
+                    "yaw": -90.7574889571923,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": 0.287721226289514,
+                    "yaw": -92.5227923490865,
+                    "type": "scene",
+                    "text": "Top",
+                    "sceneId": "top"
+                }
+            ]
+        },
+        "box-and-ramp": {
+            "title": "Box and Ramp",
+            "panorama": "tmp/box-and-ramp.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -7.986174333368262,
+                    "yaw": -83.42348759885361,
+                    "type": "scene",
+                    "text": "Curve Ledge",
+                    "sceneId": "curve-ledge"
+                },
+                {
+                    "pitch": 2.7239569297109827,
+                    "yaw": -115.30807439955798,
+                    "type": "scene",
+                    "text": "Start Bank",
+                    "sceneId": "start-bank"
+                },
+                {
+                    "pitch": -5.5649586680078755,
+                    "yaw": 64.35313750749344,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": 1.231958819232633,
+                    "yaw": 61.821756466337575,
+                    "type": "scene",
+                    "text": "Top",
+                    "sceneId": "top"
+                }
+            ]
+        },
+        "downrails": {
+            "title": "Downrails",
+            "panorama": "tmp/downrails.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2.406709087660352,
+                    "yaw": -126.18537680530174,
+                    "type": "scene",
+                    "text": "Curve Ledge",
+                    "sceneId": "curve-ledge"
+                },
+                {
+                    "pitch": 2.040461839521236,
+                    "yaw": -138.28876682381016,
+                    "type": "scene",
+                    "text": "Start Bank",
+                    "sceneId": "start-bank"
+                },
+                {
+                    "pitch": -4.169352036901658,
+                    "yaw": -138.11632470761705,
+                    "type": "scene",
+                    "text": "Bank and Ramp",
+                    "sceneId": "box-and-ramp"
+                },
+                {
+                    "pitch": 2.7079782999249593,
+                    "yaw": 42.77079168348389,
+                    "type": "scene",
+                    "text": "Top",
+                    "sceneId": "top"
+                }
+            ]
+        },
+        "top": {
+            "title": "Top",
+            "panorama": "tmp/top.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -16.16127729481715,
+                    "yaw": -162.01249789836547,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": -5.809226787011637,
+                    "yaw": -162.26401833397463,
+                    "type": "scene",
+                    "text": "Box and Ramp",
+                    "sceneId": "box-and-ramp"
+                },
+                {
+                    "pitch": -0.6312476212826957,
+                    "yaw": -162.8876218164597,
+                    "type": "scene",
+                    "text": "Start Bank",
+                    "sceneId": "start-bank"
+                },
+                {
+                    "pitch": -4.27591736872301,
+                    "yaw": -154.00817821319112,
+                    "type": "scene",
+                    "text": "Curve Ledge",
+                    "sceneId": "curve-ledge"
+                }
+            ]
+        }
+    }
+}

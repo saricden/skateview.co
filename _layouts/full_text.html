@@ -1,0 +1,32 @@
+---
+layout: wrapper
+---
+
+{% include page_nav.html %}
+
+<header class="fullpanel photo_bg">
+  <div class="centerpanel">
+    <h1>
+      {{ page.title }}
+    </h1>
+  </div>
+</header>
+
+<main class="centerpanel">
+  <div class="col twelve content_var">
+    {{ content }}
+  </div>
+</main>
+
+{% include page_footer.html %}
+
+<style>
+.photo_bg {
+  background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.7), 
+      rgba(0, 0, 0, 0.7)
+    ),
+    url({{ page.bannerImg }});
+}
+</style>

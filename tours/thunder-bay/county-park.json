@@ -9,7 +9,7 @@
     "scenes": {
         "curve-ledge": {
             "title": "Curve Ledge",
-            "panorama": "tmp/curve-ledge.jpg",
+            "panorama": "https://farm4.staticflickr.com/3747/20476268875_c73b92e9d0_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -8.113500329168827,
@@ -43,7 +43,7 @@
         },
         "start-bank": {
             "title": "Start Bank",
-            "panorama": "tmp/start-bank.jpg",
+            "panorama": "https://farm1.staticflickr.com/326/20482549371_1b281f44cf_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -19.36000698601218,
@@ -77,7 +77,7 @@
         },
         "box-and-ramp": {
             "title": "Box and Ramp",
-            "panorama": "tmp/box-and-ramp.jpg",
+            "panorama": "https://farm4.staticflickr.com/3814/20482549911_12279d9d25_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -7.986174333368262,
@@ -111,7 +111,7 @@
         },
         "downrails": {
             "title": "Downrails",
-            "panorama": "tmp/downrails.jpg",
+            "panorama": "https://farm1.staticflickr.com/550/20288158580_3e95ed2174_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -2.406709087660352,
@@ -145,7 +145,7 @@
         },
         "top": {
             "title": "Top",
-            "panorama": "tmp/top.jpg",
+            "panorama": "https://farm1.staticflickr.com/383/20482547371_484de0409c_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -16.16127729481715,

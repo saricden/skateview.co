@@ -9,7 +9,7 @@ title:  County Park
 city: Thunder Bay
 province: Ontario
 flag:  ca
-bannerImg: /tours/thunder-bay/tmp/banner.jpg
+bannerImg: https://farm1.staticflickr.com/419/20288157270_eaea57b543_o.jpg
 
 # Shop Info (optional)
 shopLogo:

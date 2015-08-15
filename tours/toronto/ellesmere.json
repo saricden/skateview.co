@@ -1,0 +1,875 @@
+{
+    "default": {
+        "author": "Kirk M.",
+        "firstScene": "entrance",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+    
+    "scenes": {
+        "between-two-banks": {
+            "title": "Between Two Banks",
+            "panorama": "tmp/between-two-banks.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -8.197334717603573,
+                    "yaw": 119.71651502459859,
+                    "type": "scene",
+                    "text": "Inside Shallow Banks",
+                    "sceneId": "inside-shallow-banks"
+                },
+                {
+                    "pitch": -7.327724667008416,
+                    "yaw": 83.100234861677,
+                    "type": "scene",
+                    "text": "Three Set of Death",
+                    "sceneId": "three-set-of-death"
+                },
+                {
+                    "pitch": -5.586531705894746,
+                    "yaw": -123.3434611602988,
+                    "type": "scene",
+                    "text": "Kicker Ledge",
+                    "sceneId": "kicker-ledge"
+                },
+                {
+                    "pitch": -5.02492359158646,
+                    "yaw": -72.22477218170923,
+                    "type": "scene",
+                    "text": "In the Mini Vert",
+                    "sceneId": "in-the-mini-vert"
+                },
+                {
+                    "pitch": -13.768463272038767,
+                    "yaw": 3.55570570547341,
+                    "type": "scene",
+                    "text": "Lower Center",
+                    "sceneId": "lower-center"
+                }
+            ]
+        },
+        "by-the-mini-vert": {
+            "title": "By the Mini Vert",
+            "panorama": "tmp/by-the-mini-vert.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -3.119023658716001,
+                    "yaw": 106.64072244124645,
+                    "type": "scene",
+                    "text": "Mini Vert Top",
+                    "sceneId": "mini-vert-top"
+                },
+                {
+                    "pitch": -12.116698084037765,
+                    "yaw": 58.80866047049348,
+                    "type": "scene",
+                    "text": "In the Mini Vert",
+                    "sceneId": "in-the-mini-vert"
+                },
+                {
+                    "pitch": -7.031678003643751,
+                    "yaw": -40.79196158191789,
+                    "type": "scene",
+                    "text": "Slanted Ledges",
+                    "sceneId": "slanted-ledges"
+                },
+                {
+                    "pitch": -2.6485688008744055,
+                    "yaw": 79.7165195138802,
+                    "type": "scene",
+                    "text": "Kicker Ledge",
+                    "sceneId": "kicker-ledge"
+                },
+                {
+                    "pitch": -2.5838788100897756,
+                    "yaw": 0.9351305665057374,
+                    "type": "scene",
+                    "text": "Downrail and Hip",
+                    "sceneId": "downrail-and-hip"
+                }
+            ]
+        },
+        "center-island": {
+            "title": "Center Island",
+            "panorama": "tmp/center-island.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -16.945737483230573,
+                    "yaw": 43.370346459653994,
+                    "type": "scene",
+                    "text": "In the Bowl",
+                    "sceneId": "in-the-bowl"
+                },
+                {
+                    "pitch": 0.5566177249328814,
+                    "yaw": 13.29180312854342,
+                    "type": "scene",
+                    "text": "Edge of Bowl",
+                    "sceneId": "edge-of-bowl"
+                },
+                {
+                    "pitch": -0.5833442751774255,
+                    "yaw": 77.42947075448436,
+                    "type": "scene",
+                    "text": "Curve Ledge",
+                    "sceneId": "curve-ledge"
+                },
+                {
+                    "pitch": -1.0895208970343633,
+                    "yaw": -73.43282075558845,
+                    "type": "scene",
+                    "text": "Downrail and Hip",
+                    "sceneId": "downrail-and-hip"
+                },
+                {
+                    "pitch": -13.351524115825482,
+                    "yaw": 172.14875048572324,
+                    "type": "scene",
+                    "text": "Lower Center",
+                    "sceneId": "lower-center"
+                },
+                {
+                    "pitch": 0.5170580839850837,
+                    "yaw": 27.92325809300759,
+                    "type": "scene",
+                    "text": "Entrance",
+                    "sceneId": "entrance"
+                }
+            ]
+        },
+        "curve-ledge": {
+            "title": "Curve Ledge",
+            "panorama": "tmp/curve-ledge.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -14.779139485624228,
+                    "yaw": -2.408549127099599,
+                    "type": "scene",
+                    "text": "In the Bowl",
+                    "sceneId": "in-the-bowl"
+                },
+                {
+                    "pitch": -5.501760756998273,
+                    "yaw": -26.353613074059894,
+                    "type": "scene",
+                    "text": "Center Island",
+                    "sceneId": "center-island"
+                },
+                {
+                    "pitch": -6.144475425756314,
+                    "yaw": -106.31216246839203,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": -2.422092794583598,
+                    "yaw": 16.934800193989993,
+                    "type": "scene",
+                    "text": "Edge of Bowl",
+                    "sceneId": "edge-of-bowl"
+                },
+                {
+                    "pitch": -4.186221734226393,
+                    "yaw": 35.25800752124606,
+                    "type": "scene",
+                    "text": "Entrance",
+                    "sceneId": "entrance"
+                },
+                {
+                    "pitch": -2.2364647356242937,
+                    "yaw": -121.34600967355345,
+                    "type": "info",
+                    "text": "Ashley Tajarrod rolling up the bank."
+                }
+            ]
+        },
+        "downrail-and-hip": {
+            "title": "Downrail and Hip",
+            "panorama": "tmp/downrail-and-hip.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.532365226498671,
+                    "yaw": 98.1771400166324,
+                    "type": "scene",
+                    "text": "By the Mini Vert",
+                    "sceneId": "by-the-mini-vert"
+                },
+                {
+                    "pitch": -7.898538676386762,
+                    "yaw": 59.98609955920683,
+                    "type": "scene",
+                    "text": "In the Mini Vert",
+                    "sceneId": "in-the-mini-vert"
+                },
+                {
+                    "pitch": -10.739708787695445,
+                    "yaw": -40.15043844662473,
+                    "type": "scene",
+                    "text": "Center Island",
+                    "sceneId": "center-island"
+                },
+                {
+                    "pitch": -6.909847062290535,
+                    "yaw": 134.77317185092755,
+                    "type": "scene",
+                    "text": "Slanted Ledges",
+                    "sceneId": "slanted-ledges"
+                },
+                {
+                    "pitch": -7.2914209024999295,
+                    "yaw": -157.3878833884373,
+                    "type": "scene",
+                    "text": "Ledges",
+                    "sceneId": "ledges"
+                },
+                {
+                    "pitch": -3.9787270606718845,
+                    "yaw": -99.02326095722175,
+                    "type": "scene",
+                    "text": "Edge of Bowl",
+                    "sceneId": "edge-of-bowl"
+                }
+            ]
+        },
+        "downrails": {
+            "title": "Downrails",
+            "panorama": "tmp/downrails.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2.091643355952269,
+                    "yaw": -101.04399750318619,
+                    "type": "scene",
+                    "text": "Five Set Top",
+                    "sceneId": "five-set-top"
+                },
+                {
+                    "pitch": -1.2264327209562462,
+                    "yaw": -77.8616768381052,
+                    "type": "scene",
+                    "text": "Five Set Hubba",
+                    "sceneId": "five-set-hubba"
+                },
+                {
+                    "pitch": -0.9005676210672348,
+                    "yaw": -52.42802370994634,
+                    "type": "scene",
+                    "text": "Three Set of Death",
+                    "sceneId": "three-set-of-death"
+                },
+                {
+                    "pitch": -9.553336618591466,
+                    "yaw": 0.6771617776834518,
+                    "type": "scene",
+                    "text": "Lower Center",
+                    "sceneId": "lower-center"
+                },
+                {
+                    "pitch": -2.742526679166058,
+                    "yaw": 34.59019637128031,
+                    "type": "scene",
+                    "text": "Center Island",
+                    "sceneId": "center-island"
+                },
+                {
+                    "pitch": -2.4992042375965697,
+                    "yaw": 93.23167627743166,
+                    "type": "scene",
+                    "text": "Curve Ledge",
+                    "sceneId": "curve-ledge"
+                }
+            ]
+        },
+        "edge-of-bowl": {
+            "title": "Edge of Bowl",
+            "panorama": "tmp/edge-of-bowl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -20.965240879256434,
+                    "yaw": 26.671305447636918,
+                    "type": "scene",
+                    "text": "In the Bowl",
+                    "sceneId": "in-the-bowl"
+                },
+                {
+                    "pitch": -9.473610935275351,
+                    "yaw": -57.93063941836911,
+                    "type": "scene",
+                    "text": "Entrance",
+                    "sceneId": "entrance"
+                },
+                {
+                    "pitch": -1.4867828368550249,
+                    "yaw": 1.4555105261139412,
+                    "type": "scene",
+                    "text": "Curve Ledge",
+                    "sceneId": "curve-ledge"
+                },
+                {
+                    "pitch": -7.835223026160231,
+                    "yaw": 58.98242918852152,
+                    "type": "scene",
+                    "text": "Center Island",
+                    "sceneId": "center-island"
+                },
+                {
+                    "pitch": -4.4309891473868275,
+                    "yaw": 97.38414373588164,
+                    "type": "scene",
+                    "text": "Dowrail and Hip",
+                    "sceneId": "downrail-and-hip"
+                },
+                {
+                    "pitch": -6.987971086433224,
+                    "yaw": 148.0373690847561,
+                    "type": "scene",
+                    "text": "Ledges",
+                    "sceneId": "ledges"
+                }
+            ]
+        },
+        "entrance": {
+            "title": "Entrance",
+            "panorama": "tmp/entrance.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2.3936456036486486,
+                    "yaw": 3.6151801553583383,
+                    "type": "scene",
+                    "text": "Curve Ledge",
+                    "sceneId": "curve-ledge"
+                },
+                {
+                    "pitch": -11.511152947360406,
+                    "yaw": 106.43872001469566,
+                    "type": "scene",
+                    "text": "Edge of Bowl",
+                    "sceneId": "edge-of-bowl"
+                },
+                {
+                    "pitch": -4.311493871238773,
+                    "yaw": 124.49395516249513,
+                    "type": "scene",
+                    "text": "Ledges",
+                    "sceneId": "ledges"
+                },
+                {
+                    "pitch": -5.4718334997643225,
+                    "yaw": 63.318603055604584,
+                    "type": "scene",
+                    "text": "Center Island",
+                    "sceneId": "center-island"
+                }
+            ]
+        },
+        "five-set-hubba": {
+            "title": "Five Set Hubba",
+            "panorama": "tmp/five-set-hubba.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -8.060029450252069,
+                    "yaw": -21.20147778715415,
+                    "type": "scene",
+                    "text": "Three Set of Death",
+                    "sceneId": "three-set-of-death"
+                },
+                {
+                    "pitch": -4.521161525732624,
+                    "yaw": -88.52432591539228,
+                    "type": "scene",
+                    "text": "High Flat Rail",
+                    "sceneId": "high-flat-rail"
+                },
+                {
+                    "pitch": -1.4183693093018401,
+                    "yaw": -154.17754804900667,
+                    "type": "scene",
+                    "text": "Start Bank",
+                    "sceneId": "start-bank"
+                },
+                {
+                    "pitch": -17.047303359822116,
+                    "yaw": 162.6340324796264,
+                    "type": "scene",
+                    "text": "Five Set Top",
+                    "sceneId": "five-set-top"
+                },
+                {
+                    "pitch": -10.688932553901944,
+                    "yaw": 95.21708060916049,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                }
+            ]
+        },
+        "five-set-top": {
+            "title": "Five Set Top",
+            "panorama": "tmp/five-set-top.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -12.588833199596177,
+                    "yaw": 13.880636399008248,
+                    "type": "scene",
+                    "text": "Five Set Hubba",
+                    "sceneId": "five-set-hubba"
+                },
+                {
+                    "pitch": -3.277899115399511,
+                    "yaw": -44.319995596210646,
+                    "type": "scene",
+                    "text": "High Flat Rail",
+                    "sceneId": "high-flat-rail"
+                },
+                {
+                    "pitch": -0.011085158037559932,
+                    "yaw": -122.5603535695182,
+                    "type": "scene",
+                    "text": "Start Bank",
+                    "sceneId": "start-bank"
+                },
+                {
+                    "pitch": -9.97404990509335,
+                    "yaw": 91.95491501559748,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": -4.287314940117585,
+                    "yaw": 10.045451137330648,
+                    "type": "scene",
+                    "text": "Three Set of Death",
+                    "sceneId": "three-set-of-death"
+                }
+            ]
+        },
+        "high-flat-rail": {
+            "title": "High Flat Rail",
+            "panorama": "tmp/high-flat-rail.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -11.867785820705727,
+                    "yaw": -88.45291071715553,
+                    "type": "scene",
+                    "text": "Inside Shallow Banks",
+                    "sceneId": "inside-shallow-banks"
+                },
+                {
+                    "pitch": -6.522814802288413,
+                    "yaw": -48.641049589819204,
+                    "type": "scene",
+                    "text": "Three Set of Death",
+                    "sceneId": "three-set-of-death"
+                },
+                {
+                    "pitch": -5.063949102320969,
+                    "yaw": -11.089204683391696,
+                    "type": "scene",
+                    "text": "Five Set Hubba",
+                    "sceneId": "five-set-hubba"
+                },
+                {
+                    "pitch": -4.0798652860857665,
+                    "yaw": 6.714410548581569,
+                    "type": "scene",
+                    "text": "Five Set Top",
+                    "sceneId": "five-set-top"
+                },
+                {
+                    "pitch": -0.09551298822663595,
+                    "yaw": 63.83703250684587,
+                    "type": "scene",
+                    "text": "Start Bank",
+                    "sceneId": "start-bank"
+                },
+                {
+                    "pitch": 6.469597756357638,
+                    "yaw": -118.36599717870784,
+                    "type": "info",
+                    "text": "Max Muirhead chillin again."
+                }
+            ]
+        },
+        "in-the-bowl": {
+            "title": "In the Bowl",
+            "panorama": "tmp/in-the-bowl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 1.1832859208015094,
+                    "yaw": -10.847264885282629,
+                    "type": "scene",
+                    "text": "Center Island",
+                    "sceneId": "center-island"
+                },
+                {
+                    "pitch": -2.4568612165446,
+                    "yaw": -31.420265790950257,
+                    "type": "scene",
+                    "text": "Lower Center",
+                    "sceneId": "lower-center"
+                },
+                {
+                    "pitch": 5.737112911719048,
+                    "yaw": -118.73291799824642,
+                    "type": "scene",
+                    "text": "Curve Ledge",
+                    "sceneId": "curve-ledge"
+                },
+                {
+                    "pitch": 5.549779800585294,
+                    "yaw": 115.7859096277315,
+                    "type": "scene",
+                    "text": "Edge of Bowl",
+                    "sceneId": "edge-of-bowl"
+                },
+                {
+                    "pitch": 7.845605078323038,
+                    "yaw": -157.67674659714763,
+                    "type": "info",
+                    "text": "Elizabeth Zeeman Atkinson riding the bowl."
+                }
+            ]
+        },
+        "in-the-mini-vert": {
+            "title": "In the Mini Vert",
+            "panorama": "tmp/in-the-mini-vert.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -0.29359062415446807,
+                    "yaw": -30.917170182554884,
+                    "type": "scene",
+                    "text": "Downrail and Hip",
+                    "sceneId": "downrail-and-hip"
+                },
+                {
+                    "pitch": -1.2437020720585137,
+                    "yaw": -115.42413697657213,
+                    "type": "scene",
+                    "text": "By the Mini Vert",
+                    "sceneId": "by-the-mini-vert"
+                },
+                {
+                    "pitch": 0.5971202088610923,
+                    "yaw": 173.08768674377495,
+                    "type": "scene",
+                    "text": "Mini Vert Top",
+                    "sceneId": "mini-vert-top"
+                },
+                {
+                    "pitch": -2.1285661081237204,
+                    "yaw": 104.14856735680596,
+                    "type": "scene",
+                    "text": "Kicker Ledge",
+                    "sceneId": "kicker-ledge"
+                },
+                {
+                    "pitch": -0.6880749803708568,
+                    "yaw": 66.40612974011823,
+                    "type": "scene",
+                    "text": "Between Two Banks",
+                    "sceneId": "between-two-banks"
+                }
+            ]
+        },
+        "inside-shallow-banks": {
+            "title": "Inside Shallow Banks",
+            "panorama": "tmp/inside-shallow-banks.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2.4700011875511607,
+                    "yaw": 27.608085594254696,
+                    "type": "scene",
+                    "text": "High Flat Rail",
+                    "sceneId": "high-flat-rail"
+                },
+                {
+                    "pitch": -5.205707605308649,
+                    "yaw": -66.80744146241199,
+                    "type": "scene",
+                    "text": "Three Set of Death",
+                    "sceneId": "three-set-of-death"
+                },
+                {
+                    "pitch": -2.514187890539737,
+                    "yaw": -119.39623327881439,
+                    "type": "scene",
+                    "text": "Between Two Banks",
+                    "sceneId": "between-two-banks"
+                },
+                {
+                    "pitch": -2.046631785584932,
+                    "yaw": -147.63744859695038,
+                    "type": "scene",
+                    "text": "Kicker Ledge",
+                    "sceneId": "kicker-ledge"
+                }
+            ]
+        },
+        "kicker-ledge": {
+            "title": "Kicker Ledge",
+            "panorama": "tmp/kicker-ledge.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -3.867338036657957,
+                    "yaw": 4.010054282858579,
+                    "type": "scene",
+                    "text": "Between Two Banks",
+                    "sceneId": "between-two-banks"
+                },
+                {
+                    "pitch": -2.9473386900753042,
+                    "yaw": -135.8428002482083,
+                    "type": "scene",
+                    "text": "Mini Vert Top",
+                    "sceneId": "mini-vert-top"
+                },
+                {
+                    "pitch": -8.008724559655603,
+                    "yaw": -87.87152249780229,
+                    "type": "scene",
+                    "text": "In the Mini Vert",
+                    "sceneId": "in-the-mini-vert"
+                },
+                {
+                    "pitch": -2.8078694414543537,
+                    "yaw": -113.63078599923004,
+                    "type": "scene",
+                    "text": "By the Mini Vert",
+                    "sceneId": "by-the-mini-vert"
+                }
+            ]
+        },
+        "ledges": {
+            "title": "Ledges",
+            "panorama": "tmp/ledges.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -3.8915512621144144,
+                    "yaw": 89.91212676505057,
+                    "type": "scene",
+                    "text": "Slanted Ledges",
+                    "sceneId": "slanted-ledges"
+                },
+                {
+                    "pitch": -5.696270961138931,
+                    "yaw": 24.87808559577669,
+                    "type": "scene",
+                    "text": "Downrail and Hip",
+                    "sceneId": "downrail-and-hip"
+                },
+                {
+                    "pitch": -4.786759495981325,
+                    "yaw": -41.07189247060217,
+                    "type": "scene",
+                    "text": "Edge of Bowl",
+                    "sceneId": "edge-of-bowl"
+                },
+                {
+                    "pitch": -1.6225635754845762,
+                    "yaw": -51.914485370655605,
+                    "type": "scene",
+                    "text": "Entrance",
+                    "sceneId": "entrance"
+                },
+                {
+                    "pitch": 5.086858144251756,
+                    "yaw": -178.67951126831443,
+                    "type": "info",
+                    "text": "Max Muirhead chillin."
+                }
+            ]
+        },
+        "lower-center": {
+            "title": "Lower Center",
+            "panorama": "tmp/lower-center.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 5.598497426332143,
+                    "yaw": 13.097743665671787,
+                    "type": "scene",
+                    "text": "Between Two Banks",
+                    "sceneId": "between-two-banks"
+                },
+                {
+                    "pitch": 5.1652644923244955,
+                    "yaw": -37.77896630598638,
+                    "type": "scene",
+                    "text": "Three Set of Death",
+                    "sceneId": "three-set-of-death"
+                },
+                {
+                    "pitch": 1.954696808212132,
+                    "yaw": -117.66346326850959,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": -4.183287734795053,
+                    "yaw": 169.292866953611,
+                    "type": "scene",
+                    "text": "In the Bowl",
+                    "sceneId": "in-the-bowl"
+                },
+                {
+                    "pitch": -0.12345598839768643,
+                    "yaw": 152.81012326568745,
+                    "type": "scene",
+                    "text": "Center Island",
+                    "sceneId": "center-island"
+                }
+            ]
+        },
+        "mini-vert-top": {
+            "title": "Mini Vert Top",
+            "panorama": "tmp/mini-vert-top.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -7.016321172454399,
+                    "yaw": -25.584985337513956,
+                    "type": "scene",
+                    "text": "By the Mini Vert",
+                    "sceneId": "by-the-mini-vert"
+                },
+                {
+                    "pitch": -14.676625720491536,
+                    "yaw": 29.20483645084632,
+                    "type": "scene",
+                    "text": "In the Mini Vert",
+                    "sceneId": "in-the-mini-vert"
+                },
+                {
+                    "pitch": -7.772007213073941,
+                    "yaw": 105.38675949152011,
+                    "type": "scene",
+                    "text": "Kicker Ledge",
+                    "sceneId": "kicker-ledge"
+                }
+            ]
+        },
+        "slanted-ledges": {
+            "title": "Slanted Ledges",
+            "panorama": "tmp/slanted-ledges.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -5.206522282322406,
+                    "yaw": -0.9371265381278356,
+                    "type": "scene",
+                    "text": "Ledges",
+                    "sceneId": "ledges"
+                },
+                {
+                    "pitch": -6.250353835277281,
+                    "yaw": 50.772817180966754,
+                    "type": "scene",
+                    "text": "Downrail and Hip",
+                    "sceneId": "downrail-and-hip"
+                },
+                {
+                    "pitch": -7.256630242778815,
+                    "yaw": 161.50622125767674,
+                    "type": "scene",
+                    "text": "By the Mini Vert",
+                    "sceneId": "by-the-mini-vert"
+                }
+            ]
+        },
+        "start-bank": {
+            "title": "Start Bank",
+            "panorama": "tmp/start-bank.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -6.7146654603579226,
+                    "yaw": 30.405852655440327,
+                    "type": "scene",
+                    "text": "Five Set Top",
+                    "sceneId": "five-set-top"
+                },
+                {
+                    "pitch": -5.414525748174631,
+                    "yaw": 21.095986038151054,
+                    "type": "scene",
+                    "text": "Five Set Hubba",
+                    "sceneId": "five-set-hubba"
+                },
+                {
+                    "pitch": -5.253937317008744,
+                    "yaw": -19.108383549154897,
+                    "type": "scene",
+                    "text": "High Flat Rail",
+                    "sceneId": "high-flat-rail"
+                },
+                {
+                    "pitch": -3.8344644331110094,
+                    "yaw": 5.567718673788056,
+                    "type": "scene",
+                    "text": "Three Set of Death",
+                    "sceneId": "three-set-of-death"
+                }
+            ]
+        },
+        "three-set-of-death": {
+            "title": "Three Set of Death",
+            "panorama": "tmp/three-set-of-death.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -6.87899348694521,
+                    "yaw": -68.17201145681624,
+                    "type": "scene",
+                    "text": "Between Two Banks",
+                    "sceneId": "between-two-banks"
+                },
+                {
+                    "pitch": -14.061197259651953,
+                    "yaw": -160.73175360550317,
+                    "type": "scene",
+                    "text": "Inside Shallow Banks",
+                    "sceneId": "inside-shallow-banks"
+                },
+                {
+                    "pitch": -6.5239997376169745,
+                    "yaw": 85.51392108401713,
+                    "type": "scene",
+                    "text": "Five Set Hubba",
+                    "sceneId": "five-set-hubba"
+                },
+                {
+                    "pitch": -3.9451386503110077,
+                    "yaw": 83.23976077656893,
+                    "type": "scene",
+                    "text": "Five Set Top",
+                    "sceneId": "five-set-top"
+                },
+                {
+                    "pitch": -5.200077112993242,
+                    "yaw": 52.2136901585286,
+                    "type": "scene",
+                    "text": "Downrails",
+                    "sceneId": "downrails"
+                },
+                {
+                    "pitch": -12.426142173310831,
+                    "yaw": -7.914402696119517,
+                    "type": "scene",
+                    "text": "Lower Center",
+                    "sceneId": "lower-center"
+                },
+                {
+                    "pitch": -4.624185206543618,
+                    "yaw": 155.36266201487226,
+                    "type": "scene",
+                    "text": "High Flat Rail",
+                    "sceneId": "high-flat-rail"
+                },
+                {
+                    "pitch": 0.027322623969025104,
+                    "yaw": 113.72182846204949,
+                    "type": "scene",
+                    "text": "Start Bank",
+                    "sceneId": "start-bank"
+                }
+            ]
+        }
+    }
+}

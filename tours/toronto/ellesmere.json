@@ -9,7 +9,7 @@
     "scenes": {
         "between-two-banks": {
             "title": "Between Two Banks",
-            "panorama": "tmp/between-two-banks.jpg",
+            "panorama": "https://farm1.staticflickr.com/587/20422132899_a675419d4a_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -8.197334717603573,
@@ -50,7 +50,7 @@
         },
         "by-the-mini-vert": {
             "title": "By the Mini Vert",
-            "panorama": "tmp/by-the-mini-vert.jpg",
+            "panorama": "https://farm1.staticflickr.com/701/20615465101_30f732768d_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -3.119023658716001,
@@ -91,7 +91,7 @@
         },
         "center-island": {
             "title": "Center Island",
-            "panorama": "tmp/center-island.jpg",
+            "panorama": "https://farm6.staticflickr.com/5634/20422158429_7f90bd5520_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -16.945737483230573,
@@ -139,7 +139,7 @@
         },
         "curve-ledge": {
             "title": "Curve Ledge",
-            "panorama": "tmp/curve-ledge.jpg",
+            "panorama": "https://farm1.staticflickr.com/695/20422157179_6e9d01c3bd_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -14.779139485624228,
@@ -186,7 +186,7 @@
         },
         "downrail-and-hip": {
             "title": "Downrail and Hip",
-            "panorama": "tmp/downrail-and-hip.jpg",
+            "panorama": "https://farm6.staticflickr.com/5768/20582590926_2d42a2e2ae_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.532365226498671,
@@ -234,7 +234,7 @@
         },
         "downrails": {
             "title": "Downrails",
-            "panorama": "tmp/downrails.jpg",
+            "panorama": "https://farm1.staticflickr.com/564/20615460851_61b0f9708e_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -2.091643355952269,
@@ -282,7 +282,7 @@
         },
         "edge-of-bowl": {
             "title": "Edge of Bowl",
-            "panorama": "tmp/edge-of-bowl.jpg",
+            "panorama": "https://farm1.staticflickr.com/652/19987969033_ecde34016b_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -20.965240879256434,
@@ -330,7 +330,7 @@
         },
         "entrance": {
             "title": "Entrance",
-            "panorama": "tmp/entrance.jpg",
+            "panorama": "https://farm6.staticflickr.com/5792/20420876320_81503ac6f0_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -2.3936456036486486,
@@ -364,7 +364,7 @@
         },
         "five-set-hubba": {
             "title": "Five Set Hubba",
-            "panorama": "tmp/five-set-hubba.jpg",
+            "panorama": "https://farm1.staticflickr.com/582/19987966663_659cf3b656_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -8.060029450252069,
@@ -405,7 +405,7 @@
         },
         "five-set-top": {
             "title": "Five Set Top",
-            "panorama": "tmp/five-set-top.jpg",
+            "panorama": "https://farm1.staticflickr.com/660/19986283764_30e9a00df8_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -12.588833199596177,
@@ -446,7 +446,7 @@
         },
         "high-flat-rail": {
             "title": "High Flat Rail",
-            "panorama": "tmp/high-flat-rail.jpg",
+            "panorama": "https://farm1.staticflickr.com/715/20420872950_f32d8f9ab8_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -11.867785820705727,
@@ -493,7 +493,7 @@
         },
         "in-the-bowl": {
             "title": "In the Bowl",
-            "panorama": "tmp/in-the-bowl.jpg",
+            "panorama": "https://farm6.staticflickr.com/5832/20582582456_545d86e5a7_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 1.1832859208015094,
@@ -533,7 +533,7 @@
         },
         "in-the-mini-vert": {
             "title": "In the Mini Vert",
-            "panorama": "tmp/in-the-mini-vert.jpg",
+            "panorama": "https://farm1.staticflickr.com/780/20582581256_784577defb_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.29359062415446807,
@@ -574,7 +574,7 @@
         },
         "inside-shallow-banks": {
             "title": "Inside Shallow Banks",
-            "panorama": "tmp/inside-shallow-banks.jpg",
+            "panorama": "https://farm1.staticflickr.com/591/19987963573_5def2271f6_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -2.4700011875511607,
@@ -608,7 +608,7 @@
         },
         "kicker-ledge": {
             "title": "Kicker Ledge",
-            "panorama": "tmp/kicker-ledge.jpg",
+            "panorama": "https://farm1.staticflickr.com/578/20422145009_b9ef70061c_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -3.867338036657957,
@@ -642,7 +642,7 @@
         },
         "ledges": {
             "title": "Ledges",
-            "panorama": "tmp/ledges.jpg",
+            "panorama": "https://farm6.staticflickr.com/5832/19987959373_8d950d3365_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -3.8915512621144144,
@@ -682,7 +682,7 @@
         },
         "lower-center": {
             "title": "Lower Center",
-            "panorama": "tmp/lower-center.jpg",
+            "panorama": "https://farm1.staticflickr.com/685/20420866200_3de864441d_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 5.598497426332143,
@@ -723,7 +723,7 @@
         },
         "mini-vert-top": {
             "title": "Mini Vert Top",
-            "panorama": "tmp/mini-vert-top.jpg",
+            "panorama": "https://farm6.staticflickr.com/5743/19987957063_7c9d29dd21_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -7.016321172454399,
@@ -750,7 +750,7 @@
         },
         "slanted-ledges": {
             "title": "Slanted Ledges",
-            "panorama": "tmp/slanted-ledges.jpg",
+            "panorama": "https://farm1.staticflickr.com/748/20422140049_607b429261_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -5.206522282322406,
@@ -777,7 +777,7 @@
         },
         "start-bank": {
             "title": "Start Bank",
-            "panorama": "tmp/start-bank.jpg",
+            "panorama": "https://farm6.staticflickr.com/5758/20599799802_be2c9f5577_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -6.7146654603579226,
@@ -811,7 +811,7 @@
         },
         "three-set-of-death": {
             "title": "Three Set of Death",
-            "panorama": "tmp/three-set-of-death.jpg",
+            "panorama": "https://farm6.staticflickr.com/5621/19987948053_2fee5f9615_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -6.87899348694521,

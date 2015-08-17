@@ -9,7 +9,7 @@ title:  Ellesmere Skatepark
 city: Toronto
 province: Ontario
 flag:  ca
-bannerImg: /tours/toronto/tmp/banner.jpg
+bannerImg: https://farm6.staticflickr.com/5684/20422132849_92b9d09c68_o.jpg
 
 # Shop Info (optional)
 shopLogo:

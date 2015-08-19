@@ -1,0 +1,536 @@
+{
+    "default": {
+        "author": "Kirk M.",
+        "firstScene": "entrance",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+    
+    "scenes": {
+        "bowl": {
+            "title": "Bowl",
+            "panorama": "./tmp/bowl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -1.9109635551737607,
+                    "yaw": 115.01713326978782,
+                    "type": "scene",
+                    "text": "End Banks",
+                    "sceneId": "end-banks"
+                },
+                {
+                    "pitch": -3.5036219091175234,
+                    "yaw": -84.23452140650222,
+                    "type": "scene",
+                    "text": "Bowlside",
+                    "sceneId": "bowlside"
+                },
+                {
+                    "pitch": -17.78717702944598,
+                    "yaw": -62.1292903465403,
+                    "type": "scene",
+                    "text": "Inside Bowl",
+                    "sceneId": "inside-bowl"
+                },
+                {
+                    "pitch": 1.1993288642423776,
+                    "yaw": -19.397143402685757,
+                    "type": "scene",
+                    "text": "Flatland",
+                    "sceneId": "flatland"
+                },
+                {
+                    "pitch": -5.0275096990691495,
+                    "yaw": 91.23790388887892,
+                    "type": "scene",
+                    "text": "Oh Canada",
+                    "sceneId": "oh-canada"
+                },
+                {
+                    "pitch": -3.4772503624116124,
+                    "yaw": 56.18594131137218,
+                    "type": "scene",
+                    "text": "Grass Gap",
+                    "sceneId": "grass-gap"
+                }
+            ]
+        },
+        "bowlside": {
+            "title": "Bowlside",
+            "panorama": "./tmp/bowlside.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0.4476987856796984,
+                    "yaw": -174.47556051134,
+                    "type": "scene",
+                    "text": "Flatland",
+                    "sceneId": "flatland"
+                },
+                {
+                    "pitch": -30.022721039820162,
+                    "yaw": -129.7119160742,
+                    "type": "scene",
+                    "text": "Inside Bowl",
+                    "sceneId": "inside-bowl"
+                },
+                {
+                    "pitch": -4.122117645437732,
+                    "yaw": -98.18008903713407,
+                    "type": "scene",
+                    "text": "Bowl",
+                    "sceneId": "bowl"
+                }
+            ]
+        },
+        "diy-wallride": {
+            "title": "DIY Wallride",
+            "panorama": "./tmp/diy-wallride.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -7.97291389913897,
+                    "yaw": -8.44827181216429,
+                    "type": "scene",
+                    "text": "Stairsets",
+                    "sceneId": "stairsets"
+                },
+                {
+                    "pitch": -11.59253688093721,
+                    "yaw": 128.33680411290814,
+                    "type": "scene",
+                    "text": "Shallow Stairs Handrail",
+                    "sceneId": "shallow-stairs-handrail"
+                },
+                {
+                    "pitch": -7.152190416275878,
+                    "yaw": 66.35453872910784,
+                    "type": "scene",
+                    "text": "Grass Gap",
+                    "sceneId": "grass-gap"
+                },
+                {
+                    "pitch": -4.310157866289522,
+                    "yaw": 111.19971343986452,
+                    "type": "scene",
+                    "text": "Oh Canada",
+                    "sceneId": "oh-canada"
+                },
+                {
+                    "pitch": 0.10524785776839946,
+                    "yaw": -27.17586534119776,
+                    "type": "scene",
+                    "text": "Long Bank Bottom",
+                    "sceneId": "long-bank-bottom"
+                }
+            ]
+        },
+        "end-banks": {
+            "title": "End Banks",
+            "panorama": "./tmp/end-banks.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2.572108251861369,
+                    "yaw": -45.58909576779874,
+                    "type": "scene",
+                    "text": "Bowl",
+                    "sceneId": "bowl"
+                },
+                {
+                    "pitch": -8.570678279996795,
+                    "yaw": -14.266190953171202,
+                    "type": "scene",
+                    "text": "Shallow Stairs Handrail",
+                    "sceneId": "shallow-stairs-handrail"
+                },
+                {
+                    "pitch": -11.280452750277757,
+                    "yaw": 14.889514686783576,
+                    "type": "scene",
+                    "text": "Oh Canada",
+                    "sceneId": "oh-canada"
+                },
+                {
+                    "pitch": -3.526095795423569,
+                    "yaw": 14.739219400660748,
+                    "type": "scene",
+                    "text": "Grass Gap",
+                    "sceneId": "grass-gap"
+                }
+            ]
+        },
+        "flatbar-two-set": {
+            "title": "Flatbar Two Set",
+            "panorama": "./tmp/flatbar-two-set.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2.6495076962973396,
+                    "yaw": -49.79740780646666,
+                    "type": "scene",
+                    "text": "Rock Vert",
+                    "sceneId": "rock-vert"
+                },
+                {
+                    "pitch": -2.2813576981596717,
+                    "yaw": -83.63905562033295,
+                    "type": "scene",
+                    "text": "Flatland",
+                    "sceneId": "flatland"
+                },
+                {
+                    "pitch": -6.847776861618249,
+                    "yaw": -133.76705781248174,
+                    "type": "scene",
+                    "text": "Long Bank Bottom",
+                    "sceneId": "long-bank-bottom"
+                },
+                {
+                    "pitch": -4.03478965370339,
+                    "yaw": -162.75871770857935,
+                    "type": "scene",
+                    "text": "Long Bank Top",
+                    "sceneId": "long-bank-top"
+                }
+            ]
+        },
+        "flatland": {
+            "title": "Flatland",
+            "panorama": "./tmp/flatland.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -3.7977692394378355,
+                    "yaw": -76.4343521092835,
+                    "type": "scene",
+                    "text": "Flatbar Two Set",
+                    "sceneId": "flatbar-two-set"
+                },
+                {
+                    "pitch": -6.539078160144405,
+                    "yaw": -117.315479304843,
+                    "type": "scene",
+                    "text": "Rock Vert",
+                    "sceneId": "rock-vert"
+                },
+                {
+                    "pitch": -8.974254202424076,
+                    "yaw": 12.024044824803406,
+                    "type": "scene",
+                    "text": "Stairsets",
+                    "sceneId": "stairsets"
+                },
+                {
+                    "pitch": -4.747759756434615,
+                    "yaw": 78.83599506585831,
+                    "type": "scene",
+                    "text": "Bowl",
+                    "sceneId": "bowl"
+                },
+                {
+                    "pitch": -5.9841020023584806,
+                    "yaw": 117.40062788545602,
+                    "type": "scene",
+                    "text": "Bowlside",
+                    "sceneId": "bowlside"
+                },
+                {
+                    "pitch": -6.82448151949809,
+                    "yaw": -22.84680217099919,
+                    "type": "scene",
+                    "text": "Long Bank Bottom",
+                    "sceneId": "long-bank-bottom"
+                }
+            ]
+        },
+        "grass-gap": {
+            "title": "Grass Gap",
+            "panorama": "./tmp/grass-gap.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -6.333893553080911,
+                    "yaw": -27.49591557512949,
+                    "type": "scene",
+                    "text": "DIY Wallride",
+                    "sceneId": "diy-wallride"
+                },
+                {
+                    "pitch": -5.302877027262314,
+                    "yaw": 14.6556319526197,
+                    "type": "scene",
+                    "text": "Stairsets",
+                    "sceneId": "stairsets"
+                },
+                {
+                    "pitch": -0.8092252024368988,
+                    "yaw": 27.635314921163896,
+                    "type": "scene",
+                    "text": "Long Bank Bottom",
+                    "sceneId": "long-bank-bottom"
+                },
+                {
+                    "pitch": -6.615153176121523,
+                    "yaw": -120.39958740342213,
+                    "type": "scene",
+                    "text": "Oh Canada",
+                    "sceneId": "oh-canada"
+                },
+                {
+                    "pitch": 0.5211132038994387,
+                    "yaw": -121.5704425327669,
+                    "type": "scene",
+                    "text": "End Banks",
+                    "sceneId": "end-banks"
+                },
+                {
+                    "pitch": -7.631358857912883,
+                    "yaw": -76.84796675804968,
+                    "type": "scene",
+                    "text": "Shallow Stairs Handrail",
+                    "sceneId": "shallow-stairs-handrail"
+                }
+            ]
+        },
+        "inside-bowl": {
+            "title": "Inside Bowl",
+            "panorama": "./tmp/inside-bowl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 7.55570330521909,
+                    "yaw": -19.68821371695361,
+                    "type": "scene",
+                    "text": "Bowl",
+                    "sceneId": "bowl"
+                },
+                {
+                    "pitch": 8.990163961047404,
+                    "yaw": 115.80897717561555,
+                    "type": "scene",
+                    "text": "Bowlside",
+                    "sceneId": "bowlside"
+                }
+            ]
+        },
+        "long-bank-bottom": {
+            "title": "Long Bank Bottom",
+            "panorama": "./tmp/long-bank-bottom.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -1.1079564629678087,
+                    "yaw": -52.495279306400995,
+                    "type": "scene",
+                    "text": "Flatbar Two Set",
+                    "sceneId": "flatbar-two-set"
+                },
+                {
+                    "pitch": -0.5833867040963115,
+                    "yaw": -133.8022553672833,
+                    "type": "scene",
+                    "text": "Flatland",
+                    "sceneId": "flatland"
+                },
+                {
+                    "pitch": -9.869586558693184,
+                    "yaw": 147.57275912798193,
+                    "type": "scene",
+                    "text": "Stairsets",
+                    "sceneId": "stairsets"
+                },
+                {
+                    "pitch": -6.704695938426129,
+                    "yaw": 162.35629065501413,
+                    "type": "scene",
+                    "text": "DIY Wallride",
+                    "sceneId": "diy-wallride"
+                },
+                {
+                    "pitch": -5.760257904788166,
+                    "yaw": 130.7536082287866,
+                    "type": "scene",
+                    "text": "Grass Gap",
+                    "sceneId": "grass-gap"
+                },
+                {
+                    "pitch": 0.8896732965911215,
+                    "yaw": -14.930300190057665,
+                    "type": "scene",
+                    "text": "Long Bank Top",
+                    "sceneId": "long-bank-top"
+                }
+            ]
+        },
+        "long-bank-top": {
+            "title": "Long Bank Top",
+            "panorama": "./tmp/long-bank-top.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -8.309541247424914,
+                    "yaw": -84.18860384288614,
+                    "type": "scene",
+                    "text": "Flatbar Two Set",
+                    "sceneId": "flatbar-two-set"
+                },
+                {
+                    "pitch": -15.590174389262666,
+                    "yaw": 164.60735245330864,
+                    "type": "scene",
+                    "text": "Long Bank Bottom",
+                    "sceneId": "long-bank-bottom"
+                },
+                {
+                    "pitch": -8.71316178312854,
+                    "yaw": 153.4436350955935,
+                    "type": "scene",
+                    "text": "Stairsets",
+                    "sceneId": "stairsets"
+                }
+            ]
+        },
+        "oh-canada": {
+            "title": "Oh Canada",
+            "panorama": "./tmp/oh-canada.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -5.000955910094514,
+                    "yaw": -16.89104906138576,
+                    "type": "scene",
+                    "text": "Grass Gap",
+                    "sceneId": "grass-gap"
+                },
+                {
+                    "pitch": -13.011623307745129,
+                    "yaw": -84.61982091573336,
+                    "type": "scene",
+                    "text": "Shallow Stairs Handrail",
+                    "sceneId": "shallow-stairs-handrail"
+                },
+                {
+                    "pitch": -2.538167477709416,
+                    "yaw": 161.37169854311966,
+                    "type": "scene",
+                    "text": "End Banks",
+                    "sceneId": "end-banks"
+                },
+                {
+                    "pitch": -2.4940957699934603,
+                    "yaw": -41.44376378733436,
+                    "type": "scene",
+                    "text": "Stairsets",
+                    "sceneId": "stairsets"
+                },
+                {
+                    "pitch": -3.792792541367481,
+                    "yaw": -67.33486496201473,
+                    "type": "scene",
+                    "text": "DIY Wallride",
+                    "sceneId": "diy-wallride"
+                }
+            ]
+        },
+        "rock-vert": {
+            "title": "Rock Vert",
+            "panorama": "./tmp/rock-vert.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -5.039360490601553,
+                    "yaw": 43.451760918532415,
+                    "type": "scene",
+                    "text": "Flatland",
+                    "sceneId": "flatland"
+                },
+                {
+                    "pitch": -4.887041135458953,
+                    "yaw": -52.184659409591916,
+                    "type": "scene",
+                    "text": "Flatbar Two Set",
+                    "sceneId": "flatbar-two-set"
+                }
+            ]
+        },
+        "shallow-stairs-handrail": {
+            "title": "Shallow Stairs Handrail",
+            "panorama": "./tmp/shallow-stairs-handrail.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.00591202240322,
+                    "yaw": -82.63718331661798,
+                    "type": "scene",
+                    "text": "DIY Wallride",
+                    "sceneId": "diy-wallride"
+                },
+                {
+                    "pitch": -1.0179426328957473,
+                    "yaw": -13.942657445039373,
+                    "type": "scene",
+                    "text": "Grass Gap",
+                    "sceneId": "grass-gap"
+                },
+                {
+                    "pitch": -4.972911222121785,
+                    "yaw": 62.3708694735341,
+                    "type": "scene",
+                    "text": "Oh Canada",
+                    "sceneId": "oh-canada"
+                },
+                {
+                    "pitch": 1.3525829209951312,
+                    "yaw": 95.95394818313918,
+                    "type": "scene",
+                    "text": "End Banks",
+                    "sceneId": "end-banks"
+                },
+                {
+                    "pitch": -2.2492218297286466,
+                    "yaw": -64.22303272983385,
+                    "type": "scene",
+                    "text": "Stairsets",
+                    "sceneId": "stairsets"
+                }
+            ]
+        },
+        "stairsets": {
+            "title": "Stairsets",
+            "panorama": "./tmp/stairsets.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -3.669714228092178,
+                    "yaw": 19.591894970435597,
+                    "type": "scene",
+                    "text": "Long Bank Bottom",
+                    "sceneId": "long-bank-bottom"
+                },
+                {
+                    "pitch": 4.741857441066506,
+                    "yaw": -48.25357856052934,
+                    "type": "scene",
+                    "text": "Flatland",
+                    "sceneId": "flatland"
+                },
+                {
+                    "pitch": -7.76816040738282,
+                    "yaw": -127.76629291372328,
+                    "type": "scene",
+                    "text": "DIY Wallride",
+                    "sceneId": "diy-wallride"
+                },
+                {
+                    "pitch": -6.864681930715199,
+                    "yaw": -194.6472747099873,
+                    "type": "scene",
+                    "text": "Grass Gap",
+                    "sceneId": "grass-gap"
+                },
+                {
+                    "pitch": -3.7129791484206054,
+                    "yaw": -172.86161090589306,
+                    "type": "scene",
+                    "text": "Oh Canada",
+                    "sceneId": "oh-canada"
+                },
+                {
+                    "pitch": -4.873436742356331,
+                    "yaw": -155.08457006972392,
+                    "type": "scene",
+                    "text": "Shallow Stairs Handrail",
+                    "sceneId": "shallow-stairs-handrail"
+                }
+            ]
+        }
+    }
+}

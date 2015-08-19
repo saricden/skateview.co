@@ -43,8 +43,8 @@ tourLinks:
   - three-set-of-death
 
 # Geographic Info
-lat: 43.697107
-long: -79.323864
+lat: 43.760943
+long: -79.298011
 
 # Youtube Video IDs
 videos:

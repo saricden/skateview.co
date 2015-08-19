@@ -41,4 +41,10 @@ long: -79.313
 
 # Youtube Video IDs
 videos:
+  - 9GcPHsqgZN8
+  - PRKXgtJERJg
+  - CZlhzoJ8w5s
+  - FeAGdFLi9gI
+  - IxF8GrvrVOg
+  - F_VdPKT7siY
 ---

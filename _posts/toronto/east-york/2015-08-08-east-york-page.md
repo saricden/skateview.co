@@ -9,7 +9,7 @@ title:  East York Skatepark
 city: Toronto
 province: Ontario
 flag:  ca
-bannerImg: /tours/toronto/tmp/banner.jpg
+bannerImg: https://farm6.staticflickr.com/5641/20635186139_5082a0017a_o.jpg
 
 # Shop Info (optional)
 shopLogo:

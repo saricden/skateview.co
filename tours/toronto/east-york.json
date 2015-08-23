@@ -9,7 +9,7 @@
     "scenes": {
         "bowl": {
             "title": "Bowl",
-            "panorama": "./tmp/bowl.jpg",
+            "panorama": "https://farm1.staticflickr.com/656/20821944755_c6f6aea1b6_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -1.9109635551737607,
@@ -57,7 +57,7 @@
         },
         "bowlside": {
             "title": "Bowlside",
-            "panorama": "./tmp/bowlside.jpg",
+            "panorama": "https://farm1.staticflickr.com/739/20633896490_0d27e5fc56_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 0.4476987856796984,
@@ -84,7 +84,7 @@
         },
         "diy-wallride": {
             "title": "DIY Wallride",
-            "panorama": "./tmp/diy-wallride.jpg",
+            "panorama": "https://farm1.staticflickr.com/595/20795644736_90412e77e6_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -7.97291389913897,
@@ -125,7 +125,7 @@
         },
         "end-banks": {
             "title": "End Banks",
-            "panorama": "./tmp/end-banks.jpg",
+            "panorama": "https://farm1.staticflickr.com/662/20821949255_f278f7ee57_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -2.572108251861369,
@@ -159,7 +159,7 @@
         },
         "flatbar-two-set": {
             "title": "Flatbar Two Set",
-            "panorama": "./tmp/flatbar-two-set.jpg",
+            "panorama": "https://farm6.staticflickr.com/5793/20633962418_dc194c2443_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -2.6495076962973396,
@@ -193,7 +193,7 @@
         },
         "flatland": {
             "title": "Flatland",
-            "panorama": "./tmp/flatland.jpg",
+            "panorama": "https://farm1.staticflickr.com/705/20812451612_c9a1e575b1_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -3.7977692394378355,
@@ -241,7 +241,7 @@
         },
         "grass-gap": {
             "title": "Grass Gap",
-            "panorama": "./tmp/grass-gap.jpg",
+            "panorama": "https://farm6.staticflickr.com/5815/20829009431_ae74e0937c_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -6.333893553080911,
@@ -289,7 +289,7 @@
         },
         "inside-bowl": {
             "title": "Inside Bowl",
-            "panorama": "./tmp/inside-bowl.jpg",
+            "panorama": "https://farm6.staticflickr.com/5715/20635191599_4229d204d1_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 7.55570330521909,
@@ -309,7 +309,7 @@
         },
         "long-bank-bottom": {
             "title": "Long Bank Bottom",
-            "panorama": "./tmp/long-bank-bottom.jpg",
+            "panorama": "https://farm6.staticflickr.com/5786/20795649616_548d7a3b1b_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -1.1079564629678087,
@@ -357,7 +357,7 @@
         },
         "long-bank-top": {
             "title": "Long Bank Top",
-            "panorama": "./tmp/long-bank-top.jpg",
+            "panorama": "https://farm1.staticflickr.com/717/20199335544_34b6052495_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -8.309541247424914,
@@ -384,7 +384,7 @@
         },
         "oh-canada": {
             "title": "Oh Canada",
-            "panorama": "./tmp/oh-canada.jpg",
+            "panorama": "https://farm6.staticflickr.com/5799/20635190019_1e51d7e912_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -5.000955910094514,
@@ -425,7 +425,7 @@
         },
         "rock-vert": {
             "title": "Rock Vert",
-            "panorama": "./tmp/rock-vert.jpg",
+            "panorama": "https://farm6.staticflickr.com/5656/20633959418_0c60dd99ed_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -5.039360490601553,
@@ -445,7 +445,7 @@
         },
         "shallow-stairs-handrail": {
             "title": "Shallow Stairs Handrail",
-            "panorama": "./tmp/shallow-stairs-handrail.jpg",
+            "panorama": "https://farm6.staticflickr.com/5708/20633897630_51e55942f9_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.00591202240322,
@@ -486,7 +486,7 @@
         },
         "stairsets": {
             "title": "Stairsets",
-            "panorama": "./tmp/stairsets.jpg",
+            "panorama": "https://farm1.staticflickr.com/771/20633897400_3332899f57_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -3.669714228092178,

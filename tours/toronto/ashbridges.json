@@ -1,0 +1,1117 @@
+{
+    "default": {
+        "author": "Kirk M.",
+        "firstScene": "entrance",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+    
+    "scenes": {
+        "above-bowl": {
+            "title": "Above Bowl",
+            "panorama": "./tmp/above-bowl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -9.578605611662516,
+                    "yaw": 96.93485717823894,
+                    "type": "scene",
+                    "text": "Hill Stairset",
+                    "sceneId": "hill-stairset"
+                },
+                {
+                    "pitch": -37.04773522494224,
+                    "yaw": -32.75080949287327,
+                    "type": "scene",
+                    "text": "Upper Bowl",
+                    "sceneId": "upper-bowl"
+                },
+                {
+                    "pitch": -30.37569214936015,
+                    "yaw": -95.7142859879151,
+                    "type": "scene",
+                    "text": "Lower Bowl",
+                    "sceneId": "lower-bowl"
+                }
+            ]
+        },
+        "bank-to-wallride": {
+            "title": "Bank to Wallride",
+            "panorama": "./tmp/bank-to-wallride.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.588977498918954,
+                    "yaw": -51.189339121451916,
+                    "type": "scene",
+                    "text": "Benches",
+                    "sceneId": "benches"
+                },
+                {
+                    "pitch": -10.764305580717954,
+                    "yaw": 76.57396543330945,
+                    "type": "scene",
+                    "text": "Little Handrail",
+                    "sceneId": "little-handrail"
+                },
+                {
+                    "pitch": -4.930594729928894,
+                    "yaw": 90.19769952511261,
+                    "type": "scene",
+                    "text": "Little Rail Top",
+                    "sceneId": "little-rail-top"
+                },
+                {
+                    "pitch": -4.428307566959994,
+                    "yaw": 40.5470430859241,
+                    "type": "scene",
+                    "text": "Rounded",
+                    "sceneId": "rounded"
+                }
+            ]
+        },
+        "bank-transfer": {
+            "title": "Bank Transfer",
+            "panorama": "./tmp/bank-transfer.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -7.089006159474638,
+                    "yaw": 78.22996878547976,
+                    "type": "scene",
+                    "text": "Flatbar",
+                    "sceneId": "flatbar"
+                },
+                {
+                    "pitch": -1.2732922430485987,
+                    "yaw": -21.485322052625634,
+                    "type": "scene",
+                    "text": "Benches",
+                    "sceneId": "benches"
+                },
+                {
+                    "pitch": -4.491999115689736,
+                    "yaw": -74.792958460666,
+                    "type": "scene",
+                    "text": "Rounded",
+                    "sceneId": "rounded"
+                },
+                {
+                    "pitch": -7.6648134432070005,
+                    "yaw": -131.64138252465898,
+                    "type": "scene",
+                    "text": "Gap Bank",
+                    "sceneId": "gap-bank"
+                },
+                {
+                    "pitch": -3.6962415523587304,
+                    "yaw": 137.10038408053023,
+                    "type": "scene",
+                    "text": "Plaza Ledges",
+                    "sceneId": "plaza-ledges"
+                },
+                {
+                    "pitch": -2.6518586454818656,
+                    "yaw": 7.531464728136335,
+                    "type": "scene",
+                    "text": "Tree Ledges",
+                    "sceneId": "tree-ledges"
+                },
+                {
+                    "pitch": -5.118543740717703,
+                    "yaw": -171.48513475909556,
+                    "type": "scene",
+                    "text": "Eight Bottom",
+                    "sceneId": "eight-bottom"
+                }
+            ]
+        },
+        "benches": {
+            "title": "Benches",
+            "panorama": "./tmp/benches.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.377101664018828,
+                    "yaw": -13.948473098700823,
+                    "type": "scene",
+                    "text": "Bank to Wallride",
+                    "sceneId": "bank-to-wallride"
+                },
+                {
+                    "pitch": -1.497244247073912,
+                    "yaw": -113.8093548711472,
+                    "type": "scene",
+                    "text": "Bank Transfer",
+                    "sceneId": "bank-transfer"
+                },
+                {
+                    "pitch": -3.108224652862085,
+                    "yaw": -142.75076656843086,
+                    "type": "scene",
+                    "text": "Tree Ledges",
+                    "sceneId": "tree-ledges"
+                },
+                {
+                    "pitch": -4.296605032831172,
+                    "yaw": -71.1493269362316,
+                    "type": "scene",
+                    "text": "Rounded",
+                    "sceneId": "rounded"
+                }
+            ]
+        },
+        "big-handrail": {
+            "title": "Big Handrail",
+            "panorama": "./tmp/big-handrail.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -5.09694315270826,
+                    "yaw": 15.484684900494432,
+                    "type": "scene",
+                    "text": "By the Hill",
+                    "sceneId": "by-the-hill"
+                },
+                {
+                    "pitch": 3.684674700206099,
+                    "yaw": 43.43026674771509,
+                    "type": "scene",
+                    "text": "Hill Stairset",
+                    "sceneId": "hill-stairset"
+                },
+                {
+                    "pitch": -9.020358645991625,
+                    "yaw": -94.01808235980295,
+                    "type": "scene",
+                    "text": "Wallride",
+                    "sceneId": "wallride"
+                },
+                {
+                    "pitch": -4.490720979834665,
+                    "yaw": -45.41525786117659,
+                    "type": "scene",
+                    "text": "Plaza Manny Pad",
+                    "sceneId": "plaza-manny-pad"
+                },
+                {
+                    "pitch": -1.3736091411782128,
+                    "yaw": -8.936556452434811,
+                    "type": "scene",
+                    "text": "Drop to Bank",
+                    "sceneId": "drop-to-bank"
+                }
+
+            ]
+        },
+        "big-three-top": {
+            "title": "Big Three Top",
+            "panorama": "./tmp/big-three-top.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 5.635765001766596,
+                    "yaw": -105.62133550784957,
+                    "type": "scene",
+                    "text": "Hill Stairset",
+                    "sceneId": "hill-stairset"
+                },
+                {
+                    "pitch": -14.996054218245051,
+                    "yaw": 150.8997202327043,
+                    "type": "scene",
+                    "text": "Big Three",
+                    "sceneId": "big-three"
+                },
+                {
+                    "pitch": -5.647335192421422,
+                    "yaw": 41.95410014563188,
+                    "type": "scene",
+                    "text": "Grass Gap",
+                    "sceneId": "grass-gap"
+                },
+                {
+                    "pitch": -3.7533913151088782,
+                    "yaw": 13.772590991861776,
+                    "type": "scene",
+                    "text": "Drop to Bank",
+                    "sceneId": "drop-to-bank"
+                },
+                {
+                    "pitch": -2.129954807290654,
+                    "yaw": -44.202061311864256,
+                    "type": "scene",
+                    "text": "By the Hill",
+                    "sceneId": "by-the-hill"
+                }
+            ]
+        },
+        "big-three": {
+            "title": "Big Three",
+            "panorama": "./tmp/big-three.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0.6561900995642966,
+                    "yaw": -168.31314228964266,
+                    "type": "scene",
+                    "text": "Big Three Top",
+                    "sceneId": "big-three-top"
+                },
+                {
+                    "pitch": 8.040067281160306,
+                    "yaw": 149.05766759003347,
+                    "type": "scene",
+                    "text": "Hill Stairset",
+                    "sceneId": "hill-stairset"
+                },
+                {
+                    "pitch": -2.7428271655787633,
+                    "yaw": -112.53352288101887,
+                    "type": "scene",
+                    "text": "Grass Gap",
+                    "sceneId": "grass-gap"
+                },
+                {
+                    "pitch": 3.150594363283336,
+                    "yaw": -177.27709173414547,
+                    "type": "info",
+                    "text": "Brolin Bakewell chillin."
+                }
+            ]
+        },
+        "by-the-hill": {
+            "title": "By the Hill",
+            "panorama": "./tmp/by-the-hill.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.559178156293541,
+                    "yaw": -145.9978927011158,
+                    "type": "scene",
+                    "text": "Big Handrail",
+                    "sceneId": "big-handrail"
+                },
+                {
+                    "pitch": -4.183298945327877,
+                    "yaw": -56.3057932079567,
+                    "type": "scene",
+                    "text": "Plaza Manny Pad",
+                    "sceneId": "plaza-manny-pad"
+                },
+                {
+                    "pitch": -4.077287287942991,
+                    "yaw": -11.579078686887152,
+                    "type": "scene",
+                    "text": "Drop to Bank",
+                    "sceneId": "drop-to-bank"
+                },
+                {
+                    "pitch": -3.3065349773884534,
+                    "yaw": 30.949823567588975,
+                    "type": "scene",
+                    "text": "Big Three Top",
+                    "sceneId": "big-three-top"
+                },
+                {
+                    "pitch": 4.0560793974907146,
+                    "yaw": 78.80541969865052,
+                    "type": "scene",
+                    "text": "Hill Stairset",
+                    "sceneId": "hill-stairset"
+                }
+            ]
+        },
+        "double-set-handrail": {
+            "title": "Double Set Handrail",
+            "panorama": "./tmp/double-set-handrail.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -0.8159552578678338,
+                    "yaw": -40.565603622257136,
+                    "type": "scene",
+                    "text": "Plaza Manny Pad",
+                    "sceneId": "plaza-manny-pad"
+                },
+                {
+                    "pitch": -1.3502599547258711,
+                    "yaw": -94.9418950987403,
+                    "type": "scene",
+                    "text": "Teacup Manny",
+                    "sceneId": "teacup-manny"
+                },
+                {
+                    "pitch": 0.043846670791106684,
+                    "yaw": -184.48601416844917,
+                    "type": "scene",
+                    "text": "On Ledges",
+                    "sceneId": "on-ledges"
+                },
+                {
+                    "pitch": -6.778229868878539,
+                    "yaw": -30.751249976809863,
+                    "type": "scene",
+                    "text": "Three Six",
+                    "sceneId": "three-six"
+                },
+                {
+                    "pitch": -4.466752018402042,
+                    "yaw": 27.23730687036186,
+                    "type": "scene",
+                    "text": "Wallride",
+                    "sceneId": "wallride"
+                },
+                {
+                    "pitch": -6.000474067824722,
+                    "yaw": 110.73465670285508,
+                    "type": "scene",
+                    "text": "Eight Bottom",
+                    "sceneId": "eight-bottom"
+                }
+            ]
+        },
+        "drop-to-bank": {
+            "title": "Drop to Bank",
+            "panorama": "./tmp/drop-to-bank.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -3.890628115343327,
+                    "yaw": -55.390635436114565,
+                    "type": "scene",
+                    "text": "By the Hill",
+                    "sceneId": "by-the-hill"
+                },
+                {
+                    "pitch": -8.485436955559171,
+                    "yaw": 39.34301860537018,
+                    "type": "scene",
+                    "text": "Plaza Manny Pad",
+                    "sceneId": "plaza-manny-pad"
+                },
+                {
+                    "pitch": -5.438182249441532,
+                    "yaw": -135.1176723533572,
+                    "type": "scene",
+                    "text": "Big Three Top",
+                    "sceneId": "big-three-top"
+                },
+                {
+                    "pitch": -13.49010003166136,
+                    "yaw": 112.21068607971102,
+                    "type": "scene",
+                    "text": "Grass Gap",
+                    "sceneId": "grass-gap"
+                },
+                {
+                    "pitch": -0.18266821718253773,
+                    "yaw": -35.98641141761516,
+                    "type": "scene",
+                    "text": "Big Handrail",
+                    "sceneId": "big-handrail"
+                },
+                {
+                    "pitch": 4.318572490561139,
+                    "yaw": -106.23424147033134,
+                    "type": "scene",
+                    "text": "Hill Stairset",
+                    "sceneId": "hill-stairset"
+                }
+            ]
+        },
+        "eight-bottom": {
+            "title": "Eight Bottom",
+            "panorama": "./tmp/eight-bottom.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 4.249963403830094,
+                    "yaw": 29.642222494724223,
+                    "type": "scene",
+                    "text": "On Ledges",
+                    "sceneId": "on-ledges"
+                },
+                {
+                    "pitch": -0.21205738532151683,
+                    "yaw": 61.638813802620106,
+                    "type": "scene",
+                    "text": "Double Set Handrail",
+                    "sceneId": "double-set-handrail"
+                },
+                {
+                    "pitch": 0.09355011703816789,
+                    "yaw": -170.97368164420456,
+                    "type": "scene",
+                    "text": "Eight Top",
+                    "sceneId": "eight-top"
+                },
+                {
+                    "pitch": -3.356829764907732,
+                    "yaw": -102.89474485869451,
+                    "type": "scene",
+                    "text": "Gap Bank",
+                    "sceneId": "gap-bank"
+                },
+                {
+                    "pitch": -3.415810968206482,
+                    "yaw": 103.98332604579916,
+                    "type": "scene",
+                    "text": "Wallride",
+                    "sceneId": "wallride"
+                },
+                {
+                    "pitch": -2.5850980275880815,
+                    "yaw": 71.80877297573117,
+                    "type": "scene",
+                    "text": "Three Six",
+                    "sceneId": "three-six"
+                },
+                {
+                    "pitch": 0.19492759072299226,
+                    "yaw": -65.41609214721257,
+                    "type": "scene",
+                    "text": "Bank Transfer",
+                    "sceneId": "bank-transfer"
+                }
+            ]
+        },
+        "eight-top": {
+            "title": "Eight Top",
+            "panorama": "./tmp/eight-top.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -18.773052720532238,
+                    "yaw": 0.6810225585996461,
+                    "type": "scene",
+                    "text": "Eight Bottom",
+                    "sceneId": "eight-bottom"
+                },
+                {
+                    "pitch": -8.18304260009423,
+                    "yaw": -82.8226315446449,
+                    "type": "scene",
+                    "text": "Gap Bank",
+                    "sceneId": "gap-bank"
+                },
+                {
+                    "pitch": 0.06094058923539733,
+                    "yaw": 9.34152447829408,
+                    "type": "scene",
+                    "text": "On Ledges",
+                    "sceneId": "on-ledges"
+                }
+            ]
+        },
+        "flatbar": {
+            "title": "Flatbar",
+            "panorama": "./tmp/flatbar.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -3.243346333760472,
+                    "yaw": 52.41265666143272,
+                    "type": "scene",
+                    "text": "Tree Ledges",
+                    "sceneId": "tree-ledges"
+                },
+                {
+                    "pitch": -4.209990619123262,
+                    "yaw": -16.8506564727739,
+                    "type": "scene",
+                    "text": "Bank Transfer",
+                    "sceneId": "bank-transfer"
+                },
+                {
+                    "pitch": -2.2114109836766245,
+                    "yaw": -113.30313927780105,
+                    "type": "scene",
+                    "text": "Plaza Ledges",
+                    "sceneId": "plaza-ledges"
+                }
+            ]
+        },
+        "gap-bank": {
+            "title": "Gap Bank",
+            "panorama": "./tmp/gap-bank.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -0.3337346539024517,
+                    "yaw": -12.113949303004496,
+                    "type": "scene",
+                    "text": "Bank Transfer",
+                    "sceneId": "bank-transfer"
+                },
+                {
+                    "pitch": -3.018401854140489,
+                    "yaw": -100.35782830114739,
+                    "type": "scene",
+                    "text": "Rounded",
+                    "sceneId": "rounded"
+                },
+                {
+                    "pitch": -3.9516806441965806,
+                    "yaw": 92.94477738894291,
+                    "type": "scene",
+                    "text": "Eight Bottom",
+                    "sceneId": "eight-bottom"
+                },
+                {
+                    "pitch": 0.695810450831745,
+                    "yaw": 108.60025855141375,
+                    "type": "scene",
+                    "text": "Eight Top",
+                    "sceneId": "eight-top"
+                }
+            ]
+        },
+        "grass-gap": {
+            "title": "Grass Gap",
+            "panorama": "./tmp/grass-gap.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -1.1401593272518369,
+                    "yaw": -99.4769496936392,
+                    "type": "scene",
+                    "text": "Big Three",
+                    "sceneId": "big-three"
+                },
+                {
+                    "pitch": 2.112373826830938,
+                    "yaw": -80.2194099626434,
+                    "type": "scene",
+                    "text": "Big Three Top",
+                    "sceneId": "big-three-top"
+                },
+                {
+                    "pitch": 2.896022481309721,
+                    "yaw": -39.323775179692205,
+                    "type": "scene",
+                    "text": "Drop to Bank",
+                    "sceneId": "drop-to-bank"
+                },
+                {
+                    "pitch": -2.392883928469054,
+                    "yaw": 28.26805596216798,
+                    "type": "scene",
+                    "text": "Plaza Manny Pad",
+                    "sceneId": "plaza-manny-pad"
+                },
+                {
+                    "pitch": -1.290902988794956,
+                    "yaw": 72.22372392892338,
+                    "type": "scene",
+                    "text": "Teacup Manny",
+                    "sceneId": "teacup-manny"
+                }
+            ]
+        },
+        "hill-stairset": {
+            "title": "Hill Stairset",
+            "panorama": "./tmp/hill-stairset.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -7.87970579853067,
+                    "yaw": 89.20908364763658,
+                    "type": "scene",
+                    "text": "Above Bowl",
+                    "sceneId": "above-bowl"
+                },
+                {
+                    "pitch": -6.418857780774893,
+                    "yaw": -140.4983328506019,
+                    "type": "scene",
+                    "text": "Big Handrail",
+                    "sceneId": "big-handrail"
+                },
+                {
+                    "pitch": -11.801265093836914,
+                    "yaw": -122.44519460286446,
+                    "type": "scene",
+                    "text": "By the Hill",
+                    "sceneId": "by-the-hill"
+                },
+                {
+                    "pitch": -8.02169407306697,
+                    "yaw": -79.72073645426298,
+                    "type": "scene",
+                    "text": "Drop to Bank",
+                    "sceneId": "drop-to-bank"
+                },
+                {
+                    "pitch": -11.90935250328072,
+                    "yaw": -42.12882102566702,
+                    "type": "scene",
+                    "text": "Big Three Top",
+                    "sceneId": "big-three-top"
+                }
+            ]
+        },
+        "little-handrail": {
+            "title": "Little Handrail",
+            "panorama": "./tmp/little-handrail.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.184197419424193,
+                    "yaw": -187.89353753660188,
+                    "type": "scene",
+                    "text": "Little Rail Top",
+                    "sceneId": "little-rail-top"
+                },
+                {
+                    "pitch": 0.012377101444139485,
+                    "yaw": -56.44239646965098,
+                    "type": "scene",
+                    "text": "Bank to Wallride",
+                    "sceneId": "bank-to-wallride"
+                },
+                {
+                    "pitch": -4.491968314244111,
+                    "yaw": 60.43435999384693,
+                    "type": "scene",
+                    "text": "Rounded",
+                    "sceneId": "rounded"
+                }
+            ]
+        },
+        "little-rail-top": {
+            "title": "Little Rail Top",
+            "panorama": "./tmp/little-rail-top.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -3.2291099778500785,
+                    "yaw": -59.21621250730831,
+                    "type": "scene",
+                    "text": "Bank to Wall",
+                    "sceneId": "bank-to-wallride"
+                },
+                {
+                    "pitch": -18.607352958613756,
+                    "yaw": -22.805554899531764,
+                    "type": "scene",
+                    "text": "Little Handrail",
+                    "sceneId": "little-handrail"
+                },
+                {
+                    "pitch": -3.9841287424742373,
+                    "yaw": 29.462680419004716,
+                    "type": "scene",
+                    "text": "Rounded",
+                    "sceneId": "rounded"
+                }
+            ]
+        },
+        "lower-bowl": {
+            "title": "Lower Bowl",
+            "panorama": "./tmp/lower-bowl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 19.92243464903931,
+                    "yaw": 152.06291843854225,
+                    "type": "scene",
+                    "text": "Above Bowl",
+                    "sceneId": "above-bowl"
+                },
+                {
+                    "pitch": 2.9983242293649357,
+                    "yaw": 122.50848461766746,
+                    "type": "scene",
+                    "text": "Upper Bowl",
+                    "sceneId": "upper-bowl"
+                }
+            ]
+        },
+        "on-ledges": {
+            "title": "On Ledges",
+            "panorama": "./tmp/on-ledges.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -10.492181752219194,
+                    "yaw": -108.05501810183672,
+                    "type": "scene",
+                    "text": "Eight Bottom",
+                    "sceneId": "eight-bottom"
+                },
+                {
+                    "pitch": -3.4667502985510263,
+                    "yaw": -111.21848513936749,
+                    "type": "scene",
+                    "text": "Eight Top",
+                    "sceneId": "eight-top"
+                },
+                {
+                    "pitch": -15.989235937153271,
+                    "yaw": 165.15941219393125,
+                    "type": "scene",
+                    "text": "Double Set Handrail",
+                    "sceneId": "double-set-handrail"
+                },
+                {
+                    "pitch": -9.694442755618663,
+                    "yaw": -0.9947013454293643,
+                    "type": "scene",
+                    "text": "Plaza Ledges",
+                    "sceneId": "plaza-ledges"
+                },
+                {
+                    "pitch": -5.233581765417861,
+                    "yaw": 101.91248193590249,
+                    "type": "scene",
+                    "text": "Teacup Manny",
+                    "sceneId": "teacup-manny"
+                },
+                {
+                    "pitch": -8.903760461435482,
+                    "yaw": 149.1962805325415,
+                    "type": "scene",
+                    "text": "Three Six",
+                    "sceneId": "three-six"
+                },
+                {
+                    "pitch": -4.74599705710967,
+                    "yaw": 138.67317809122176,
+                    "type": "scene",
+                    "text": "Plaza Manny Pad",
+                    "sceneId": "plaza-manny-pad"
+                },
+                {
+                    "pitch": -7.767401948214554,
+                    "yaw": 185.33706192674708,
+                    "type": "scene",
+                    "text": "Wallride",
+                    "sceneId": "wallride"
+                }
+            ]
+        },
+        "plaza-ledges": {
+            "title": "Plaza Ledges",
+            "panorama": "./tmp/plaza-ledges.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -1.4155225706220254,
+                    "yaw": 63.54080852244141,
+                    "type": "scene",
+                    "text": "Bank Transfer",
+                    "sceneId": "bank-transfer"
+                },
+                {
+                    "pitch": -1.7978063061808616,
+                    "yaw": 90.62004641452302,
+                    "type": "scene",
+                    "text": "Flatbar",
+                    "sceneId": "flatbar"
+                },
+                {
+                    "pitch": -0.47151006025058806,
+                    "yaw": -58.596903386654574,
+                    "type": "scene",
+                    "text": "On Ledges",
+                    "sceneId": "on-ledges"
+                },
+                {
+                    "pitch": -0.8316534685673116,
+                    "yaw": -104.40795794077835,
+                    "type": "scene",
+                    "text": "Teacup Manny",
+                    "sceneId": "teacup-manny"
+                }
+            ]
+        },
+        "plaza-manny-pad": {
+            "title": "Plaza Manny Pad",
+            "panorama": "./tmp/plaza-manny-pad.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0.34320745638576294,
+                    "yaw": 65.71383570179762,
+                    "type": "scene",
+                    "text": "On Ledges",
+                    "sceneId": "on-ledges"
+                },
+                {
+                    "pitch": -14.168818250857436,
+                    "yaw": 35.621244961017936,
+                    "type": "scene",
+                    "text": "Three Six",
+                    "sceneId": "three-six"
+                },
+                {
+                    "pitch": -6.086033061410031,
+                    "yaw": 6.19548016218436,
+                    "type": "scene",
+                    "text": "Wallride",
+                    "sceneId": "wallride"
+                },
+                {
+                    "pitch": 1.9611628193804105,
+                    "yaw": -53.265916959041576,
+                    "type": "scene",
+                    "text": "Big Handrail",
+                    "sceneId": "big-handrail"
+                },
+                {
+                    "pitch": 0.9643838922870075,
+                    "yaw": -78.08919310539099,
+                    "type": "scene",
+                    "text": "By the Hill",
+                    "sceneId": "by-the-hill"
+                },
+                {
+                    "pitch": 0.34450829332365723,
+                    "yaw": -124.06806163563112,
+                    "type": "scene",
+                    "text": "Drop to Bank",
+                    "sceneId": "drop-to-bank"
+                },
+                {
+                    "pitch": -4.822965133389332,
+                    "yaw": -159.3223617000449,
+                    "type": "scene",
+                    "text": "Grass Gap",
+                    "sceneId": "grass-gap"
+                },
+                {
+                    "pitch": -3.755676030286105,
+                    "yaw": 113.5781371313582,
+                    "type": "scene",
+                    "text": "Teacup Manny",
+                    "sceneId": "teacup-manny"
+                },
+                {
+                    "pitch": -3.5935519232954425,
+                    "yaw": 53.93607090089189,
+                    "type": "scene",
+                    "text": "Double Set Handrail",
+                    "sceneId": "double-set-handrail"
+                }
+            ]
+        },
+        "rounded": {
+            "title": "Rounded",
+            "panorama": "./tmp/rounded.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.684882562464097,
+                    "yaw": -110.02814206803102,
+                    "type": "scene",
+                    "text": "Little Handrail",
+                    "sceneId": "little-handrail"
+                },
+                {
+                    "pitch": -0.9087579707412319,
+                    "yaw": -118.72921438798365,
+                    "type": "scene",
+                    "text": "Little Rail Top",
+                    "sceneId": "little-rail-top"
+                },
+                {
+                    "pitch": 0.13023890751880313,
+                    "yaw": -80.99230457198058,
+                    "type": "scene",
+                    "text": "Bank to Wallride",
+                    "sceneId": "bank-to-wallride"
+                },
+                {
+                    "pitch": 1.0507482268749109,
+                    "yaw": -1.1922161993980929,
+                    "type": "scene",
+                    "text": "Tree Ledges",
+                    "sceneId": "tree-ledges"
+                },
+                {
+                    "pitch": -0.07752363366941362,
+                    "yaw": 56.288839023432445,
+                    "type": "scene",
+                    "text": "Bank Transfer",
+                    "sceneId": "bank-transfer"
+                },
+                {
+                    "pitch": -3.3814608775814707,
+                    "yaw": 93.52081369681707,
+                    "type": "scene",
+                    "text": "Gap Bank",
+                    "sceneId": "gap-bank"
+                }
+            ]
+        },
+        "teacup-manny": {
+            "title": "Teacup Manny",
+            "panorama": "./tmp/teacup-manny.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.839059361233044,
+                    "yaw": 120.13341399409438,
+                    "type": "scene",
+                    "text": "Plaza Manny Pad",
+                    "sceneId": "plaza-manny-pad"
+                },
+                {
+                    "pitch": -4.300967355937524,
+                    "yaw": 72.03291580357526,
+                    "type": "scene",
+                    "text": "Grass Gap",
+                    "sceneId": "grass-gap"
+                },
+                {
+                    "pitch": -8.11212330805139,
+                    "yaw": 142.8457698774623,
+                    "type": "scene",
+                    "text": "Three Six",
+                    "sceneId": "three-six"
+                },
+                {
+                    "pitch": -6.286779697291331,
+                    "yaw": 188.13783949617982,
+                    "type": "scene",
+                    "text": "Double Set Handrail",
+                    "sceneId": "double-set-handrail"
+                },
+                {
+                    "pitch": -1.9140888605003348,
+                    "yaw": -145.76792307350212,
+                    "type": "scene",
+                    "text": "On Ledges",
+                    "sceneId": "on-ledges"
+                }
+            ]
+        },
+        "three-six": {
+            "title": "Three Six",
+            "panorama": "./tmp/three-six.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -0.41881196545637656,
+                    "yaw": 11.667814360808968,
+                    "type": "scene",
+                    "text": "Double Set Handrail",
+                    "sceneId": "double-set-handrail"
+                },
+                {
+                    "pitch": -4.3594712195364895,
+                    "yaw": -61.863930754412436,
+                    "type": "scene",
+                    "text": "Wallride",
+                    "sceneId": "wallride"
+                },
+                {
+                    "pitch": -3.371780670657735,
+                    "yaw": 163.82403729513152,
+                    "type": "scene",
+                    "text": "Plaza Manny Pad",
+                    "sceneId": "plaza-manny-pad"
+                },
+                {
+                    "pitch": 0.821958917468057,
+                    "yaw": 86.8323488105737,
+                    "type": "scene",
+                    "text": "Teacup Manny",
+                    "sceneId": "teacup-manny"
+                },
+                {
+                    "pitch": -0.8180189849592755,
+                    "yaw": -11.09601917475403,
+                    "type": "scene",
+                    "text": "Eight Bottom",
+                    "sceneId": "eight-bottom"
+                },
+                {
+                    "pitch": 3.401811821546881,
+                    "yaw": 23.897509718917526,
+                    "type": "scene",
+                    "text": "On Ledges",
+                    "sceneId": "on-ledges"
+                }
+            ]
+        },
+        "tree-ledges": {
+            "title": "Tree Ledges",
+            "panorama": "./tmp/tree-ledges.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2.7743757128971485,
+                    "yaw": -21.95222153240078,
+                    "type": "scene",
+                    "text": "Rounded",
+                    "sceneId": "rounded"
+                },
+                {
+                    "pitch": -2.7832477031006353,
+                    "yaw": 47.02004621157909,
+                    "type": "scene",
+                    "text": "Benches",
+                    "sceneId": "benches"
+                },
+                {
+                    "pitch": -2.6796634139524445,
+                    "yaw": -79.09160119359042,
+                    "type": "scene",
+                    "text": "Bank Transfer",
+                    "sceneId": "bank-transfer"
+                },
+                {
+                    "pitch": -3.7805971163129066,
+                    "yaw": -113.82042380371156,
+                    "type": "scene",
+                    "text": "Flatbar",
+                    "sceneId": "flatbar"
+                }
+            ]
+        },
+        "upper-bowl": {
+            "title": "Upper Bowl",
+            "panorama": "./tmp/upper-bowl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -16.67937947952204,
+                    "yaw": 35.57958661227235,
+                    "type": "scene",
+                    "text": "Lower Bowl",
+                    "sceneId": "lower-bowl"
+                },
+                {
+                    "pitch": 19.42246661102656,
+                    "yaw": -38.02742906563954,
+                    "type": "scene",
+                    "text": "Above Bowl",
+                    "sceneId": "above-bowl"
+                }
+            ]
+        },
+        "wallride": {
+            "title": "Wallride",
+            "panorama": "./tmp/wallride.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.456761498599674,
+                    "yaw": 10.501092004954243,
+                    "type": "scene",
+                    "text": "Three Six",
+                    "sceneId": "three-six"
+                },
+                {
+                    "pitch": -1.586218499515376,
+                    "yaw": -40.107485389937345,
+                    "type": "scene",
+                    "text": "Double Set Handrail",
+                    "sceneId": "double-set-handrail"
+                },
+                {
+                    "pitch": 2.7872974393580296,
+                    "yaw": -45.833323838285274,
+                    "type": "scene",
+                    "text": "On Ledges",
+                    "sceneId": "on-ledges"
+                },
+                {
+                    "pitch": -2.012504780655557,
+                    "yaw": -83.15646039977867,
+                    "type": "scene",
+                    "text": "Eight Bottom",
+                    "sceneId": "eight-bottom"
+                },
+                {
+                    "pitch": 0.5624547480001513,
+                    "yaw": 25.008836775797402,
+                    "type": "scene",
+                    "text": "Plaza Manny Pad",
+                    "sceneId": "plaza-manny-pad"
+                },
+                {
+                    "pitch": 4.553954505621212,
+                    "yaw": 101.83627244683987,
+                    "type": "scene",
+                    "text": "Big Handrail",
+                    "sceneId": "big-handrail"
+                }
+            ]
+        }
+    }
+}

@@ -5,7 +5,7 @@ date:   2015-08-08
 category: park
 
 # Park Page Info
-title:  Ashbridges Bay Skatepark
+title:  Ashbridges Skatepark
 city: Toronto
 province: Ontario
 flag:  ca

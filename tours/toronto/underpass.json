@@ -1,0 +1,481 @@
+{
+    "default": {
+        "author": "Kirk M.",
+        "firstScene": "entrance",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+    
+    "scenes": {
+        "bank-to-ledge": {
+            "title": "Bank to Ledge",
+            "panorama": "./tmp/bank-to-ledge.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 1.1000914624800155,
+                    "yaw": -28.144638967678127,
+                    "type": "scene",
+                    "text": "On Bank to Ledge",
+                    "sceneId": "on-bank-to-ledge"
+                },
+                {
+                    "pitch": -6.961017745605347,
+                    "yaw": -88.35975827710017,
+                    "type": "scene",
+                    "text": "Funbox South",
+                    "sceneId": "funbox-south"
+                },
+                {
+                    "pitch": -3.1009921639875975,
+                    "yaw": -112.28573214360514,
+                    "type": "scene",
+                    "text": "On Funbox",
+                    "sceneId": "on-funbox"
+                },
+                {
+                    "pitch": -4.173320465682044,
+                    "yaw": 126.03915567095846,
+                    "type": "scene",
+                    "text": "Cool Graffiti",
+                    "sceneId": "cool-graffiti"
+                }
+            ]
+        },
+        "big-bank": {
+            "title": "Big Bank",
+            "panorama": "./tmp/big-bank.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.256968151954923,
+                    "yaw": -58.35400791062339,
+                    "type": "scene",
+                    "text": "Ledge Box",
+                    "sceneId": "ledge-box"
+                },
+                {
+                    "pitch": -7.113715890629149,
+                    "yaw": 38.0347472184901,
+                    "type": "scene",
+                    "text": "On Funbox",
+                    "sceneId": "on-funbox"
+                },
+                {
+                    "pitch": -8.297574074733628,
+                    "yaw": 10.269699118719341,
+                    "type": "scene",
+                    "text": "Funbox Long Ledge",
+                    "sceneId": "funbox-long-ledge"
+                }
+            ]
+        },
+        "cool-graffiti": {
+            "title": "Cool Graffiti",
+            "panorama": "./tmp/cool-graffiti.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0.8834354191484959,
+                    "yaw": 58.72885150490862,
+                    "type": "scene",
+                    "text": "Picnic Table",
+                    "sceneId": "picnic-table"
+                },
+                {
+                    "pitch": 0.08182347287712526,
+                    "yaw": 82.06819002432572,
+                    "type": "scene",
+                    "text": "Bank to Ledge",
+                    "sceneId": "bank-to-ledge"
+                }
+            ]
+        },
+        "funbox-long-ledge": {
+            "title": "Funbox Long Ledge",
+            "panorama": "./tmp/funbox-long-ledge.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 1.4533219722141404,
+                    "yaw": 46.92289681269221,
+                    "type": "scene",
+                    "text": "Big Bank",
+                    "sceneId": "big-bank"
+                },
+                {
+                    "pitch": -4.38228374308683,
+                    "yaw": -27.085097184668175,
+                    "type": "scene",
+                    "text": "On Funbox",
+                    "sceneId": "on-funbox"
+                },
+                {
+                    "pitch": -6.793921851602762,
+                    "yaw": -55.24097257470976,
+                    "type": "scene",
+                    "text": "Funbox South",
+                    "sceneId": "funbox-south"
+                },
+                {
+                    "pitch": 0.15587655988379745,
+                    "yaw": -76.16543778309675,
+                    "type": "scene",
+                    "text": "On Bank to Ledge",
+                    "sceneId": "on-bank-to-ledge"
+                },
+                {
+                    "pitch": -0.9009060429581713,
+                    "yaw": 166.19156343053876,
+                    "type": "scene",
+                    "text": "Rainbow Rail",
+                    "sceneId": "rainbow-rail"
+                },
+                {
+                    "pitch": 0.5244766244504547,
+                    "yaw": 145.96434105121898,
+                    "type": "scene",
+                    "text": "Mo Rails Mo Problems",
+                    "sceneId": "mo-rails-mo-problems"
+                },
+                {
+                    "pitch": -4.834059500336254,
+                    "yaw": -164.31277372914045,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                }
+            ]
+        },
+        "funbox-south": {
+            "title": "Funbox South",
+            "panorama": "./tmp/funbox-south.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -8.405061886937116,
+                    "yaw": -51.56622219793276,
+                    "type": "scene",
+                    "text": "On Funbox",
+                    "sceneId": "on-funbox"
+                },
+                {
+                    "pitch": -5.834442841636935,
+                    "yaw": -130.10870997765716,
+                    "type": "scene",
+                    "text": "Picnic Table",
+                    "sceneId": "picnic-table"
+                },
+                {
+                    "pitch": -9.299561465733026,
+                    "yaw": 183.71379566567546,
+                    "type": "scene",
+                    "text": "Bank to Ledge",
+                    "sceneId": "bank-to-ledge"
+                },
+                {
+                    "pitch": -1.4821227894719369,
+                    "yaw": 145.42590512906975,
+                    "type": "scene",
+                    "text": "On Bank to Ledge",
+                    "sceneId": "on-bank-to-ledge"
+                },
+                {
+                    "pitch": -1.4102386038592052,
+                    "yaw": 45.62103386305121,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                },
+                {
+                    "pitch": -4.513904023694571,
+                    "yaw": 7.246933045514423,
+                    "type": "scene",
+                    "text": "Funbox Long Ledge",
+                    "sceneId": "funbox-long-ledge"
+                }
+            ]
+        },
+        "ledge-box": {
+            "title": "Ledge Box",
+            "panorama": "./tmp/ledge-box.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.277252796488253,
+                    "yaw": -17.679808816005494,
+                    "type": "scene",
+                    "text": "Mo Rails Mo Problems",
+                    "sceneId": "mo-rails-mo-problems"
+                },
+                {
+                    "pitch": -0.9531791621386796,
+                    "yaw": -2.3157076616205425,
+                    "type": "scene",
+                    "text": "Rainbow Rail",
+                    "sceneId": "rainbow-rail"
+                },
+                {
+                    "pitch": -3.7231820550206405,
+                    "yaw": 28.426180534221672,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                },
+                {
+                    "pitch": -2.849179423515921,
+                    "yaw": 117.8523540231777,
+                    "type": "scene",
+                    "text": "Big Bank",
+                    "sceneId": "big-bank"
+                }
+            ]
+        },
+        "manny-pad": {
+            "title": "Manny Pad",
+            "panorama": "./tmp/manny-pad.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -0.20811420298174416,
+                    "yaw": 36.36133674310126,
+                    "type": "scene",
+                    "text": "On Bank to Ledge",
+                    "sceneId": "on-bank-to-ledge"
+                },
+                {
+                    "pitch": -7.613894612424015,
+                    "yaw": 93.63379781722278,
+                    "type": "scene",
+                    "text": "Funbox Long Ledge",
+                    "sceneId": "funbox-long-ledge"
+                },
+                {
+                    "pitch": -5.36049057325709,
+                    "yaw": 62.243207232345625,
+                    "type": "scene",
+                    "text": "Funbox South",
+                    "sceneId": "funbox-south"
+                },
+                {
+                    "pitch": -2.451070407320939,
+                    "yaw": 79.14879122954778,
+                    "type": "scene",
+                    "text": "On Funbox",
+                    "sceneId": "on-funbox"
+                },
+                {
+                    "pitch": -3.4675672169125233,
+                    "yaw": -154.91568794526472,
+                    "type": "scene",
+                    "text": "Rainbow Rail",
+                    "sceneId": "rainbow-rail"
+                },
+                {
+                    "pitch": -0.41494163853381316,
+                    "yaw": 190.25571909699394,
+                    "type": "scene",
+                    "text": "Mo Rails Mo Problems",
+                    "sceneId": "mo-rails-mo-problems"
+                },
+                {
+                    "pitch": -3.513185322405192,
+                    "yaw": 159.84075049696207,
+                    "type": "scene",
+                    "text": "Ledge Box",
+                    "sceneId": "ledge-box"
+                }
+            ]
+        },
+        "mo-rails-mo-problems": {
+            "title": "Mo Rails Mo Problems",
+            "panorama": "./tmp/mo-rails-mo-problems.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -8.801115365455974,
+                    "yaw": -51.5629898843328,
+                    "type": "scene",
+                    "text": "Ledge Box",
+                    "sceneId": "ledge-box"
+                },
+                {
+                    "pitch": -6.905818993147632,
+                    "yaw": -123.4053198429159,
+                    "type": "scene",
+                    "text": "Funbox Long Ledge",
+                    "sceneId": "funbox-long-ledge"
+                },
+                {
+                    "pitch": -9.894566903752688,
+                    "yaw": 158.9514092210923,
+                    "type": "scene",
+                    "text": "Rainbow Rail",
+                    "sceneId": "rainbow-rail"
+                },
+                {
+                    "pitch": -7.624670658032223,
+                    "yaw": -167.8537295246099,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                }
+            ]
+        },
+        "on-bank-to-ledge": {
+            "title": "On Bank to Ledge",
+            "panorama": "./tmp/on-bank-to-ledge.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -14.730684016213779,
+                    "yaw": -59.24111407795923,
+                    "type": "scene",
+                    "text": "Funbox South",
+                    "sceneId": "funbox-south"
+                },
+                {
+                    "pitch": -6.877989018595317,
+                    "yaw": -62.20733625199363,
+                    "type": "scene",
+                    "text": "On Funbox",
+                    "sceneId": "on-funbox"
+                },
+                {
+                    "pitch": -21.626635533374163,
+                    "yaw": -129.94425623497438,
+                    "type": "scene",
+                    "text": "Bank to Ledge",
+                    "sceneId": "bank-to-ledge"
+                },
+                {
+                    "pitch": -4.387548261798186,
+                    "yaw": -30.12785928159392,
+                    "type": "scene",
+                    "text": "Funbox Long Ledge",
+                    "sceneId": "funbox-long-ledge"
+                },
+                {
+                    "pitch": -2.824734820384681,
+                    "yaw": 2.3904625968606936,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                }
+            ]
+        },
+        "on-funbox": {
+            "title": "On Funbox",
+            "panorama": "./tmp/on-funbox.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0.5831935192571036,
+                    "yaw": -52.80658439717563,
+                    "type": "scene",
+                    "text": "Big Bank",
+                    "sceneId": "big-bank"
+                },
+                {
+                    "pitch": -8.057516890580425,
+                    "yaw": -172.47569532483635,
+                    "type": "scene",
+                    "text": "Picnic Table",
+                    "sceneId": "picnic-table"
+                },
+                {
+                    "pitch": -7.968985878707048,
+                    "yaw": 142.4292563707264,
+                    "type": "scene",
+                    "text": "Bank to Ledge",
+                    "sceneId": "bank-to-ledge"
+                },
+                {
+                    "pitch": -1.8452845564105793,
+                    "yaw": 120.47675688719022,
+                    "type": "scene",
+                    "text": "On Bank to Ledge",
+                    "sceneId": "on-bank-to-ledge"
+                },
+                {
+                    "pitch": -1.7413249329609481,
+                    "yaw": 41.79467922064739,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                },
+                {
+                    "pitch": -8.079767869536628,
+                    "yaw": 20.257030946986927,
+                    "type": "scene",
+                    "text": "Funbox Long Ledge",
+                    "sceneId": "funbox-long-ledge"
+                },
+                {
+                    "pitch": -16.61460102093901,
+                    "yaw": 110.882193290323,
+                    "type": "scene",
+                    "text": "Funbox South",
+                    "sceneId": "funbox-south"
+                }
+            ]
+        },
+        "picnic-table": {
+            "title": "Picnic Table",
+            "panorama": "./tmp/picnic-table.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -0.5305113900662465,
+                    "yaw": 29.097944688332575,
+                    "type": "scene",
+                    "text": "On Funbox",
+                    "sceneId": "on-funbox"
+                },
+                {
+                    "pitch": -3.6258464062808193,
+                    "yaw": 48.375151177851066,
+                    "type": "scene",
+                    "text": "Funbox South",
+                    "sceneId": "funbox-south"
+                },
+                {
+                    "pitch": -6.119147551753988,
+                    "yaw": -154.7651324979478,
+                    "type": "scene",
+                    "text": "Cool Graffiti",
+                    "sceneId": "cool-graffiti"
+                }
+            ]
+        },
+        "rainbow-rail": {
+            "title": "Rainbow Rail",
+            "panorama": "./tmp/rainbow-rail.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -6.393306731675813,
+                    "yaw": 130.51756203247186,
+                    "type": "scene",
+                    "text": "Funbox Long Ledge",
+                    "sceneId": "funbox-long-ledge"
+                },
+                {
+                    "pitch": -8.826592459618666,
+                    "yaw": -148.45065899057482,
+                    "type": "scene",
+                    "text": "Mo Rails Mo Problems",
+                    "sceneId": "mo-rails-mo-problems"
+                },
+                {
+                    "pitch": -5.5404396772379085,
+                    "yaw": -169.2446072348848,
+                    "type": "scene",
+                    "text": "Ledge Box",
+                    "sceneId": "ledge-box"
+                },
+                {
+                    "pitch": -9.728313485721106,
+                    "yaw": 92.55692802471941,
+                    "type": "scene",
+                    "text": "Manny Pad",
+                    "sceneId": "manny-pad"
+                },
+                {
+                    "pitch": 6.6059513862253745,
+                    "yaw": 165.66957402774827,
+                    "type": "info",
+                    "text": "Jason Mulligan - Rainbow Rail 50-50!"
+                }
+            ]
+        }
+    }
+}

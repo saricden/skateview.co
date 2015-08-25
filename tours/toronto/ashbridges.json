@@ -9,7 +9,7 @@
     "scenes": {
         "above-bowl": {
             "title": "Above Bowl",
-            "panorama": "./tmp/above-bowl.jpg",
+            "panorama": "https://farm1.staticflickr.com/717/20857174815_b4b5ab0c06_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -9.578605611662516,
@@ -36,7 +36,7 @@
         },
         "bank-to-wallride": {
             "title": "Bank to Wallride",
-            "panorama": "./tmp/bank-to-wallride.jpg",
+            "panorama": "https://farm1.staticflickr.com/701/20830896066_583277513e_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.588977498918954,
@@ -70,7 +70,7 @@
         },
         "bank-transfer": {
             "title": "Bank Transfer",
-            "panorama": "./tmp/bank-transfer.jpg",
+            "panorama": "https://farm1.staticflickr.com/718/20236172233_61217305da_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -7.089006159474638,
@@ -125,7 +125,7 @@
         },
         "benches": {
             "title": "Benches",
-            "panorama": "./tmp/benches.jpg",
+            "panorama": "https://farm1.staticflickr.com/617/20830894716_7220ff6bc4_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.377101664018828,
@@ -159,7 +159,7 @@
         },
         "big-handrail": {
             "title": "Big Handrail",
-            "panorama": "./tmp/big-handrail.jpg",
+            "panorama": "https://farm1.staticflickr.com/592/20864352711_dd38ecaf87_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -5.09694315270826,
@@ -201,7 +201,7 @@
         },
         "big-three-top": {
             "title": "Big Three Top",
-            "panorama": "./tmp/big-three-top.jpg",
+            "panorama": "https://farm1.staticflickr.com/703/20864352051_8799bfd5e4_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 5.635765001766596,
@@ -242,7 +242,7 @@
         },
         "big-three": {
             "title": "Big Three",
-            "panorama": "./tmp/big-three.jpg",
+            "panorama": "https://farm1.staticflickr.com/665/20857182785_4e926e687a_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 0.6561900995642966,
@@ -275,7 +275,7 @@
         },
         "by-the-hill": {
             "title": "By the Hill",
-            "panorama": "./tmp/by-the-hill.jpg",
+            "panorama": "https://farm1.staticflickr.com/708/20669117150_2d23b8077a_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.559178156293541,
@@ -316,7 +316,7 @@
         },
         "double-set-handrail": {
             "title": "Double Set Handrail",
-            "panorama": "./tmp/double-set-handrail.jpg",
+            "panorama": "https://farm1.staticflickr.com/566/20669181928_3849bb3649_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.8159552578678338,
@@ -364,7 +364,7 @@
         },
         "drop-to-bank": {
             "title": "Drop to Bank",
-            "panorama": "./tmp/drop-to-bank.jpg",
+            "panorama": "https://farm1.staticflickr.com/771/20669181488_6a78a0dee6_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -3.890628115343327,
@@ -412,7 +412,7 @@
         },
         "eight-bottom": {
             "title": "Eight Bottom",
-            "panorama": "./tmp/eight-bottom.jpg",
+            "panorama": "https://farm6.staticflickr.com/5802/20669181238_4eed3b800b_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 4.249963403830094,
@@ -467,7 +467,7 @@
         },
         "eight-top": {
             "title": "Eight Top",
-            "panorama": "./tmp/eight-top.jpg",
+            "panorama": "https://farm6.staticflickr.com/5834/20857180765_184748f8b8_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -18.773052720532238,
@@ -494,7 +494,7 @@
         },
         "flatbar": {
             "title": "Flatbar",
-            "panorama": "./tmp/flatbar.jpg",
+            "panorama": "https://farm1.staticflickr.com/729/20236178363_b1d4b5287c_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -3.243346333760472,
@@ -521,7 +521,7 @@
         },
         "gap-bank": {
             "title": "Gap Bank",
-            "panorama": "./tmp/gap-bank.jpg",
+            "panorama": "https://farm6.staticflickr.com/5807/20234567654_58f635a0d2_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.3337346539024517,
@@ -555,7 +555,7 @@
         },
         "grass-gap": {
             "title": "Grass Gap",
-            "panorama": "./tmp/grass-gap.jpg",
+            "panorama": "https://farm6.staticflickr.com/5707/20669114830_cd31c2033a_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -1.1401593272518369,
@@ -596,7 +596,7 @@
         },
         "hill-stairset": {
             "title": "Hill Stairset",
-            "panorama": "./tmp/hill-stairset.jpg",
+            "panorama": "https://farm6.staticflickr.com/5712/20670426749_5b27bdcbf3_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -7.87970579853067,
@@ -637,7 +637,7 @@
         },
         "little-handrail": {
             "title": "Little Handrail",
-            "panorama": "./tmp/little-handrail.jpg",
+            "panorama": "https://farm1.staticflickr.com/701/20830895406_45de54d0a5_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.184197419424193,
@@ -664,7 +664,7 @@
         },
         "little-rail-top": {
             "title": "Little Rail Top",
-            "panorama": "./tmp/little-rail-top.jpg",
+            "panorama": "https://farm1.staticflickr.com/691/20669178938_370c55c832_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -3.2291099778500785,
@@ -691,7 +691,7 @@
         },
         "lower-bowl": {
             "title": "Lower Bowl",
-            "panorama": "./tmp/lower-bowl.jpg",
+            "panorama": "https://farm6.staticflickr.com/5702/20830900066_923f85e301_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 19.92243464903931,
@@ -711,7 +711,7 @@
         },
         "on-ledges": {
             "title": "On Ledges",
-            "panorama": "./tmp/on-ledges.jpg",
+            "panorama": "https://farm1.staticflickr.com/738/20234565854_77e090beaa_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -10.492181752219194,
@@ -773,7 +773,7 @@
         },
         "plaza-ledges": {
             "title": "Plaza Ledges",
-            "panorama": "./tmp/plaza-ledges.jpg",
+            "panorama": "https://farm6.staticflickr.com/5819/20857177815_5de11d3412_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -1.4155225706220254,
@@ -807,7 +807,7 @@
         },
         "plaza-manny-pad": {
             "title": "Plaza Manny Pad",
-            "panorama": "./tmp/plaza-manny-pad.jpg",
+            "panorama": "https://farm6.staticflickr.com/5738/20670424609_40d273008a_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 0.34320745638576294,
@@ -876,7 +876,7 @@
         },
         "rounded": {
             "title": "Rounded",
-            "panorama": "./tmp/rounded.jpg",
+            "panorama": "https://farm1.staticflickr.com/633/20236175073_4f5eea5b79_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.684882562464097,
@@ -924,7 +924,7 @@
         },
         "teacup-manny": {
             "title": "Teacup Manny",
-            "panorama": "./tmp/teacup-manny.jpg",
+            "panorama": "https://farm1.staticflickr.com/602/20830898116_682cb2a6f4_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.839059361233044,
@@ -965,7 +965,7 @@
         },
         "three-six": {
             "title": "Three Six",
-            "panorama": "./tmp/three-six.jpg",
+            "panorama": "https://farm6.staticflickr.com/5784/20234564234_e07d1c8b0f_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.41881196545637656,
@@ -1013,7 +1013,7 @@
         },
         "tree-ledges": {
             "title": "Tree Ledges",
-            "panorama": "./tmp/tree-ledges.jpg",
+            "panorama": "https://farm6.staticflickr.com/5749/20236174043_24f6143cc1_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -2.7743757128971485,
@@ -1047,7 +1047,7 @@
         },
         "upper-bowl": {
             "title": "Upper Bowl",
-            "panorama": "./tmp/upper-bowl.jpg",
+            "panorama": "https://farm6.staticflickr.com/5618/20830897136_b9f6997dc7_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -16.67937947952204,
@@ -1067,7 +1067,7 @@
         },
         "wallride": {
             "title": "Wallride",
-            "panorama": "./tmp/wallride.jpg",
+            "panorama": "https://farm1.staticflickr.com/774/20857175045_a3478f9f78_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.456761498599674,

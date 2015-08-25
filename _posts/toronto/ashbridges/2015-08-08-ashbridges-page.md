@@ -9,7 +9,7 @@ title:  Ashbridges Skatepark
 city: Toronto
 province: Ontario
 flag:  ca
-bannerImg: /tours/toronto/tmp/banner.jpg
+bannerImg: https://farm1.staticflickr.com/756/20864343101_077cb61616_o.jpg
 
 # Shop Info (optional)
 shopLogo:

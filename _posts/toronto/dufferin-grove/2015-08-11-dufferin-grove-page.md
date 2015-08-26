@@ -9,7 +9,7 @@ title:  Dufferin Grove Skatepark
 city: Toronto
 province: Ontario
 flag:  ca
-bannerImg: /tours/toronto/tmp/banner.jpg
+bannerImg: https://farm6.staticflickr.com/5826/20719011260_5b58ffe8b4_o.jpg
 
 # Shop Info (optional)
 shopLogo:

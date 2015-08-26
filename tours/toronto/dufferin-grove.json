@@ -9,7 +9,7 @@
     "scenes": {
         "big-quarter": {
             "title": "Big Quarter",
-            "panorama": "./tmp/big-quarter.jpg",
+            "panorama": "https://farm6.staticflickr.com/5733/20719015180_1458e3777f_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.525161831241214,
@@ -36,7 +36,7 @@
         },
         "double-hubba-kickers": {
             "title": "Double Hubba Kickers",
-            "panorama": "./tmp/double-hubba-kickers.jpg",
+            "panorama": "https://farm1.staticflickr.com/573/20286038393_074313bf12_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -2.756236806572356,
@@ -84,7 +84,7 @@
         },
         "flatbar": {
             "title": "Flatbar",
-            "panorama": "./tmp/flatbar.jpg",
+            "panorama": "https://farm1.staticflickr.com/651/20907062625_e144bb579a_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.995920996186744,
@@ -118,7 +118,7 @@
         },
         "garbage-can": {
             "title": "Garbage Can",
-            "panorama": "./tmp/garbage-can.jpg",
+            "panorama": "https://farm1.staticflickr.com/742/20880787976_bfc234c84c_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -5.120167236388978,
@@ -159,7 +159,7 @@
         },
         "ghetto-kicker": {
             "title": "Ghetto Kicker",
-            "panorama": "./tmp/ghetto-kicker.jpg",
+            "panorama": "https://farm1.staticflickr.com/692/20286037283_01d3954d86_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -6.808582807671963,
@@ -200,7 +200,7 @@
         },
         "little-quarter": {
             "title": "Little Quarter",
-            "panorama": "./tmp/little-quarter.jpg",
+            "panorama": "https://farm6.staticflickr.com/5639/20719013280_797d7d46e9_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.016966097162194,
@@ -227,7 +227,7 @@
         },
         "long-box": {
             "title": "Long Box",
-            "panorama": "./tmp/long-box.jpg",
+            "panorama": "https://farm6.staticflickr.com/5788/20720307439_728ed9c8a7_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -7.341267654325154,
@@ -261,7 +261,7 @@
         },
         "mini-spine": {
             "title": "Mini Spine",
-            "panorama": "./tmp/mini-spine.jpg",
+            "panorama": "https://farm1.staticflickr.com/587/20907060435_40dfeb6eda_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.144950462204105,
@@ -302,7 +302,7 @@
         },
         "rail-kicker": {
             "title": "Rail Kicker",
-            "panorama": "./tmp/rail-kicker.jpg",
+            "panorama": "https://farm6.staticflickr.com/5820/20719102608_a920673e82_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -5.366680441951791,
@@ -336,7 +336,7 @@
         },
         "rails-and-box": {
             "title": "Rails and Box",
-            "panorama": "./tmp/rails-and-box.jpg",
+            "panorama": "https://farm1.staticflickr.com/650/20719102158_0b2512ea09_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.918691252940278,
@@ -370,7 +370,7 @@
         },
         "rough-quarter": {
             "title": "Rough Quarter",
-            "panorama": "./tmp/rough-quarter.jpg",
+            "panorama": "https://farm1.staticflickr.com/764/20286034693_ac1a197628_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -6.768434126621077,

@@ -9,7 +9,7 @@
     "scenes": {
         "bank-to-ledge": {
             "title": "Bank to Ledge",
-            "panorama": "./tmp/bank-to-ledge.jpg",
+            "panorama": "https://farm6.staticflickr.com/5751/20703973220_45ec477f25_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 1.1000914624800155,
@@ -43,7 +43,7 @@
         },
         "big-bank": {
             "title": "Big Bank",
-            "panorama": "./tmp/big-bank.jpg",
+            "panorama": "https://farm6.staticflickr.com/5628/20704056698_827ce41fe2_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.256968151954923,
@@ -70,7 +70,7 @@
         },
         "cool-graffiti": {
             "title": "Cool Graffiti",
-            "panorama": "./tmp/cool-graffiti.jpg",
+            "panorama": "https://farm6.staticflickr.com/5760/20271015653_d306cd55ba_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 0.8834354191484959,
@@ -90,7 +90,7 @@
         },
         "funbox-long-ledge": {
             "title": "Funbox Long Ledge",
-            "panorama": "./tmp/funbox-long-ledge.jpg",
+            "panorama": "https://farm6.staticflickr.com/5622/20892030875_f35079f9f1_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 1.4533219722141404,
@@ -145,7 +145,7 @@
         },
         "funbox-south": {
             "title": "Funbox South",
-            "panorama": "./tmp/funbox-south.jpg",
+            "panorama": "https://farm6.staticflickr.com/5815/20271020153_c4c762a2c2_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -8.405061886937116,
@@ -193,7 +193,7 @@
         },
         "ledge-box": {
             "title": "Ledge Box",
-            "panorama": "./tmp/ledge-box.jpg",
+            "panorama": "https://farm6.staticflickr.com/5831/20269436984_91d0dd518c_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -4.277252796488253,
@@ -227,7 +227,7 @@
         },
         "manny-pad": {
             "title": "Manny Pad",
-            "panorama": "./tmp/manny-pad.jpg",
+            "panorama": "https://farm6.staticflickr.com/5728/20899296221_4b92a77212_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.20811420298174416,
@@ -282,7 +282,7 @@
         },
         "mo-rails-mo-problems": {
             "title": "Mo Rails Mo Problems",
-            "panorama": "./tmp/mo-rails-mo-problems.jpg",
+            "panorama": "https://farm6.staticflickr.com/5798/20899295891_2b3b2f9dd2_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -8.801115365455974,
@@ -316,7 +316,7 @@
         },
         "on-bank-to-ledge": {
             "title": "On Bank to Ledge",
-            "panorama": "./tmp/on-bank-to-ledge.jpg",
+            "panorama": "https://farm6.staticflickr.com/5735/20882343412_2420d69d40_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -14.730684016213779,
@@ -357,7 +357,7 @@
         },
         "on-funbox": {
             "title": "On Funbox",
-            "panorama": "./tmp/on-funbox.jpg",
+            "panorama": "https://farm6.staticflickr.com/5652/20269435414_1a3c66329b_o.jpg",
             "hotSpots": [
                 {
                     "pitch": 0.5831935192571036,
@@ -412,7 +412,7 @@
         },
         "picnic-table": {
             "title": "Picnic Table",
-            "panorama": "./tmp/picnic-table.jpg",
+            "panorama": "https://farm6.staticflickr.com/5811/20865755736_fcf0167030_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -0.5305113900662465,
@@ -439,7 +439,7 @@
         },
         "rainbow-rail": {
             "title": "Rainbow Rail",
-            "panorama": "./tmp/rainbow-rail.jpg",
+            "panorama": "https://farm1.staticflickr.com/657/20271017843_86cfd6936f_o.jpg",
             "hotSpots": [
                 {
                     "pitch": -6.393306731675813,

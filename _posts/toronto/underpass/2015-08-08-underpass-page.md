@@ -9,7 +9,7 @@ title:  Underpass Skatepark
 city: Toronto
 province: Ontario
 flag:  ca
-bannerImg: /tours/toronto/tmp/banner.jpg
+bannerImg: https://farm1.staticflickr.com/752/20703971800_6e3c14d807_o.jpg
 
 # Shop Info (optional)
 shopLogo:

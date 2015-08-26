@@ -1,0 +1,399 @@
+{
+    "default": {
+        "author": "Kirk M.",
+        "firstScene": "entrance",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+    
+    "scenes": {
+        "big-quarter": {
+            "title": "Big Quarter",
+            "panorama": "./tmp/big-quarter.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.525161831241214,
+                    "yaw": -139.69062743721017,
+                    "type": "scene",
+                    "text": "Rails and Box",
+                    "sceneId": "rails-and-box"
+                },
+                {
+                    "pitch": -4.94837744867379,
+                    "yaw": -121.3686476466832,
+                    "type": "scene",
+                    "text": "Rail Kicker",
+                    "sceneId": "rail-kicker"
+                },
+                {
+                    "pitch": -2.8137473111830715,
+                    "yaw": -110.91169840110733,
+                    "type": "scene",
+                    "text": "Double Hubba Kickers",
+                    "sceneId": "double-hubba-kickers"
+                }
+            ]
+        },
+        "double-hubba-kickers": {
+            "title": "Double Hubba Kickers",
+            "panorama": "./tmp/double-hubba-kickers.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2.756236806572356,
+                    "yaw": -25.16706994835063,
+                    "type": "scene",
+                    "text": "Big Quarter",
+                    "sceneId": "big-quarter"
+                },
+                {
+                    "pitch": -3.6021784536662156,
+                    "yaw": 9.59037314047422,
+                    "type": "scene",
+                    "text": "Rails and Box",
+                    "sceneId": "rails-and-box"
+                },
+                {
+                    "pitch": -6.623955194061478,
+                    "yaw": -3.3795277737997047,
+                    "type": "scene",
+                    "text": "Rail Kicker",
+                    "sceneId": "rail-kicker"
+                },
+                {
+                    "pitch": -5.803171960785454,
+                    "yaw": 70.00066000754727,
+                    "type": "scene",
+                    "text": "Garbage Can",
+                    "sceneId": "garbage-can"
+                },
+                {
+                    "pitch": -3.3520597498618008,
+                    "yaw": 145.49020404941194,
+                    "type": "scene",
+                    "text": "Mini Spine",
+                    "sceneId": "mini-spine"
+                },
+                {
+                    "pitch": -2.548168605447521,
+                    "yaw": 122.6819154075816,
+                    "type": "scene",
+                    "text": "Long Box",
+                    "sceneId": "long-box"
+                }
+            ]
+        },
+        "flatbar": {
+            "title": "Flatbar",
+            "panorama": "./tmp/flatbar.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.995920996186744,
+                    "yaw": -98.39063317740833,
+                    "type": "scene",
+                    "text": "Mini Spine",
+                    "sceneId": "mini-spine"
+                },
+                {
+                    "pitch": -5.236778818120099,
+                    "yaw": -26.1626921890231,
+                    "type": "scene",
+                    "text": "Ghetto Kicker",
+                    "sceneId": "ghetto-kicker"
+                },
+                {
+                    "pitch": -3.2440528333767067,
+                    "yaw": 17.018886731564077,
+                    "type": "scene",
+                    "text": "Little Quarter",
+                    "sceneId": "little-quarter"
+                },
+                {
+                    "pitch": -6.733975849310867,
+                    "yaw": 71.90162827764043,
+                    "type": "scene",
+                    "text": "Rough Quarter",
+                    "sceneId": "rough-quarter"
+                }
+            ]
+        },
+        "garbage-can": {
+            "title": "Garbage Can",
+            "panorama": "./tmp/garbage-can.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -5.120167236388978,
+                    "yaw": 33.10418815947011,
+                    "type": "scene",
+                    "text": "Double Hubba Kickers",
+                    "sceneId": "double-hubba-kickers"
+                },
+                {
+                    "pitch": -4.1598837825949175,
+                    "yaw": 83.01120719142143,
+                    "type": "scene",
+                    "text": "Rail Kicker",
+                    "sceneId": "rail-kicker"
+                },
+                {
+                    "pitch": -4.982470882308185,
+                    "yaw": 104.43919742045836,
+                    "type": "scene",
+                    "text": "Rails and Box",
+                    "sceneId": "rails-and-box"
+                },
+                {
+                    "pitch": -1.7896571574349822,
+                    "yaw": -66.86041553046614,
+                    "type": "scene",
+                    "text": "Long Box",
+                    "sceneId": "long-box"
+                },
+                {
+                    "pitch": -2.691345775612649,
+                    "yaw": -39.066589478675446,
+                    "type": "scene",
+                    "text": "Mini Spine",
+                    "sceneId": "mini-spine"
+                }
+            ]
+        },
+        "ghetto-kicker": {
+            "title": "Ghetto Kicker",
+            "panorama": "./tmp/ghetto-kicker.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -6.808582807671963,
+                    "yaw": 46.9771695894502,
+                    "type": "scene",
+                    "text": "Long Box",
+                    "sceneId": "long-box"
+                },
+                {
+                    "pitch": -4.612420356229647,
+                    "yaw": -49.8356612349495,
+                    "type": "scene",
+                    "text": "Flatbar",
+                    "sceneId": "flatbar"
+                },
+                {
+                    "pitch": -6.798589190488779,
+                    "yaw": -141.92923958071037,
+                    "type": "scene",
+                    "text": "Little Quarter",
+                    "sceneId": "little-quarter"
+                },
+                {
+                    "pitch": -3.4462569369507055,
+                    "yaw": -91.60062115618405,
+                    "type": "scene",
+                    "text": "Rough Quarter",
+                    "sceneId": "rough-quarter"
+                },
+                {
+                    "pitch": -1.594760728446948,
+                    "yaw": 2.2483202917461433,
+                    "type": "scene",
+                    "text": "Mini Spine",
+                    "sceneId": "mini-spine"
+                }
+            ]
+        },
+        "little-quarter": {
+            "title": "Little Quarter",
+            "panorama": "./tmp/little-quarter.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.016966097162194,
+                    "yaw": 15.377939655418121,
+                    "type": "scene",
+                    "text": "Rough Quarter",
+                    "sceneId": "rough-quarter"
+                },
+                {
+                    "pitch": -2.7176330318469675,
+                    "yaw": 63.59370875682757,
+                    "type": "scene",
+                    "text": "Flatbar",
+                    "sceneId": "flatbar"
+                },
+                {
+                    "pitch": -5.748826555050497,
+                    "yaw": 103.95089514847872,
+                    "type": "scene",
+                    "text": "Ghetto Kicker",
+                    "sceneId": "ghetto-kicker"
+                }
+            ]
+        },
+        "long-box": {
+            "title": "Long Box",
+            "panorama": "./tmp/long-box.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -7.341267654325154,
+                    "yaw": -20.4749572404471,
+                    "type": "scene",
+                    "text": "Ghetto Kicker",
+                    "sceneId": "ghetto-kicker"
+                },
+                {
+                    "pitch": -8.543469151345612,
+                    "yaw": 62.18620509739665,
+                    "type": "scene",
+                    "text": "Mini Spine",
+                    "sceneId": "mini-spine"
+                },
+                {
+                    "pitch": -3.3459187895412525,
+                    "yaw": 119.9070219958914,
+                    "type": "scene",
+                    "text": "Double Hubba Kickers",
+                    "sceneId": "double-hubba-kickers"
+                },
+                {
+                    "pitch": -4.454555416900439,
+                    "yaw": 150.04556268666076,
+                    "type": "scene",
+                    "text": "Garbage Can",
+                    "sceneId": "garbage-can"
+                }
+            ]
+        },
+        "mini-spine": {
+            "title": "Mini Spine",
+            "panorama": "./tmp/mini-spine.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.144950462204105,
+                    "yaw": -73.77902774464498,
+                    "type": "scene",
+                    "text": "Flatbar",
+                    "sceneId": "flatbar"
+                },
+                {
+                    "pitch": -5.617730444058117,
+                    "yaw": -123.84070804690387,
+                    "type": "scene",
+                    "text": "Ghetto Kicker",
+                    "sceneId": "ghetto-kicker"
+                },
+                {
+                    "pitch": -9.247307549716897,
+                    "yaw": 186.8735253202317,
+                    "type": "scene",
+                    "text": "Long Box",
+                    "sceneId": "long-box"
+                },
+                {
+                    "pitch": -3.127416145200954,
+                    "yaw": 78.62464757488424,
+                    "type": "scene",
+                    "text": "Double Hubba Kickers",
+                    "sceneId": "double-hubba-kickers"
+                },
+                {
+                    "pitch": -3.9466292479741325,
+                    "yaw": 115.10591822104708,
+                    "type": "scene",
+                    "text": "Garbage Can",
+                    "sceneId": "garbage-can"
+                }
+            ]
+        },
+        "rail-kicker": {
+            "title": "Rail Kicker",
+            "panorama": "./tmp/rail-kicker.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -5.366680441951791,
+                    "yaw": 124.23200050360751,
+                    "type": "scene",
+                    "text": "Big Quarter",
+                    "sceneId": "big-quarter"
+                },
+                {
+                    "pitch": -12.147532357960579,
+                    "yaw": -143.00237931194238,
+                    "type": "scene",
+                    "text": "Rails and Box",
+                    "sceneId": "rails-and-box"
+                },
+                {
+                    "pitch": -4.627923779484309,
+                    "yaw": -85.10739333152524,
+                    "type": "scene",
+                    "text": "Garbage Can",
+                    "sceneId": "garbage-can"
+                },
+                {
+                    "pitch": -6.640052094124585,
+                    "yaw": -23.14681843266434,
+                    "type": "scene",
+                    "text": "Double Hubba Kickers",
+                    "sceneId": "double-hubba-kickers"
+                }
+            ]
+        },
+        "rails-and-box": {
+            "title": "Rails and Box",
+            "panorama": "./tmp/rails-and-box.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.918691252940278,
+                    "yaw": -29.404810682000093,
+                    "type": "scene",
+                    "text": "Garbage Can",
+                    "sceneId": "garbage-can"
+                },
+                {
+                    "pitch": -3.977542627511814,
+                    "yaw": 30.923421203263977,
+                    "type": "scene",
+                    "text": "Double Hubba Kickers",
+                    "sceneId": "double-hubba-kickers"
+                },
+                {
+                    "pitch": -9.844048776906572,
+                    "yaw": 72.5866650637124,
+                    "type": "scene",
+                    "text": "Rail Kicker",
+                    "sceneId": "rail-kicker"
+                },
+                {
+                    "pitch": -5.5088390556117535,
+                    "yaw": 130.91459380303658,
+                    "type": "scene",
+                    "text": "Big Quarter",
+                    "sceneId": "big-quarter"
+                }
+            ]
+        },
+        "rough-quarter": {
+            "title": "Rough Quarter",
+            "panorama": "./tmp/rough-quarter.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -6.768434126621077,
+                    "yaw": 62.52027392416725,
+                    "type": "scene",
+                    "text": "Flatbar",
+                    "sceneId": "flatbar"
+                },
+                {
+                    "pitch": -3.2833205658494475,
+                    "yaw": 97.302852071379,
+                    "type": "scene",
+                    "text": "Ghetto Kicker",
+                    "sceneId": "ghetto-kicker"
+                },
+                {
+                    "pitch": -5.9892631503439855,
+                    "yaw": 147.19404875364503,
+                    "type": "scene",
+                    "text": "Little Quarter",
+                    "sceneId": "little-quarter"
+                }
+            ]
+        }
+    }
+}

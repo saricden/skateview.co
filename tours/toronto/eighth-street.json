@@ -1,0 +1,541 @@
+{
+    "default": {
+        "author": "Kirk M.",
+        "firstScene": "entrance",
+        "sceneFadeDuration": 500,
+        "autoLoad": true
+    },
+
+    "scenes": {
+        "above-bowl": {
+            "title": "Above Bowl",
+            "panorama": "./tmp/above-bowl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -41.1638121409334,
+                    "yaw": -97.47981425377026,
+                    "type": "scene",
+                    "text": "Lower Bowl",
+                    "sceneId": "lower-bowl"
+                },
+                {
+                    "pitch": -17.851325746693483,
+                    "yaw": -87.75704822051514,
+                    "type": "scene",
+                    "text": "Upper Bowl",
+                    "sceneId": "upper-bowl"
+                },
+                {
+                    "pitch": -8.233045326883477,
+                    "yaw": -115.83890879703671,
+                    "type": "scene",
+                    "text": "Bowlside Double Ledges",
+                    "sceneId": "bowlside-double-ledges"
+                },
+                {
+                    "pitch": -9.212618568662352,
+                    "yaw": -29.528800085855877,
+                    "type": "scene",
+                    "text": "Long Three",
+                    "sceneId": "long-three"
+                },
+                {
+                    "pitch": -7.828931403095072,
+                    "yaw": 20.17622753219903,
+                    "type": "scene",
+                    "text": "Big Three Set",
+                    "sceneId": "big-three-set"
+                },
+                {
+                    "pitch": -3.9576707925109873,
+                    "yaw": 54.632428553654606,
+                    "type": "scene",
+                    "text": "Double Ledge",
+                    "sceneId": "double-ledge"
+                }
+            ]
+        },
+        "banked-ledge": {
+            "title": "Banked Ledge",
+            "panorama": "./tmp/banked-ledge.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -11.604017971692084,
+                    "yaw": 80.52271163623735,
+                    "type": "scene",
+                    "text": "Entrance Roller",
+                    "sceneId": "entrance-roller"
+                },
+                {
+                    "pitch": -2.1257027695919506,
+                    "yaw": 20.62613046139797,
+                    "type": "scene",
+                    "text": "Jutty Bank",
+                    "sceneId": "jutty-bank"
+                },
+                {
+                    "pitch": -1.5850570657764835,
+                    "yaw": -17.18339500389731,
+                    "type": "scene",
+                    "text": "Bump",
+                    "sceneId": "bump"
+                },
+                {
+                    "pitch": -3.1892939089447085,
+                    "yaw": -60.41502927222119,
+                    "type": "scene",
+                    "text": "Eight Set Bank",
+                    "sceneId": "eight-set-bank"
+                }
+            ]
+        },
+        "big-three-set": {
+            "title": "Big Three Set",
+            "panorama": "./tmp/big-three-set.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -7.749769046931103,
+                    "yaw": -50.59967080010835,
+                    "type": "scene",
+                    "text": "Long Three",
+                    "sceneId": "long-three"
+                },
+                {
+                    "pitch": 0.3063830772739535,
+                    "yaw": -122.92855005369951,
+                    "type": "scene",
+                    "text": "Above Bowl",
+                    "sceneId": "above-bowl"
+                },
+                {
+                    "pitch": -4.121160849951141,
+                    "yaw": 140.28985335278955,
+                    "type": "scene",
+                    "text": "Double Ledge",
+                    "sceneId": "double-ledge"
+                },
+                {
+                    "pitch": -1.4520483255574668,
+                    "yaw": 76.49227430001706,
+                    "type": "scene",
+                    "text": "Upper Park",
+                    "sceneId": "upper-park"
+                },
+                {
+                    "pitch": -5.814308128257206,
+                    "yaw": -0.8584147771264649,
+                    "type": "scene",
+                    "text": "Kinky Tranny",
+                    "sceneId": "kinky-tranny"
+                },
+                {
+                    "pitch": -6.522682126451388,
+                    "yaw": 39.34276784782087,
+                    "type": "scene",
+                    "text": "Tranny Extension",
+                    "sceneId": "tranny-extension"
+                }
+            ]
+        },
+        "bowlside-double-ledges": {
+            "title": "Bowlside Double Ledges",
+            "panorama": "./tmp/bowlside-double-ledges.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -0.8920690921427884,
+                    "yaw": 70.67442235208112,
+                    "type": "scene",
+                    "text": "Above Bowl",
+                    "sceneId": "above-bowl"
+                }
+            ]
+        },
+        "bump": {
+            "title": "Bump",
+            "panorama": "./tmp/bump.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.442504069847594,
+                    "yaw": 9.847782440465263,
+                    "type": "scene",
+                    "text": "Eight Set Bank",
+                    "sceneId": "eight-set-bank"
+                },
+                {
+                    "pitch": -4.498667684450829,
+                    "yaw": -82.8958465716317,
+                    "type": "scene",
+                    "text": "Entrance Roller",
+                    "sceneId": "entrance-roller"
+                },
+                {
+                    "pitch": -3.671025101889893,
+                    "yaw": -62.410697344249826,
+                    "type": "scene",
+                    "text": "Banked Ledge",
+                    "sceneId": "banked-ledge"
+                },
+                {
+                    "pitch": -8.19797632583964,
+                    "yaw": -143.21901000510678,
+                    "type": "scene",
+                    "text": "Jutty Bank",
+                    "sceneId": "jutty-bank"
+                },
+                {
+                    "pitch": -5.385748977970515,
+                    "yaw": 71.69859319454464,
+                    "type": "scene",
+                    "text": "Corner Hip",
+                    "sceneId": "corner-hip"
+                },
+                {
+                    "pitch": 2.188324423860901,
+                    "yaw": 45.899839546390986,
+                    "type": "scene",
+                    "text": "Upper Park",
+                    "sceneId": "upper-park"
+                }
+            ]
+        },
+        "corner-hip": {
+            "title": "Corner Hip",
+            "panorama": "./tmp/corner-hip.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 3.5478855655230417,
+                    "yaw": -2.7008447706390144,
+                    "type": "scene",
+                    "text": "Upper Park",
+                    "sceneId": "upper-park"
+                },
+                {
+                    "pitch": -5.8262099241327014,
+                    "yaw": -69.00634454559946,
+                    "type": "scene",
+                    "text": "Eight Set Bank",
+                    "sceneId": "eight-set-bank"
+                },
+                {
+                    "pitch": -6.8611515382516,
+                    "yaw": -141.2217719360365,
+                    "type": "scene",
+                    "text": "Bump",
+                    "sceneId": "bump"
+                },
+                {
+                    "pitch": -10.330877298132997,
+                    "yaw": 84.4741953243595,
+                    "type": "scene",
+                    "text": "Tranny Extension",
+                    "sceneId": "tranny-extension"
+                }
+            ]
+        },
+        "double-ledge": {
+            "title": "Double Ledge",
+            "panorama": "./tmp/double-ledge.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.7447098918804045,
+                    "yaw": 44.68092619574682,
+                    "type": "scene",
+                    "text": "Upper Park",
+                    "sceneId": "upper-park"
+                },
+                {
+                    "pitch": -7.059285796658467,
+                    "yaw": -38.76675795012382,
+                    "type": "scene",
+                    "text": "Big Three Set",
+                    "sceneId": "big-three-set"
+                },
+                {
+                    "pitch": -0.6835001143514218,
+                    "yaw": -83.4249173301246,
+                    "type": "scene",
+                    "text": "Above Bowl",
+                    "sceneId": "above-bowl"
+                }
+            ]
+        },
+        "eight-set-bank": {
+            "title": "Eight Set Bank",
+            "panorama": "./tmp/eight-set-bank.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -5.63358202196991,
+                    "yaw": 33.250556611194305,
+                    "type": "scene",
+                    "text": "Bump",
+                    "sceneId": "bump"
+                },
+                {
+                    "pitch": -5.316078983960077,
+                    "yaw": 96.093559645279,
+                    "type": "scene",
+                    "text": "Banked Ledge",
+                    "sceneId": "banked-ledge"
+                },
+                {
+                    "pitch": -5.197621191544047,
+                    "yaw": -19.2757101527159,
+                    "type": "scene",
+                    "text": "Corner Hip",
+                    "sceneId": "corner-hip"
+                },
+                {
+                    "pitch": -4.188218269694453,
+                    "yaw": 87.05391730447657,
+                    "type": "scene",
+                    "text": "Entrance Roller",
+                    "sceneId": "entrance-roller"
+                }
+            ]
+        },
+        "entrance-roller": {
+            "title": "Entrance Roller",
+            "panorama": "./tmp/entrance-roller.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -8.713831058974803,
+                    "yaw": -87.27713098907103,
+                    "type": "scene",
+                    "text": "Banked Ledge",
+                    "sceneId": "banked-ledge"
+                },
+                {
+                    "pitch": -1.9507713600856664,
+                    "yaw": -31.09293274275482,
+                    "type": "scene",
+                    "text": "Bump",
+                    "sceneId": "bump"
+                },
+                {
+                    "pitch": -1.5618787494357764,
+                    "yaw": -62.18875439939123,
+                    "type": "scene",
+                    "text": "Eight Set Bank",
+                    "sceneId": "eight-set-bank"
+                }
+            ]
+        },
+        "jutty-bank": {
+            "title": "Jutty Bank",
+            "panorama": "./tmp/jutty-bank.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.313186678772426,
+                    "yaw": -114.90911322374683,
+                    "type": "scene",
+                    "text": "Banked Ledge",
+                    "sceneId": "banked-ledge"
+                },
+                {
+                    "pitch": -5.2143536495674745,
+                    "yaw": -51.75056629567227,
+                    "type": "scene",
+                    "text": "Bump",
+                    "sceneId": "bump"
+                }
+            ]
+        },
+        "kinky-tranny": {
+            "title": "Kinky Tranny",
+            "panorama": "./tmp/kinky-tranny.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.5346132451548105,
+                    "yaw": -48.684207067303035,
+                    "type": "scene",
+                    "text": "Tranny Extension",
+                    "sceneId": "tranny-extension"
+                },
+                {
+                    "pitch": 3.2291176475729113,
+                    "yaw": -23.808593247022124,
+                    "type": "scene",
+                    "text": "Upper Park",
+                    "sceneId": "upper-park"
+                },
+                {
+                    "pitch": 1.0274038464043291,
+                    "yaw": 17.33698768467088,
+                    "type": "scene",
+                    "text": "Big Three Set",
+                    "sceneId": "big-three-set"
+                },
+                {
+                    "pitch": -2.301530979194393,
+                    "yaw": 70.95848325084683,
+                    "type": "scene",
+                    "text": "Long Three",
+                    "sceneId": "long-three"
+                }
+            ]
+        },
+        "long-three": {
+            "title": "Long Three",
+            "panorama": "./tmp/long-three.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -4.375302438700729,
+                    "yaw": -6.234501715467426,
+                    "type": "scene",
+                    "text": "Kinky Tranny",
+                    "sceneId": "kinky-tranny"
+                },
+                {
+                    "pitch": -2.2897308147437343,
+                    "yaw": 19.389899144238434,
+                    "type": "scene",
+                    "text": "Tranny Extension",
+                    "sceneId": "tranny-extension"
+                },
+                {
+                    "pitch": 0.3653394249010818,
+                    "yaw": 70.32675917663975,
+                    "type": "scene",
+                    "text": "Big Three Set",
+                    "sceneId": "big-three-set"
+                },
+                {
+                    "pitch": 3.261394344724661,
+                    "yaw": 125.79987035304217,
+                    "type": "scene",
+                    "text": "Above Bowl",
+                    "sceneId": "above-bowl"
+                }
+            ]
+        },
+        "lower-bowl": {
+            "title": "Lower Bowl",
+            "panorama": "./tmp/lower-bowl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -7.35647367510158,
+                    "yaw": 26.293110521521204,
+                    "type": "scene",
+                    "text": "Upper Bowl",
+                    "sceneId": "upper-bowl"
+                },
+                {
+                    "pitch": 20.200649111217462,
+                    "yaw": -167.26268184970465,
+                    "type": "scene",
+                    "text": "Above Bowl",
+                    "sceneId": "above-bowl"
+                }
+            ]
+        },
+        "tranny-extension": {
+            "title": "Tranny Extension",
+            "panorama": "./tmp/tranny-extension.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -11.090697636358172,
+                    "yaw": -72.44317991282601,
+                    "type": "scene",
+                    "text": "Corner Hip",
+                    "sceneId": "corner-hip"
+                },
+                {
+                    "pitch": 3.7038743680004975,
+                    "yaw": -10.327058383679251,
+                    "type": "scene",
+                    "text": "Upper Park",
+                    "sceneId": "upper-park"
+                },
+                {
+                    "pitch": 0.8602229128830355,
+                    "yaw": 41.24363831960928,
+                    "type": "scene",
+                    "text": "Big Three Set",
+                    "sceneId": "big-three-set"
+                },
+                {
+                    "pitch": -2.1475456811362057,
+                    "yaw": 80.99067942374516,
+                    "type": "scene",
+                    "text": "Long Three",
+                    "sceneId": "long-three"
+                },
+                {
+                    "pitch": -6.036871537533257,
+                    "yaw": 118.82754396974823,
+                    "type": "scene",
+                    "text": "Kinky Tranny",
+                    "sceneId": "kinky-tranny"
+                }
+            ]
+        },
+        "upper-bowl": {
+            "title": "Upper Bowl",
+            "panorama": "./tmp/upper-bowl.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -15.561562810063762,
+                    "yaw": 117.78808544366014,
+                    "type": "scene",
+                    "text": "Lower Bowl",
+                    "sceneId": "lower-bowl"
+                },
+                {
+                    "pitch": 5.76071863873843,
+                    "yaw": 113.71288367765231,
+                    "type": "scene",
+                    "text": "Above Bowl",
+                    "sceneId": "above-bowl"
+                }
+            ]
+        },
+        "upper-park": {
+            "title": "Upper Park",
+            "panorama": "./tmp/upper-park.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -6.545809367214177,
+                    "yaw": -40.681647992866516,
+                    "type": "scene",
+                    "text": "Bump",
+                    "sceneId": "bump"
+                },
+                {
+                    "pitch": -14.872422688529381,
+                    "yaw": -67.5009747768018,
+                    "type": "scene",
+                    "text": "Corner Hip",
+                    "sceneId": "corner-hip"
+                },
+                {
+                    "pitch": -13.027148470648829,
+                    "yaw": -99.93767163996175,
+                    "type": "scene",
+                    "text": "Tranny Extension",
+                    "sceneId": "tranny-extension"
+                },
+                {
+                    "pitch": -8.201751939358047,
+                    "yaw": -192.08357582274812,
+                    "type": "scene",
+                    "text": "Big Three Set",
+                    "sceneId": "big-three-set"
+                },
+                {
+                    "pitch": -6.798178633085815,
+                    "yaw": 123.56907531073256,
+                    "type": "scene",
+                    "text": "Double Ledge",
+                    "sceneId": "double-ledge"
+                },
+                {
+                    "pitch": -7.690774564130536,
+                    "yaw": -130.2861361445779,
+                    "type": "scene",
+                    "text": "Kinky Tranny",
+                    "sceneId": "kinky-tranny"
+                }
+            ]
+        }
+    }
+}
